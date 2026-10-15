@@ -1,0 +1,37 @@
+claim_id,claim,source_keys,source_access,verification_status,caveat
+C01,Placebo-adjusted weight loss with sema 2.4 is -12.4 pp without diabetes vs -6.2 pp with T2D,STEP1; STEP2,abstract + STEP1 full text,verified,between-trial comparison
+C02,Across 8 matched comparisons T2D/no-T2D ETD ratio median 0.62 (0.50-0.78),Table 1 sources,derived (analysis/derived.py),verified calculation,pairs not independent; between-trial
+C03,"STEP-HFpEF pooled IPD heterogeneity for weight p<0.0001, I2 95.8%; ~40% less weight loss in T2D",HFpEF_POOL,PMC full text,verified,diabetes not randomised
+C04,Placebo-arm weight change not smaller in T2D trials,"STEP1/2, SURMOUNT1/2, ATTAIN1/2, REDEFINE1/2, STEP-HFpEF/DM",abstracts,verified,MariTide placebo -1.7 vs -2.5 is the exception
+C05,Prediabetes subgroup in STEP 1 lost 13.7% (ETD -11.31); implied normoglycaemic ~15.9%,PERREAULT2022; STEP1,PMC full text + derived,verified (derived value approximate),weighted-mean assumption
+C06,GI AEs 72.5% (REDEFINE 2) vs 79.6% (REDEFINE 1); AE discontinuations similar ATTAIN-1/2,REDEFINE1/2; ATTAIN1/2,abstracts,verified,
+C07,SURMOUNT-2 efficacy-estimand ETD -10.1/-12.4,SURMOUNT2,full text,verified,
+C08,Semaglutide exposure determined chiefly by body weight (T2D popPK),CARLSSON2018; OVERGAARD2021,abstracts,verified,T2D-only data; cross-population exposure not compared
+C09,Strathe model used baseline HbA1c as covariate; effect size not verified,STRATHE2023,abstract,partially verified,full text not retrievable (Wiley 403)
+C10,Incretin effect 36% (T2D) vs 73% (controls),NAUCK1986,abstract,verified,
+C11,Reduced incretin effect is a consequence of the diabetic state,KNOP2007; HOJBERG2009,abstracts,verified (as authors' interpretation),
+C12,"GLP-1 insulinotropic activity preserved, GIP reduced 54% in mild T2D",NAUCK1993,abstract,verified,"mild T2D, HbA1c 6.3%"
+C13,Appetite/intake suppressed by GLP-1 agonism in T2D,GUTZWILLER1999; FLINT2013; HEISE2023; VANBLOEMENDAAL2014,abstracts,verified,
+C14,No study compares appetite suppression magnitude by diabetes status under matched conditions,search (PubMed),search negative,not found,absence-of-evidence claim; limited by search scope
+C15,Tirz vs sema in T2D: intake did not differ despite greater weight loss,HEISE2023,abstract,verified,single test meal
+C16,Hypothalamic gliosis greater in IGT/T2D,ROSENBAUM2022,abstract,verified,association
+C17,GE slowing subject to tachyphylaxis,NAUCK2011; UMAPATHYSIVAM2014,abstracts,verified,contradicted in part by JONES2020 (exenatide QW)
+C18,GIP does not augment GLP-1 intake suppression in humans,BERGMANN2019,abstract,verified,"acute infusion, no T2D"
+C19,"Attenuation ratio similar across GIPR agonist, antagonist and GLP-1-only agents",Table 1,derived,verified calculation,between-trial
+C20,Isocaloric carb restriction lowers insulin but not more fat loss,HALL2015,abstract,verified,6-day ward study
+C21,"No human T2D study measured muscle glucose uptake, oxidation, glycogen and total EE together during incretin therapy",search (PubMed),search negative,not found,absence-of-evidence claim
+C22,Glycogen-water shifts could change weight independent of fat,general physiology,inference,unsourced hypothesis,labelled as inference in text
+C23,"UKPDS: insulin +4.0 kg, SU +1.7-2.6 kg",UKPDS33,abstract,verified,DOI derived from PII
+C24,Lira 3.0 ETD -4.3 in insulin-treated T2D vs -4.0 without insulin,SCALE_INSULIN; SCALE_DM,abstracts,verified,IBT in SCALE Insulin
+C25,UGE 0.06->0.77 mmol/min at 7.8->13.3 mM; threshold 7.7-12.2,RAVE2006,abstract,verified,
+C26,Sulfonylurea: UGE 128->11 g/d; RMR fall; intake cut to hold weight,BOGARDUS1986,abstract,verified,"Pima, FPG 253 mg/dL"
+C27,Intensive insulin: glycosuria 428->39 mmol/d; EE -118 kcal/d; +2.6 kg fat,CARLSON1993,abstract,verified,T1D
+C28,Improved glycaemia lowers BMR (independent determinant),MAKIMATTILA1999,abstract,verified,authors' conclusion
+C29,SGLT2i glycosuria 206 kcal/d; observed weight 29% of predicted; intake +13%,FERRANNINI_G2015,abstract,verified,model-based
+C30,"100 kJ/d -> ~1 kg steady state; half in ~1 y; fat 39.5 MJ/kg, lean 7.6 MJ/kg",HALL2011,PMC full text,verified,
+C31,Scenario offsets ~1 to ~6.7 kg by 68-72 wk,analysis/derived.py,calculation,assumption-driven,inputs not measured in incretin trials
+C32,"Tirz DXA: 75% fat, 25% lean",LOOK2025,abstract,verified,no T2D
+C33,Incretin agonists do not raise EE in humans,BLUNDELL2017; HARDER2004; VANEYK2019; RAVUSSIN2025; GOLUBIC2024,abstracts,verified,REE may fall
+C34,T2D lost less weight than nondiabetic spouses in behavioural programme,WING1987,abstract,verified,n=12 pairs
+C35,Real-world: T2D 7.2% vs 11.8% at 6 mo (sema); no-T2D lost more on both drugs (EHR),GHUSN2022; RODRIGUEZ2024,abstract; PMC full text,verified,observational
+C36,MariTide T2D cohort -8.4 to -12.3% vs obesity -12.3 to -16.2%,MARITIDE2025,abstract,verified,dose arms differ

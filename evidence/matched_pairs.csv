@@ -1,0 +1,9 @@
+agent,dose,weeks,source_noT2D,drug_noT2D,pbo_noT2D,etd_noT2D,source_T2D,drug_T2D,pbo_T2D,etd_T2D,abs_gap_pp,ratio_T2D_to_noT2D,note
+Semaglutide s.c.,2.4 mg weekly,68/68,STEP1,-14.9,-2.4,-12.4,STEP2,-9.6,-3.4,-6.2,6.2,0.5,"Separate trials, same programme, same estimand (treatment policy)"
+Semaglutide s.c. (HFpEF),2.4 mg weekly,52/52,STEPHFpEF,-13.3,-2.6,-10.7,STEPHFpEF_DM,-9.8,-3.4,-6.4,4.3,0.6,Harmonised protocols; prespecified IPD pool; heterogeneity p<0.0001 (I2 95.8%)
+Tirzepatide,10 mg weekly,72/72,SURMOUNT1,-19.5,-3.1,-16.4,SURMOUNT2,-12.8,-3.2,-9.6,6.8,0.59,"Separate trials, same programme, treatment-regimen estimand"
+Tirzepatide,15 mg weekly,72/72,SURMOUNT1,-20.9,-3.1,-17.8,SURMOUNT2,-14.7,-3.2,-11.6,6.2,0.65,"Separate trials, same programme, treatment-regimen estimand"
+Orforglipron (oral),36 mg daily,72/72,ATTAIN1,-11.2,-2.1,-9.1,ATTAIN2,-9.6,-2.5,-7.1,2.0,0.78,"Separate trials, same programme, treatment-regimen estimand"
+Orforglipron (oral),12 mg daily,72/72,ATTAIN1,-8.4,-2.1,-6.3,ATTAIN2,-7.0,-2.5,-4.5,1.8,0.71,"Separate trials, same programme, treatment-regimen estimand"
+Cagrilintide + semaglutide,2.4/2.4 mg weekly,68/68,REDEFINE1,-20.4,-3.0,-17.3,REDEFINE2,-13.7,-3.4,-10.4,6.9,0.6,"Separate trials, same programme, treatment-policy estimand"
+Maridebart cafraglutide,highest-response arm in each cohort,52/52,MARITIDE2025,-16.2,-2.5,-13.7,MARITIDE2025,-12.3,-1.7,-10.6,3.1,0.77,"Single protocol, two cohorts; dose/escalation arms differ between cohorts; GIPR antagonist"

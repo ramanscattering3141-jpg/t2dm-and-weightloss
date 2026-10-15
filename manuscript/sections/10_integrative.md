@@ -1,0 +1,36 @@
+## 10. Integrative model: from diabetes pathophysiology to weight-loss response
+
+Figure 2 organises the evidence into four interacting domains. Each causal link is labelled by the strength of its support. Table 3 summarises the evidence for each candidate mechanism.
+
+**Drug exposure and pharmacodynamics.** Dose, duration and estimand were matched in the comparisons. Exposure depends mainly on body weight, and tolerability and discontinuation do not favour the trials without diabetes. Receptor pharmacology varies widely across agents that all show the deficit, including opposite directions of GIP receptor action. Reduced drug exposure or a receptor-specific defect is therefore unlikely to be a primary determinant.
+
+**Energy intake.** Intake suppression is the main mechanism of incretin-induced weight loss in both populations and is preserved, at least qualitatively, in T2D. Its magnitude has never been compared between populations under matched conditions. A smaller central or gastrointestinal effect in T2D, through hypothalamic gliosis, central insulin resistance, greater food-cue reactivity or slower baseline gastric emptying, is biologically plausible but unmeasured. This is the largest unknown in the model.
+
+**Energy expenditure and substrate metabolism.** Agonists do not raise expenditure, and adaptive changes appear similar in kind across populations. Correcting hyperglycaemia removes the excess resting metabolic rate seen in T2D. Changes in substrate partitioning and insulin sensitivity alter fuel selection, but there is no evidence that they set the size of the energy deficit.
+
+**Energy losses and glycaemic correction.** Elimination of glycosuria returns previously lost glucose energy to the body. The size of this effect is established in diabetes generally, and scenario estimates show it could account for a meaningful share of the gap in the drug arm. It has never been measured in an incretin trial.
+
+**How several modest effects combine.** Together, the energy offsets from glycaemic correction (glycosuria and metabolic rate) and weight-promoting co-therapies could narrow the net energy deficit in the drug arm. Because weight approaches a new steady state over a year or more, small persistent offsets matter: each 24 kcal/day of persistent offset corresponds to about 1 kg at steady state [@HALL2011]. Population differences in sex and age, and possibly behaviour [@WING1987; @RODRIGUEZ2024], add further differences between trials. We deliberately do not assign percentage contributions. None of these components has been measured in both populations under the same treatment, so any apportionment would be speculative.
+
+**Which explanations are best supported?** Ranked by evidence:
+
+* **Best supported.** The phenotype exists, is graded and is confined to the drug-attributable component. Drug exposure and tolerability do not explain it.
+* **Plausible and quantitatively capable, but unmeasured.** Energetic offsets from glycaemic correction (glycosuria, lower REE). Weight-promoting background therapy. Population composition by sex and age.
+* **Plausible, magnitude unknown.** Attenuated appetite suppression in T2D. Gastrointestinal modifiers.
+* **Weakest.** An intrinsic, insulin-resistance-driven pharmacological resistance. Impaired GIP signalling as the primary cause.
+
+**Table 3. Mechanistic evidence map.**
+
+| Mechanism (category) | Biological hypothesis | Evidence in T2D | Evidence without diabetes | Direct comparison by diabetes status | Human vs animal | Causal evidence | Quantitative contribution | Confidence |
+|---|---|---|---|---|---|---|---|---|
+| Reduced drug exposure / tolerability (clinical) | Lower exposure or more discontinuation in T2D | Exposure set by body weight [@CARLSSON2018; @OVERGAARD2021]; GI events and discontinuation not higher [@REDEFINE2; @ATTAIN2] | Same [@REDEFINE1; @ATTAIN1] | Indirect (matched programmes) | Human | Argues against | Not a major contributor | Moderate (against) |
+| Attenuated appetite suppression (direct) | Diabetic state blunts central/vagal anorectic response | Suppression present [@GUTZWILLER1999; @FLINT2013; @HEISE2023; @VANBLOEMENDAAL2014] | Suppression present [@BLUNDELL2017; @FRIEDRICHSEN2021; @MARTIN2025] | None | Human (effect); animal (circuits) [@SECHER2014; @GABERY2020] | Not tested | Unknown | Low |
+| Central gliosis / brain insulin resistance (direct) | Hypothalamic injury or insulin resistance lowers drug efficacy | Gliosis greater in IGT/T2D [@ROSENBAUM2022]; brain IR [@KULLMANN2016] | — | None | Human association | None | Unknown | Very low |
+| Gastric emptying (direct/indirect) | Slower baseline GE or neuropathy limits incremental slowing | GE effect baseline-dependent [@RAYNER2020; @PHILLIPS2014]; residual delay with tirzepatide in T2D [@URVA2020]; hyperglycaemia slows GE [@FRASER1990] | Delay wanes; correlates with weight loss [@HALAWI2017; @FRIEDRICHSEN2021] | None | Human | Not tested | Probably minor | Low |
+| Impaired GIP signalling (direct) | Reduced GIPR response blunts tirzepatide-specific weight loss | GIP insulinotropic action reduced [@NAUCK1993; @VILSBOLL2002]; partly restored [@HOJBERG2009] | GIP does not reduce intake in humans [@BERGMANN2019] | Ratios similar across GIPR agonist, antagonist and GLP-1-only agents (Table 1) | Human + animal [@ZHANG2021; @KILLION2018] | Argues against primary role | Small at most | Moderate (against) |
+| Glycosuria elimination (indirect) | Retained glucose energy offsets the deficit in the drug arm | Large measured glycosuria in poor control [@BOGARDUS1986; @RAVE2006]; SGLT2i energetics [@FERRANNINI_G2015] | Absent | Not measured in incretin trials | Human | Established energetics; mediation untested | Scenario ~1–6 kg | Moderate (plausibility); low (mediation) |
+| REE fall with glycaemic correction (indirect) | Excess REE of T2D removed | RMR +5% in T2D, falls with treatment [@BOGARDUS1986; @MAKIMATTILA1999]; EE −5% with intensive insulin (T1D) [@CARLSON1993] | Not applicable | Not measured in incretin trials | Human | Established in other settings | ~40–100 kcal/day (assumption) | Moderate (plausibility) |
+| Insulin resistance / substrate partitioning (direct) | IR or hyperinsulinaemia limits fat mobilisation | IR improves on treatment [@HEISE2022; @ARMSTRONG2016] | Isocaloric partitioning does not override energy balance [@HALL2015] | None | Human | None for weight | Unknown; probably small | Low |
+| Weight-promoting co-therapy (clinical) | SU/insulin add energy retention or defensive eating | Weight gain with SU/insulin [@UKPDS33]; SU in 27% [@SURMOUNT2]; insulin-treated response preserved [@SCALE_INSULIN] | Absent | None stratified | Human | Plausible | Unknown | Low–moderate |
+| Population composition (methodological) | Age, sex and comorbidity differ between programmes | Older, more men [@MARITIDE2025; @SURMOUNT2] | More women [@STEP1] | Sex interaction for weight [@HFpEF_POOL] | Human | Confounding plausible | Unknown | Moderate (plausibility) |
+| Behaviour / adherence (clinical) | Lower dietary adherence or motivation | T2D lost less with behavioural programme; smaller intake reduction [@WING1987]; motivation proposed [@RODRIGUEZ2024] | — | Small direct study (n=12 pairs) | Human | Associational | Unknown | Low |

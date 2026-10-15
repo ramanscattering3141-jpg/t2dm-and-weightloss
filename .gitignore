@@ -1,0 +1,4 @@
+# Publisher full texts: obtained for verification only, not redistributable
+references/fulltext/
+references/raw/
+__pycache__/

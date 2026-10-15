@@ -1,0 +1,49 @@
+source_key,mechanism_domain,population,model,design,measured_outcome,key_finding,relevance_to_T2D_question,causal_status
+BLUNDELL2017,energy intake,"obesity, no T2D (n=30)",human,RCT crossover 12 wk sema 1.0,"ad lib intake, appetite, RMR",intake -24%; RMR unchanged,indirect (non-T2D),causal for drug effect on intake
+FRIEDRICHSEN2021,energy intake / GE,"obesity, no T2D (n=72)",human,RCT 20 wk sema 2.4,ad lib intake; paracetamol GE,intake -35%; no GE delay at wk 20,indirect,causal (intake)
+MARTIN2025,energy intake / reward,"overweight/obesity, no T2D (n=114)",human,RCT 6 wk tirz vs lira vs pbo,ad lib intake; fMRI,-524.6 kcal; reduced food-cue activation,indirect,causal (intake)
+GUTZWILLER1999,energy intake,T2D (n=12),human,crossover IV GLP-1,ad lib intake,-27%,direct (T2D effect present),causal
+FLINT2013,energy intake,T2D (n=18),human,"crossover lira 1.8, 3 wk",ad lib intake,-18%,direct (T2D),causal
+HEISE2023,energy intake,T2D (n=117),human,RCT 28 wk tirz/sema/pbo,"appetite, ad lib intake, DXA",both reduce appetite; intake similar tirz vs sema despite more weight loss,direct (T2D),partial
+VANBLOEMENDAAL2014,CNS reward,"obese T2D, obese NGT, lean (n=48)",human,"crossover exenatide ± exendin 9-39, fMRI","food-cue BOLD, intake",reductions in T2D and obese; receptor-dependent,direct (both groups; magnitude not compared in abstract),causal (receptor)
+TENKULVE2015,CNS reward,T2D (n=20),human,crossover lira vs glargine 12 wk,fMRI,"effect at 10 d, not 12 wk",direct (T2D),associational over time
+FARR2016,CNS,T2D; human brain tissue,human,crossover lira; immunohistochemistry,GLP-1R localisation; fMRI,"GLP-1R in hypothalamus, medulla, parietal cortex",direct (T2D),descriptive
+ROSENBAUM2022,CNS gliosis,obesity NGT/IGT/T2D (n=67),human,cross-sectional + prospective MRI,MBH T2 relaxation,gliosis greater in IGT/T2D,direct (association),no
+SECHER2014,CNS circuits,rats/mice,animal,"pharmacology, KO, electrophysiology",weight; POMC/NPY activity,ARC POMC/CART mediate lira weight loss,mechanistic only,causal in rodents
+GABERY2020,CNS circuits,rodents,animal,"imaging, c-Fos, transcriptomics","brain access, intake, EE",CVO access; intake down without EE fall,mechanistic only,causal in rodents
+KANOSKI2011,vagal/CNS,rats,animal,"antagonist, deafferentation",intake,vagal + CNS GLP-1R contribute,mechanistic only,causal in rodents
+BRIERLEY2021,CNS,mice,animal,chemogenetics,intake,PPG neurons not required for GLP-1RA anorexia,mechanistic only,causal in rodents
+NAUCK2011,gastric emptying,healthy (n=9),human,IV GLP-1 8.5 h,GE,rapid tachyphylaxis,indirect,causal
+UMAPATHYSIVAM2014,gastric emptying,healthy men (n=10),human,crossover infusion regimens,scintigraphic GE,prolonged exposure attenuates slowing,indirect,causal
+HALAWI2017,gastric emptying,obesity (n=40),human,RCT lira 3.0 16 wk,"GE, satiation, weight",GE delay correlates with weight loss,indirect,associational
+URVA2020,gastric emptying,mice; humans with/without T2D,human+animal,"phase 1, 4 wk",acetaminophen GE,tachyphylaxis; residual delay in T2D,direct (T2D),descriptive
+FRASER1990,gastric emptying,T1D (n=10),human,clamp crossover,scintigraphic GE,hyperglycaemia slows GE,indirect (T1D),causal (glycaemia->GE)
+RAYNER2020,gastric emptying,metformin-treated T2D (n=30),human,RCT lixisenatide 8 wk,"scintigraphy, tracers",sustained slowing; effect depends on baseline GE,direct (T2D),causal
+NAUCK1993,GIP/GLP-1 islet,mild T2D vs controls,human,hyperglycaemic clamp infusions,"C-peptide, glucagon",GIP effect -54%; GLP-1 preserved,direct,causal (islet)
+HOJBERG2009,GIP/GLP-1 islet,poorly controlled T2D (n=8),human,4 wk insulin near-normoglycaemia,clamp C-peptide,3-4x improved incretin response,direct,causal (glucotoxicity)
+XU2007,receptor expression,rat islets,animal,"Px, clamp, culture",GLP-1R/GIPR mRNA,hyperglycaemia downregulates receptors,mechanistic only,causal in rodents
+BERGMANN2019,GIP appetite,"overweight men, no T2D (n=17)",human,crossover infusions,ad lib intake,GIP adds nothing to GLP-1 intake effect,indirect,causal (null)
+ZHANG2021,GIP CNS,mice,animal,CNS-Gipr KO,"intake, weight",CNS GIPR needed for co-agonist superiority,mechanistic only,causal in rodents
+ADRIAENSSENS2019,GIP CNS,mice (+ human RNAscope),animal,chemogenetics,intake,hypothalamic Gipr cells suppress intake,mechanistic only,causal in rodents
+BORNER2021,GIP emesis,"mice, rats, shrews",animal,pharmacology,"emesis, intake",GIPR agonism blocks GLP-1RA emesis,mechanistic only,causal in animals
+KILLION2018,GIPR antagonism,"mice, NHP",animal,antibody,weight,antagonism lowers weight; additive with GLP-1RA,mechanistic only,causal in animals
+WILLARD2020,receptor pharmacology,cells/islets,in vitro,signalling assays,"cAMP, arrestin, occupancy",tirz imbalanced (GIPR) and biased,mechanistic only,pharmacology
+ASMAR2010,adipose,lean healthy (n=8),human,AV difference + clamp,adipose flux,GIP + insulin increases TAG deposition,indirect,causal (acute)
+HEISE2022,insulin sensitivity,T2D (n=117),human,RCT clamp 28 wk,"M value, disposition index","tirz improves secretion, IS, glucagon",direct (T2D),causal (drug)
+ARMSTRONG2016,insulin sensitivity,NASH,human,RCT lira 12 wk tracers/clamps,"hepatic/adipose IS, DNL",improved,indirect,causal (drug)
+KELLEY2000,substrate,IR humans/rodents,review,synthesis,fuel selection,metabolic inflexibility,background,n/a
+HALL2015,substrate vs energy,obesity (n=19),human,metabolic ward isocaloric,fat balance by chamber,lower insulin did not increase fat loss,indirect (principle),causal
+BOGARDUS1986,glycosuria/REE,obese Pima T2D vs NGT,human,cross-sectional + 6 wk tolazamide,"RMR, urine glucose, intake",RMR +5% in T2D; UGE 128->11 g/d; RMR falls,direct (T2D energetics),"causal (glycaemia->REE, UGE)"
+CARLSON1993,glycosuria/EE,T1D (n=6),human,"2 mo intensive insulin, constant intake, chamber","EE, glycosuria, body comp",glycosuria 428->39 mmol/d; EE -5%; +2.6 kg fat,indirect (T1D),causal
+MAKIMATTILA1999,glycosuria/REE,insulin-treated T2D (n=26),human,RCT 12 mo insulin ± metformin,"BMR, intake, glucosuria",glycaemia independent determinant of lower BMR,direct (T2D),associational/causal
+RAVE2006,renal glucose,T2D (n=22),human,stepped clamps,UGE vs glucose,0.06->0.77 mmol/min; threshold 7.7-12.2 mM,direct (T2D),dose-response
+FERRANNINI_G2015,glycosuria energetics,T2D (n=86),human,90 wk empagliflozin + model,weight vs glycosuric energy,206 kcal/d; intake +13% compensation,direct (T2D energetics),model-based
+POLIDORI2016,appetite feedback,T2D (n=153),human,52 wk canagliflozin + model,calculated intake,+100 kcal/d per kg lost,direct (T2D),model-based
+LOOK2025,body composition,"obesity, no T2D (n=160)",human,DXA substudy SURMOUNT-1,fat/lean,75% fat / 25% lean,indirect,descriptive
+MCCRIMMON2020,body composition,T2D (n=178),human,DXA substudy SUSTAIN 8 (no placebo),fat/lean,"fat -3.4 kg, lean -2.3 kg",direct (T2D),descriptive
+RAVUSSIN2025,EE/adaptation,obesity (no T2D) + mice,human+animal,phase 1 RCT calorimetry,"EE, adaptation, RER",no adaptation change; fat oxidation up,indirect,causal (drug)
+VANEYK2019,REE,T2D (n=50),human,RCT lira 26 wk,"REE, BAT",REE reduced wk 4-12,direct (T2D),causal (drug)
+HARDER2004,24h EE,obese T2D (n=33),human,RCT lira 0.6 8 wk chamber,"24h EE, DXA",no EE change,direct (T2D),causal (null)
+GOLUBIC2024,energy balance,T2D (n=28 randomised),human,RCT cotadutide 42 d DLW + IC,"EI, EE",weight loss from EI; small EE change,direct (T2D),causal (drug)
+UKPDS33,co-therapy,newly diagnosed T2D (n=3867),human,RCT,weight,insulin +4.0 kg; SU +1.7-2.6 kg,direct (T2D),causal (drug)
+WING1987,behaviour,T2D + nondiabetic spouses (12 pairs),human,paired behavioural programme,"weight, intake",7.5 vs 13.4 kg; smaller intake reduction in T2D,direct comparison,associational
