@@ -14228,5 +14228,3748 @@
   "sortpubdate": "2021/09/01 00:00",
   "sortfirstauthor": "Fr\u00edas JP",
   "vernaculartitle": ""
+ },
+ "30279161": {
+  "uid": "30279161",
+  "pubdate": "2019 Jan",
+  "epubdate": "2018 Oct 2",
+  "source": "Diabetes",
+  "authors": [
+   {
+    "name": "Holt MK",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Richards JE",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Cook DR",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Brierley DI",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Williams DL",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Reimann F",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Gribble FM",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Trapp S",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Trapp S",
+  "title": "Preproglucagon Neurons in the Nucleus of the Solitary Tract Are the Main Source of Brain GLP-1, Mediate Stress-Induced Hypophagia, and Limit Unusually Large Intakes of Food.",
+  "sorttitle": "preproglucagon neurons in the nucleus of the solitary tract are the main source of brain glp 1 mediate stress induced hypophagia and limit unusually large intakes of food",
+  "volume": "68",
+  "issue": "1",
+  "pages": "21-33",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "0372763",
+  "issn": "0012-1797",
+  "essn": "1939-327X",
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "30279161"
+   },
+   {
+    "idtype": "mid",
+    "idtypen": 8,
+    "value": "EMS80378"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC6314470"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC6314470;manuscript-id: EMS80378;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.2337/db18-0729"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "db18-0729"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "received",
+    "date": "2018/07/09 00:00"
+   },
+   {
+    "pubstatus": "accepted",
+    "date": "2018/09/21 00:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2018/10/04 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2019/03/26 06:00"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2018/10/04 06:00"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2020/01/01 00:00"
+   }
+  ],
+  "references": [
+   {
+    "refsource": "Diabetes. 2019 Jan;68(1):15-17. doi: 10.2337/dbi18-0045.",
+    "reftype": "Comment in",
+    "pmid": 30573675,
+    "note": ""
+   }
+  ],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": 50,
+  "fulljournalname": "Diabetes",
+  "elocationid": "doi: 10.2337/db18-0729",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/01/01 00:00",
+  "sortfirstauthor": "Holt MK",
+  "vernaculartitle": ""
+ },
+ "29617641": {
+  "uid": "29617641",
+  "pubdate": "2018 Apr 3",
+  "epubdate": "",
+  "source": "Cell Metab",
+  "authors": [
+   {
+    "name": "Drucker DJ",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Drucker DJ",
+  "title": "Mechanisms of Action and Therapeutic Application of Glucagon-like Peptide-1.",
+  "sorttitle": "mechanisms of action and therapeutic application of glucagon like peptide 1",
+  "volume": "27",
+  "issue": "4",
+  "pages": "740-756",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "101233170",
+  "issn": "1550-4131",
+  "essn": "1932-7420",
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "29617641"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1016/j.cmet.2018.03.001"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "S1550-4131(18)30179-7"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "entrez",
+    "date": "2018/04/05 06:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2018/04/05 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2019/09/04 06:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Cell metabolism",
+  "elocationid": "doi: 10.1016/j.cmet.2018.03.001",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/04/03 00:00",
+  "sortfirstauthor": "Drucker DJ",
+  "vernaculartitle": ""
+ },
+ "17928588": {
+  "uid": "17928588",
+  "pubdate": "2007 Oct",
+  "epubdate": "",
+  "source": "Physiol Rev",
+  "authors": [
+   {
+    "name": "Holst JJ",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Holst JJ",
+  "title": "The physiology of glucagon-like peptide 1.",
+  "sorttitle": "physiology of glucagon like peptide 1",
+  "volume": "87",
+  "issue": "4",
+  "pages": "1409-39",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "0231714",
+  "issn": "0031-9333",
+  "essn": "",
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "17928588"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1152/physrev.00034.2006"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "87/4/1409"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "pubmed",
+    "date": "2007/10/12 09:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2007/12/06 09:00"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2007/10/12 09:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Physiological reviews",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2007/10/01 00:00",
+  "sortfirstauthor": "Holst JJ",
+  "vernaculartitle": ""
+ },
+ "17498508": {
+  "uid": "17498508",
+  "pubdate": "2007 May",
+  "epubdate": "",
+  "source": "Gastroenterology",
+  "authors": [
+   {
+    "name": "Baggio LL",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Drucker DJ",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Drucker DJ",
+  "title": "Biology of incretins: GLP-1 and GIP.",
+  "sorttitle": "biology of incretins glp 1 and gip",
+  "volume": "132",
+  "issue": "6",
+  "pages": "2131-57",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "0374630",
+  "issn": "0016-5085",
+  "essn": "",
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "17498508"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1053/j.gastro.2007.03.054"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "S0016-5085(07)00580-X"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "received",
+    "date": "2006/12/29 00:00"
+   },
+   {
+    "pubstatus": "accepted",
+    "date": "2007/01/12 00:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2007/05/15 09:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2007/07/04 09:00"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2007/05/15 09:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Gastroenterology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2007/05/01 00:00",
+  "sortfirstauthor": "Baggio LL",
+  "vernaculartitle": ""
+ },
+ "11502801": {
+  "uid": "11502801",
+  "pubdate": "2001 Aug",
+  "epubdate": "",
+  "source": "J Clin Endocrinol Metab",
+  "authors": [
+   {
+    "name": "Toft-Nielsen MB",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Damholt MB",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Madsbad S",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Hilsted LM",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Hughes TE",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Michelsen BK",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Holst JJ",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Holst JJ",
+  "title": "Determinants of the impaired secretion of glucagon-like peptide-1 in type 2 diabetic patients.",
+  "sorttitle": "determinants of the impaired secretion of glucagon like peptide 1 in type 2 diabetic patients",
+  "volume": "86",
+  "issue": "8",
+  "pages": "3717-23",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "0375362",
+  "issn": "0021-972X",
+  "essn": "",
+  "pubtype": [
+   "Comparative Study",
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "11502801"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1210/jcem.86.8.7750"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "pubmed",
+    "date": "2001/08/15 10:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2001/09/08 10:01"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2001/08/15 10:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "The Journal of clinical endocrinology and metabolism",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2001/08/01 00:00",
+  "sortfirstauthor": "Toft-Nielsen MB",
+  "vernaculartitle": ""
+ },
+ "12788877": {
+  "uid": "12788877",
+  "pubdate": "2003 Jun",
+  "epubdate": "",
+  "source": "J Clin Endocrinol Metab",
+  "authors": [
+   {
+    "name": "Vilsb\u00f8ll T",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Krarup T",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Sonne J",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Madsbad S",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "V\u00f8lund A",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Juul AG",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Holst JJ",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Holst JJ",
+  "title": "Incretin secretion in relation to meal size and body weight in healthy subjects and people with type 1 and type 2 diabetes mellitus.",
+  "sorttitle": "incretin secretion in relation to meal size and body weight in healthy subjects and people with type 1 and type 2 diabetes mellitus",
+  "volume": "88",
+  "issue": "6",
+  "pages": "2706-13",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "0375362",
+  "issn": "0021-972X",
+  "essn": "",
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "12788877"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1210/jc.2002-021873"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "pubmed",
+    "date": "2003/06/06 05:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2003/07/02 05:00"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2003/06/06 05:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "The Journal of clinical endocrinology and metabolism",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2003/06/01 00:00",
+  "sortfirstauthor": "Vilsb\u00f8ll T",
+  "vernaculartitle": ""
+ },
+ "23377698": {
+  "uid": "23377698",
+  "pubdate": "2013 May",
+  "epubdate": "2013 Feb 3",
+  "source": "Diabetologia",
+  "authors": [
+   {
+    "name": "Calanna S",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Christensen M",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Holst JJ",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Laferr\u00e8re B",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Gluud LL",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Vilsb\u00f8ll T",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Knop FK",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Knop FK",
+  "title": "Secretion of glucagon-like peptide-1 in patients with type 2 diabetes mellitus: systematic review and meta-analyses of clinical studies.",
+  "sorttitle": "secretion of glucagon like peptide 1 in patients with type 2 diabetes mellitus systematic review and meta analyses of clinical studies",
+  "volume": "56",
+  "issue": "5",
+  "pages": "965-72",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "0006777",
+  "issn": "0012-186X",
+  "essn": "1432-0428",
+  "pubtype": [
+   "Journal Article",
+   "Meta-Analysis",
+   "Systematic Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "23377698"
+   },
+   {
+    "idtype": "mid",
+    "idtypen": 8,
+    "value": "NIHMS474731"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC3687347"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC3687347;manuscript-id: NIHMS474731;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1007/s00125-013-2841-0"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "received",
+    "date": "2012/11/02 00:00"
+   },
+   {
+    "pubstatus": "accepted",
+    "date": "2013/01/10 00:00"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2013/02/05 06:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2013/02/05 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2013/10/30 06:00"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2013/06/20 00:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": 52,
+  "fulljournalname": "Diabetologia",
+  "elocationid": "doi: 10.1007/s00125-013-2841-0",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/05/01 00:00",
+  "sortfirstauthor": "Calanna S",
+  "vernaculartitle": ""
+ },
+ "24065842": {
+  "uid": "24065842",
+  "pubdate": "2013 Oct",
+  "epubdate": "",
+  "source": "Diabetes Care",
+  "authors": [
+   {
+    "name": "Calanna S",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Christensen M",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Holst JJ",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Laferr\u00e8re B",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Gluud LL",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Vilsb\u00f8ll T",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Knop FK",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Knop FK",
+  "title": "Secretion of glucose-dependent insulinotropic polypeptide in patients with type 2 diabetes: systematic review and meta-analysis of clinical studies.",
+  "sorttitle": "secretion of glucose dependent insulinotropic polypeptide in patients with type 2 diabetes systematic review and meta analysis of clinical studies",
+  "volume": "36",
+  "issue": "10",
+  "pages": "3346-52",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "7805975",
+  "issn": "0149-5992",
+  "essn": "1935-5548",
+  "pubtype": [
+   "Journal Article",
+   "Meta-Analysis",
+   "Research Support, Non-U.S. Gov't",
+   "Systematic Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "24065842"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC3781498"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC3781498;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.2337/dc13-0465"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "36/10/3346"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "entrez",
+    "date": "2013/09/26 06:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2013/09/26 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2014/04/24 06:00"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2014/10/01 00:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": 55,
+  "fulljournalname": "Diabetes care",
+  "elocationid": "doi: 10.2337/dc13-0465",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/10/01 00:00",
+  "sortfirstauthor": "Calanna S",
+  "vernaculartitle": ""
+ },
+ "26318108": {
+  "uid": "26318108",
+  "pubdate": "2015 Oct",
+  "epubdate": "2015 Jul 26",
+  "source": "Atherosclerosis",
+  "authors": [
+   {
+    "name": "Zheng TP",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Liu YH",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Yang LX",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Qin SH",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Liu HB",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Liu HB",
+  "title": "Increased plasma dipeptidyl peptidase-4 activities are associated with high prevalence of subclinical atherosclerosis in Chinese patients with newly diagnosed type 2 diabetes: a cross-sectional study.",
+  "sorttitle": "increased plasma dipeptidyl peptidase 4 activities are associated with high prevalence of subclinical atherosclerosis in chinese patients with newly diagnosed type 2 diabetes a cross sectional study",
+  "volume": "242",
+  "issue": "2",
+  "pages": "580-8",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "0242543",
+  "issn": "0021-9150",
+  "essn": "1879-1484",
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "26318108"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1016/j.atherosclerosis.2015.07.042"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "S0021-9150(15)30062-9"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "received",
+    "date": "2015/04/25 00:00"
+   },
+   {
+    "pubstatus": "revised",
+    "date": "2015/06/04 00:00"
+   },
+   {
+    "pubstatus": "accepted",
+    "date": "2015/07/24 00:00"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2015/08/31 06:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2015/09/01 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2016/08/09 06:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Atherosclerosis",
+  "elocationid": "doi: 10.1016/j.atherosclerosis.2015.07.042",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/10/01 00:00",
+  "sortfirstauthor": "Zheng TP",
+  "vernaculartitle": ""
+ },
+ "23872069": {
+  "uid": "23872069",
+  "pubdate": "2013 Sep",
+  "epubdate": "2013 Jul 17",
+  "source": "Peptides",
+  "authors": [
+   {
+    "name": "Malin SK",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Huang H",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Mulya A",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Kashyap SR",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Kirwan JP",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Kirwan JP",
+  "title": "Lower dipeptidyl peptidase-4 following exercise training plus weight loss is related to increased insulin sensitivity in adults with metabolic syndrome.",
+  "sorttitle": "lower dipeptidyl peptidase 4 following exercise training plus weight loss is related to increased insulin sensitivity in adults with metabolic syndrome",
+  "volume": "47",
+  "issue": "",
+  "pages": "142-7",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "8008690",
+  "issn": "0196-9781",
+  "essn": "1873-5169",
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "23872069"
+   },
+   {
+    "idtype": "mid",
+    "idtypen": 8,
+    "value": "NIHMS519249"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC3825405"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC3825405;manuscript-id: NIHMS519249;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1016/j.peptides.2013.07.008"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "S0196-9781(13)00237-4"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "received",
+    "date": "2013/05/25 00:00"
+   },
+   {
+    "pubstatus": "revised",
+    "date": "2013/07/09 00:00"
+   },
+   {
+    "pubstatus": "accepted",
+    "date": "2013/07/09 00:00"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2013/07/23 06:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2013/07/23 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2014/03/13 06:00"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2014/09/01 00:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": 37,
+  "fulljournalname": "Peptides",
+  "elocationid": "doi: 10.1016/j.peptides.2013.07.008",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/09/01 00:00",
+  "sortfirstauthor": "Malin SK",
+  "vernaculartitle": ""
+ },
+ "31276666": {
+  "uid": "31276666",
+  "pubdate": "2019 Sep 15",
+  "epubdate": "2019 Jul 2",
+  "source": "Eur J Pharmacol",
+  "authors": [
+   {
+    "name": "Yamashita S",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Kawakami Y",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Sato H",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Sugitani S",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Goto M",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Kato N",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Kato N",
+  "title": "Contribution of intestinal dipeptidyl peptidase-4 inhibition for incretin-dependent improved glucose tolerance in mice.",
+  "sorttitle": "contribution of intestinal dipeptidyl peptidase 4 inhibition for incretin dependent improved glucose tolerance in mice",
+  "volume": "859",
+  "issue": "",
+  "pages": "172521",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "1254354",
+  "issn": "0014-2999",
+  "essn": "1879-0712",
+  "pubtype": [
+   "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "31276666"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1016/j.ejphar.2019.172521"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "S0014-2999(19)30473-X"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "received",
+    "date": "2019/04/25 00:00"
+   },
+   {
+    "pubstatus": "revised",
+    "date": "2019/06/21 00:00"
+   },
+   {
+    "pubstatus": "accepted",
+    "date": "2019/07/01 00:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2019/07/06 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2020/01/29 06:00"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2019/07/06 06:00"
+   }
+  ],
+  "references": [
+   {
+    "refsource": "Eur J Pharmacol. 2019 Nov 5;862:172633. doi: 10.1016/j.ejphar.2019.172633.",
+    "reftype": "Erratum in",
+    "pmid": 31519353,
+    "note": ""
+   }
+  ],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "European journal of pharmacology",
+  "elocationid": "doi: 10.1016/j.ejphar.2019.172521",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/09/15 00:00",
+  "sortfirstauthor": "Yamashita S",
+  "vernaculartitle": ""
+ },
+ "27933334": {
+  "uid": "27933334",
+  "pubdate": "2017 Apr",
+  "epubdate": "2016 Dec 8",
+  "source": "Diabetologia",
+  "authors": [
+   {
+    "name": "Willard JR",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Barrow BM",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Zraika S",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Zraika S",
+  "title": "Improved glycaemia in high-fat-fed neprilysin-deficient mice is associated with reduced DPP-4 activity and increased active GLP-1 levels.",
+  "sorttitle": "improved glycaemia in high fat fed neprilysin deficient mice is associated with reduced dpp 4 activity and increased active glp 1 levels",
+  "volume": "60",
+  "issue": "4",
+  "pages": "701-708",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "0006777",
+  "issn": "0012-186X",
+  "essn": "1432-0428",
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "27933334"
+   },
+   {
+    "idtype": "mid",
+    "idtypen": 8,
+    "value": "NIHMS835254"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC5342915"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC5342915;manuscript-id: NIHMS835254;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1007/s00125-016-4172-4"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "10.1007/s00125-016-4172-4"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "received",
+    "date": "2016/10/25 00:00"
+   },
+   {
+    "pubstatus": "accepted",
+    "date": "2016/11/16 00:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2016/12/10 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2017/09/16 06:00"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2016/12/10 06:00"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2018/04/01 00:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": 28,
+  "fulljournalname": "Diabetologia",
+  "elocationid": "doi: 10.1007/s00125-016-4172-4",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/04/01 00:00",
+  "sortfirstauthor": "Willard JR",
+  "vernaculartitle": ""
+ },
+ "18519802": {
+  "uid": "18519802",
+  "pubdate": "2008 Oct",
+  "epubdate": "2008 Jun 2",
+  "source": "Diabetes",
+  "authors": [
+   {
+    "name": "Knauf C",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Cani PD",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Kim DH",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Iglesias MA",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Chabo C",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Waget A",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Colom A",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Rastrelli S",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Delzenne NM",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Drucker DJ",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Seeley RJ",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Burcelin R",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Burcelin R",
+  "title": "Role of central nervous system glucagon-like Peptide-1 receptors in enteric glucose sensing.",
+  "sorttitle": "role of central nervous system glucagon like peptide 1 receptors in enteric glucose sensing",
+  "volume": "57",
+  "issue": "10",
+  "pages": "2603-12",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "0372763",
+  "issn": "0012-1797",
+  "essn": "1939-327X",
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "18519802"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC2551668"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC2551668;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.2337/db07-1788"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "db07-1788"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "pubmed",
+    "date": "2008/06/04 09:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2009/01/01 09:00"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2008/06/04 09:00"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2009/10/01 00:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": 37,
+  "fulljournalname": "Diabetes",
+  "elocationid": "doi: 10.2337/db07-1788",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2008/10/01 00:00",
+  "sortfirstauthor": "Knauf C",
+  "vernaculartitle": ""
+ },
+ "28591631": {
+  "uid": "28591631",
+  "pubdate": "2017 Jun 6",
+  "epubdate": "",
+  "source": "Cell Metab",
+  "authors": [
+   {
+    "name": "Soty M",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Gautier-Stein A",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Rajas F",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Mithieux G",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Mithieux G",
+  "title": "Gut-Brain Glucose Signaling in Energy Homeostasis.",
+  "sorttitle": "gut brain glucose signaling in energy homeostasis",
+  "volume": "25",
+  "issue": "6",
+  "pages": "1231-1242",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "101233170",
+  "issn": "1550-4131",
+  "essn": "1932-7420",
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "28591631"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1016/j.cmet.2017.04.032"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "S1550-4131(17)30285-1"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "entrez",
+    "date": "2017/06/08 06:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2017/06/08 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2018/03/10 06:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Cell metabolism",
+  "elocationid": "doi: 10.1016/j.cmet.2017.04.032",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/06/06 00:00",
+  "sortfirstauthor": "Soty M",
+  "vernaculartitle": ""
+ },
+ "21849636": {
+  "uid": "21849636",
+  "pubdate": "2011 Nov",
+  "epubdate": "2011 Aug 17",
+  "source": "Am J Physiol Regul Integr Comp Physiol",
+  "authors": [
+   {
+    "name": "Hayes MR",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Kanoski SE",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "De Jonghe BC",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Leichner TM",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Alhadeff AL",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Fortin SM",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Arnold M",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Langhans W",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Grill HJ",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Grill HJ",
+  "title": "The common hepatic branch of the vagus is not required to mediate the glycemic and food intake suppressive effects of glucagon-like-peptide-1.",
+  "sorttitle": "common hepatic branch of the vagus is not required to mediate the glycemic and food intake suppressive effects of glucagon like peptide 1",
+  "volume": "301",
+  "issue": "5",
+  "pages": "R1479-85",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "100901230",
+  "issn": "0363-6119",
+  "essn": "1522-1490",
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "21849636"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC3213943"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC3213943;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1152/ajpregu.00356.2011"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "ajpregu.00356.2011"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "entrez",
+    "date": "2011/08/19 06:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2011/08/19 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2011/12/23 06:00"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2012/11/01 00:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": 54,
+  "fulljournalname": "American journal of physiology. Regulatory, integrative and comparative physiology",
+  "elocationid": "doi: 10.1152/ajpregu.00356.2011",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/11/01 00:00",
+  "sortfirstauthor": "Hayes MR",
+  "vernaculartitle": ""
+ },
+ "22031786": {
+  "uid": "22031786",
+  "pubdate": "2012 Jan 15",
+  "epubdate": "2011 Oct 26",
+  "source": "Am J Physiol Regul Integr Comp Physiol",
+  "authors": [
+   {
+    "name": "Zhang J",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Ritter RC",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Ritter RC",
+  "title": "Circulating GLP-1 and CCK-8 reduce food intake by capsaicin-insensitive, nonvagal mechanisms.",
+  "sorttitle": "circulating glp 1 and cck 8 reduce food intake by capsaicin insensitive nonvagal mechanisms",
+  "volume": "302",
+  "issue": "2",
+  "pages": "R264-73",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "100901230",
+  "issn": "0363-6119",
+  "essn": "1522-1490",
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "22031786"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC3349390"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC3349390;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1152/ajpregu.00114.2011"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "ajpregu.00114.2011"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "entrez",
+    "date": "2011/10/28 06:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2011/10/28 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2012/02/18 06:00"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2013/01/15 00:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": 50,
+  "fulljournalname": "American journal of physiology. Regulatory, integrative and comparative physiology",
+  "elocationid": "doi: 10.1152/ajpregu.00114.2011",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/01/15 00:00",
+  "sortfirstauthor": "Zhang J",
+  "vernaculartitle": ""
+ },
+ "29317623": {
+  "uid": "29317623",
+  "pubdate": "2018 Jan 9",
+  "epubdate": "2018 Jan 9",
+  "source": "Nat Commun",
+  "authors": [
+   {
+    "name": "Iwasaki Y",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Sendo M",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Dezaki K",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Hira T",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Sato T",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Nakata M",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Goswami C",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Aoki R",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Arai T",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Kumari P",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Hayakawa M",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Masuda C",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Okada T",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Hara H",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Drucker DJ",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Yamada Y",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Tokuda M",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Yada T",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Yada T",
+  "title": "GLP-1 release and vagal afferent activation mediate the beneficial metabolic and chronotherapeutic effects of D-allulose.",
+  "sorttitle": "glp 1 release and vagal afferent activation mediate the beneficial metabolic and chronotherapeutic effects of d allulose",
+  "volume": "9",
+  "issue": "1",
+  "pages": "113",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "101528555",
+  "issn": "",
+  "essn": "2041-1723",
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "29317623"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC5760716"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC5760716;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1038/s41467-017-02488-y"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "10.1038/s41467-017-02488-y"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "received",
+    "date": "2016/07/29 00:00"
+   },
+   {
+    "pubstatus": "accepted",
+    "date": "2017/12/05 00:00"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2018/01/11 06:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2018/01/11 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2018/12/12 06:00"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2018/01/09 00:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": 59,
+  "fulljournalname": "Nature communications",
+  "elocationid": "doi: 10.1038/s41467-017-02488-y",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/01/09 00:00",
+  "sortfirstauthor": "Iwasaki Y",
+  "vernaculartitle": ""
+ },
+ "10742535": {
+  "uid": "10742535",
+  "pubdate": "2000 Apr 12",
+  "epubdate": "",
+  "source": "J Auton Nerv Syst",
+  "authors": [
+   {
+    "name": "Nishizawa M",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Nakabayashi H",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Kawai K",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Ito T",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Kawakami S",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Nakagawa A",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Niijima A",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Uchida K",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Uchida K",
+  "title": "The hepatic vagal reception of intraportal GLP-1 is via receptor different from the pancreatic GLP-1 receptor.",
+  "sorttitle": "hepatic vagal reception of intraportal glp 1 is via receptor different from the pancreatic glp 1 receptor",
+  "volume": "80",
+  "issue": "1-2",
+  "pages": "14-21",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "8003419",
+  "issn": "0165-1838",
+  "essn": "",
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "10742535"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1016/s0165-1838(99)00086-7"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "S0165183899000867"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "pubmed",
+    "date": "2000/04/01 09:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2000/06/03 09:00"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2000/04/01 09:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Journal of the autonomic nervous system",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2000/04/12 00:00",
+  "sortfirstauthor": "Nishizawa M",
+  "vernaculartitle": ""
+ },
+ "23673158": {
+  "uid": "23673158",
+  "pubdate": "2013 Jul 1",
+  "epubdate": "2013 May 14",
+  "source": "Am J Physiol Endocrinol Metab",
+  "authors": [
+   {
+    "name": "Edgerton DS",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "An Z",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Johnson KM",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Farmer T",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Farmer B",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Neal D",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Cherrington AD",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Cherrington AD",
+  "title": "Effects of intraportal exenatide on hepatic glucose metabolism in the conscious dog.",
+  "sorttitle": "effects of intraportal exenatide on hepatic glucose metabolism in the conscious dog",
+  "volume": "305",
+  "issue": "1",
+  "pages": "E132-9",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "100901226",
+  "issn": "0193-1849",
+  "essn": "1522-1555",
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "23673158"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC3725568"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC3725568;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1152/ajpendo.00160.2013"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "ajpendo.00160.2013"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "entrez",
+    "date": "2013/05/16 06:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2013/05/16 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2013/09/12 06:00"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2014/07/01 00:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": 67,
+  "fulljournalname": "American journal of physiology. Endocrinology and metabolism",
+  "elocationid": "doi: 10.1152/ajpendo.00160.2013",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/07/01 00:00",
+  "sortfirstauthor": "Edgerton DS",
+  "vernaculartitle": ""
+ },
+ "23599045": {
+  "uid": "23599045",
+  "pubdate": "2013 Jun 15",
+  "epubdate": "2013 Apr 18",
+  "source": "Am J Physiol Gastrointest Liver Physiol",
+  "authors": [
+   {
+    "name": "Plamboeck A",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Veedfald S",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Deacon CF",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Hartmann B",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Wettergren A",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Svendsen LB",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Meisner S",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Hovendal C",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Vilsb\u00f8ll T",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Knop FK",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Holst JJ",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Holst JJ",
+  "title": "The effect of exogenous GLP-1 on food intake is lost in male truncally vagotomized subjects with pyloroplasty.",
+  "sorttitle": "effect of exogenous glp 1 on food intake is lost in male truncally vagotomized subjects with pyloroplasty",
+  "volume": "304",
+  "issue": "12",
+  "pages": "G1117-27",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "100901227",
+  "issn": "0193-1857",
+  "essn": "1522-1547",
+  "pubtype": [
+   "Controlled Clinical Trial",
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "23599045"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1152/ajpgi.00035.2013"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "ajpgi.00035.2013"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "entrez",
+    "date": "2013/04/20 06:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2013/04/20 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2013/08/24 06:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "American journal of physiology. Gastrointestinal and liver physiology",
+  "elocationid": "doi: 10.1152/ajpgi.00035.2013",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/06/15 00:00",
+  "sortfirstauthor": "Plamboeck A",
+  "vernaculartitle": ""
+ },
+ "32819978": {
+  "uid": "32819978",
+  "pubdate": "2020 Aug",
+  "epubdate": "",
+  "source": "BMJ Open Diabetes Res Care",
+  "authors": [
+   {
+    "name": "Bonora E",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Trombetta M",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Dauriz M",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Travia D",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Cacciatori V",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Brangani C",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Negri C",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Perrone F",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Pichiri I",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Stoico V",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Zoppini G",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Rinaldi E",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Da Prato G",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Boselli ML",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Santi L",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Moschetta F",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Zardini M",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Bonadonna RC",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Bonadonna RC",
+  "title": "Chronic complications in patients with newly diagnosed type 2 diabetes: prevalence and related metabolic and clinical features: the Verona Newly Diagnosed Type 2 Diabetes Study (VNDS) 9.",
+  "sorttitle": "chronic complications in patients with newly diagnosed type 2 diabetes prevalence and related metabolic and clinical features the verona newly diagnosed type 2 diabetes study vnds 9",
+  "volume": "8",
+  "issue": "1",
+  "pages": "",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "101641391",
+  "issn": "",
+  "essn": "2052-4897",
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "32819978"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC7443259"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC7443259;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1136/bmjdrc-2020-001549"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "8/1/e001549"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "received",
+    "date": "2020/05/09 00:00"
+   },
+   {
+    "pubstatus": "revised",
+    "date": "2020/07/13 00:00"
+   },
+   {
+    "pubstatus": "accepted",
+    "date": "2020/07/15 00:00"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2020/08/22 06:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2020/08/21 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2021/06/22 06:00"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2020/08/20 00:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": 33,
+  "fulljournalname": "BMJ open diabetes research & care",
+  "elocationid": "doi: 10.1136/bmjdrc-2020-001549",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/08/01 00:00",
+  "sortfirstauthor": "Bonora E",
+  "vernaculartitle": ""
+ },
+ "30788010": {
+  "uid": "30788010",
+  "pubdate": "2018 Oct-Dec",
+  "epubdate": "",
+  "source": "Methodist Debakey Cardiovasc J",
+  "authors": [
+   {
+    "name": "Agashe S",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Petak S",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Petak S",
+  "title": "Cardiac Autonomic Neuropathy in Diabetes Mellitus.",
+  "sorttitle": "cardiac autonomic neuropathy in diabetes mellitus",
+  "volume": "14",
+  "issue": "4",
+  "pages": "251-256",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "101508600",
+  "issn": "1947-6094",
+  "essn": "1947-6108",
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "30788010"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC6369622"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC6369622;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.14797/mdcj-14-4-251"
+   },
+   {
+    "idtype": "sici",
+    "idtypen": 8,
+    "value": "i1947-6094-14-4-251"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "entrez",
+    "date": "2019/02/22 06:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2019/02/23 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2019/04/10 06:00"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2018/10/01 00:00"
+   }
+  ],
+  "references": [
+   {
+    "refsource": "Methodist Debakey Cardiovasc J. 2019 Apr-Jun;15(2):164. doi: 10.14797/mdcj-15-2-164.",
+    "reftype": "Comment in",
+    "pmid": 31384386,
+    "note": ""
+   }
+  ],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": 32,
+  "fulljournalname": "Methodist DeBakey cardiovascular journal",
+  "elocationid": "doi: 10.14797/mdcj-14-4-251",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/10/01 00:00",
+  "sortfirstauthor": "Agashe S",
+  "vernaculartitle": ""
+ },
+ "6243893": {
+  "uid": "6243893",
+  "pubdate": "1980 Feb",
+  "epubdate": "",
+  "source": "Ann Intern Med",
+  "authors": [
+   {
+    "name": "Duchen LW",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Anjorin A",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Watkins PJ",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Mackay JD",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Mackay JD",
+  "title": "Pathology of autonomic neuropathy in diabetes mellitus.",
+  "sorttitle": "pathology of autonomic neuropathy in diabetes mellitus",
+  "volume": "92",
+  "issue": "2 Pt 2",
+  "pages": "301-3",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "0372351",
+  "issn": "0003-4819",
+  "essn": "",
+  "pubtype": [
+   "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "6243893"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.7326/0003-4819-92-2-301"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "pubmed",
+    "date": "1980/02/01 00:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "1980/02/01 00:01"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "1980/02/01 00:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Annals of internal medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1980/02/01 00:00",
+  "sortfirstauthor": "Duchen LW",
+  "vernaculartitle": ""
+ },
+ "6991317": {
+  "uid": "6991317",
+  "pubdate": "1980 Jan",
+  "epubdate": "",
+  "source": "Diabetes",
+  "authors": [
+   {
+    "name": "Robertson DM",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Sima AA",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Sima AA",
+  "title": "Diabetic neuropathy in the mutant mouse [C57BL/ks(db/db)]: a morphometric study.",
+  "sorttitle": "diabetic neuropathy in the mutant mouse c57bl ks db db a morphometric study",
+  "volume": "29",
+  "issue": "1",
+  "pages": "60-7",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "0372763",
+  "issn": "0012-1797",
+  "essn": "",
+  "pubtype": [
+   "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "6991317"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.2337/diab.29.1.60"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "pubmed",
+    "date": "1980/01/01 00:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "1980/01/01 00:01"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "1980/01/01 00:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Diabetes",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1980/01/01 00:00",
+  "sortfirstauthor": "Robertson DM",
+  "vernaculartitle": ""
+ },
+ "22160540": {
+  "uid": "22160540",
+  "pubdate": "2012 Mar 15",
+  "epubdate": "2011 Dec 7",
+  "source": "Am J Physiol Regul Integr Comp Physiol",
+  "authors": [
+   {
+    "name": "Lee J",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Cummings BP",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Martin E",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Sharp JW",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Graham JL",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Stanhope KL",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Havel PJ",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Raybould HE",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Raybould HE",
+  "title": "Glucose sensing by gut endocrine cells and activation of the vagal afferent pathway is impaired in a rodent model of type 2 diabetes mellitus.",
+  "sorttitle": "glucose sensing by gut endocrine cells and activation of the vagal afferent pathway is impaired in a rodent model of type 2 diabetes mellitus",
+  "volume": "302",
+  "issue": "6",
+  "pages": "R657-66",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "100901230",
+  "issn": "0363-6119",
+  "essn": "1522-1490",
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "22160540"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC3774489"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC3774489;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1152/ajpregu.00345.2011"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "ajpregu.00345.2011"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "entrez",
+    "date": "2011/12/14 06:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2011/12/14 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2012/05/16 06:00"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2013/03/15 00:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": 42,
+  "fulljournalname": "American journal of physiology. Regulatory, integrative and comparative physiology",
+  "elocationid": "doi: 10.1152/ajpregu.00345.2011",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/03/15 00:00",
+  "sortfirstauthor": "Lee J",
+  "vernaculartitle": ""
+ },
+ "33067312": {
+  "uid": "33067312",
+  "pubdate": "2021 Jan",
+  "epubdate": "2020 Oct 16",
+  "source": "Diabetes",
+  "authors": [
+   {
+    "name": "Malbert CH",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Chauvin A",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Horowitz M",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Jones KL",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Jones KL",
+  "title": "Glucose Sensing Mediated by Portal Glucagon-Like Peptide 1 Receptor Is Markedly Impaired in Insulin-Resistant Obese Animals.",
+  "sorttitle": "glucose sensing mediated by portal glucagon like peptide 1 receptor is markedly impaired in insulin resistant obese animals",
+  "volume": "70",
+  "issue": "1",
+  "pages": "99-110",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "0372763",
+  "issn": "0012-1797",
+  "essn": "1939-327X",
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "33067312"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.2337/db20-0361"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "db20-0361"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "received",
+    "date": "2020/04/09 00:00"
+   },
+   {
+    "pubstatus": "accepted",
+    "date": "2020/10/06 00:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2020/10/18 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2021/05/11 06:00"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2020/10/17 05:25"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Diabetes",
+  "elocationid": "doi: 10.2337/db20-0361",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/01/01 00:00",
+  "sortfirstauthor": "Malbert CH",
+  "vernaculartitle": ""
+ },
+ "23423571": {
+  "uid": "23423571",
+  "pubdate": "2013 Jul",
+  "epubdate": "2013 Feb 19",
+  "source": "Diabetes",
+  "authors": [
+   {
+    "name": "Duca FA",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Sakar Y",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Covasa M",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Covasa M",
+  "title": "Combination of obesity and high-fat feeding diminishes sensitivity to GLP-1R agonist exendin-4.",
+  "sorttitle": "combination of obesity and high fat feeding diminishes sensitivity to glp 1r agonist exendin 4",
+  "volume": "62",
+  "issue": "7",
+  "pages": "2410-5",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "0372763",
+  "issn": "0012-1797",
+  "essn": "1939-327X",
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "23423571"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC3712059"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC3712059;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.2337/db12-1204"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "db12-1204"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "entrez",
+    "date": "2013/02/21 06:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2013/02/21 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2013/09/10 06:00"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2014/07/01 00:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": 25,
+  "fulljournalname": "Diabetes",
+  "elocationid": "doi: 10.2337/db12-1204",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/07/01 00:00",
+  "sortfirstauthor": "Duca FA",
+  "vernaculartitle": ""
+ },
+ "26780750": {
+  "uid": "26780750",
+  "pubdate": "2016 Mar",
+  "epubdate": "2016 Jan 16",
+  "source": "Diabetologia",
+  "authors": [
+   {
+    "name": "McCreight LJ",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Bailey CJ",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Pearson ER",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Pearson ER",
+  "title": "Metformin and the gastrointestinal tract.",
+  "sorttitle": "metformin and the gastrointestinal tract",
+  "volume": "59",
+  "issue": "3",
+  "pages": "426-35",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "0006777",
+  "issn": "0012-186X",
+  "essn": "1432-0428",
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "26780750"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC4742508"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC4742508;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1007/s00125-015-3844-9"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "10.1007/s00125-015-3844-9"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "received",
+    "date": "2015/10/06 00:00"
+   },
+   {
+    "pubstatus": "accepted",
+    "date": "2015/12/01 00:00"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2016/01/19 06:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2016/01/19 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2016/12/15 06:00"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2016/01/16 00:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": 87,
+  "fulljournalname": "Diabetologia",
+  "elocationid": "doi: 10.1007/s00125-015-3844-9",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/03/01 00:00",
+  "sortfirstauthor": "McCreight LJ",
+  "vernaculartitle": ""
+ },
+ "33969456": {
+  "uid": "33969456",
+  "pubdate": "2021 Oct",
+  "epubdate": "2021 May 10",
+  "source": "Clin Pharmacokinet",
+  "authors": [
+   {
+    "name": "Overgaard RV",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Navarria A",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Ingwersen SH",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "B\u00e6kdal TA",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Kildemoes RJ",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Kildemoes RJ",
+  "title": "Clinical Pharmacokinetics of Oral Semaglutide: Analyses of Data from Clinical Pharmacology Trials.",
+  "sorttitle": "clinical pharmacokinetics of oral semaglutide analyses of data from clinical pharmacology trials",
+  "volume": "60",
+  "issue": "10",
+  "pages": "1335-1348",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "7606849",
+  "issn": "0312-5963",
+  "essn": "1179-1926",
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "33969456"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC8505367"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC8505367;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1007/s40262-021-01025-x"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "10.1007/s40262-021-01025-x"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "accepted",
+    "date": "2021/04/12 00:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2021/05/11 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2021/10/29 06:00"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2021/05/10 06:38"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2021/05/10 00:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": 28,
+  "fulljournalname": "Clinical pharmacokinetics",
+  "elocationid": "doi: 10.1007/s40262-021-01025-x",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/10/01 00:00",
+  "sortfirstauthor": "Overgaard RV",
+  "vernaculartitle": ""
+ },
+ "30166634": {
+  "uid": "30166634",
+  "pubdate": "2019 Jan",
+  "epubdate": "",
+  "source": "Am J Gastroenterol",
+  "authors": [
+   {
+    "name": "Chedid V",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Brandler J",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Vijayvargiya P",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Park SY",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Szarka LA",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Camilleri M",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Camilleri M",
+  "title": "Characterization of Upper Gastrointestinal Symptoms, Gastric Motor Functions, and Associations in Patients with Diabetes at a Referral Center.",
+  "sorttitle": "characterization of upper gastrointestinal symptoms gastric motor functions and associations in patients with diabetes at a referral center",
+  "volume": "114",
+  "issue": "1",
+  "pages": "143-154",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "0421030",
+  "issn": "0002-9270",
+  "essn": "1572-0241",
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "30166634"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1038/s41395-018-0234-1"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "pubmed",
+    "date": "2018/09/01 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2019/11/13 06:00"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2018/09/01 06:00"
+   }
+  ],
+  "references": [
+   {
+    "refsource": "Am J Gastroenterol. 2019 Jan;114(1):16-18. doi: 10.1038/s41395-018-0404-1.",
+    "reftype": "Comment in",
+    "pmid": 30413819,
+    "note": ""
+   }
+  ],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "The American journal of gastroenterology",
+  "elocationid": "doi: 10.1038/s41395-018-0234-1",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/01/01 00:00",
+  "sortfirstauthor": "Chedid V",
+  "vernaculartitle": ""
  }
 }

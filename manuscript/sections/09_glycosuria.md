@@ -1,10 +1,10 @@
-## 8. Glycosuria, glycaemic correction and net energy balance
+## 9. Glycosuria, glycaemic correction and net energy balance
 
-### 8.1 The premise
+### 9.1 The premise
 
 When plasma glucose exceeds the renal reabsorptive capacity, glucose is lost in urine and its energy leaves the body. In people with T2D under stepped hyperglycaemic clamps, urinary glucose excretion rose from 0.06 mmol/min at 7.8 mmol/L to 0.77 mmol/min at 13.3 mmol/L. Glycosuria persisted down to 7.8 mmol/L, and the threshold varied between people from 7.7 to 12.2 mmol/L [@RAVE2006]. Restoring glycaemia closes this energy leak. The energy is then retained, acting like an increase in intake, but only in people who were glycosuric, and only in the arm whose glycaemia improves.
 
-### 8.2 Measured magnitudes
+### 9.2 Measured magnitudes
 
 Three human studies measured the energy involved directly.
 
@@ -14,7 +14,7 @@ Three human studies measured the energy involved directly.
 
 The reverse experiment confirms that urinary glucose energy matters to weight. SGLT2 inhibition with empagliflozin caused about 206 kcal/day of glycosuric loss, which predicted an 11.3 kg weight loss. Observed loss was 3.2 kg because calculated intake rose by about 13% [@FERRANNINI_G2015]. With canagliflozin, intake rose by about 100 kcal/day for each kilogram lost [@POLIDORI2016].
 
-### 8.3 Could this offset be large enough?
+### 9.3 Could this offset be large enough?
 
 None of the incretin trials measured urinary glucose or energy expenditure. We therefore built transparent scenario estimates (Table 2; analysis/derived.py). Each assumes a *differential* reduction in glycosuria between drug and placebo arms, plus a differential fall in resting energy expenditure, persisting over the trial. We used 3.75 kcal per gram of glucose and the energy–weight relationship of Hall and colleagues: a permanent 100 kJ/day change yields about 1 kg at steady state, with half the change reached in about 1 year [@HALL2011]. For trial-like T2D populations with baseline HbA1c of about 8%, in which the drug lowers HbA1c by about 1.5 percentage points more than placebo [@SURMOUNT2], the retained energy could account for roughly 1 kg (low scenario) to 6–7 kg (high scenario) by 68–72 weeks. The observed placebo-adjusted gap between STEP 1 and STEP 2 is about 6 percentage points, or roughly 6 kg.
 

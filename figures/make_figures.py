@@ -74,23 +74,30 @@ box(30, 74, 40, 22, 'Incretin-based drug: exposure & receptor engagement',
     'Same dose & duration in matched programmes\nExposure determined chiefly by body weight\n(popPK; T2D data)  ·  GI tolerability and\ndiscontinuation similar or lower in T2D trials\n-> drug exposure unlikely to explain the gap')
 box(76, 74, 23, 22, 'Observed phenotype', 'Placebo-adjusted weight loss\n~0.5-0.8 x that in\npopulations without diabetes\n(median ~0.6; 2-7 pp)\nPlacebo-arm loss NOT lower')
 
-box(1, 38, 30, 28, '1  Energy intake', 'Appetite, satiation, food reward\n(hypothalamus, hindbrain, CVOs,\nmesolimbic; vagal afferents)\nSuppression shown in T2D (human)\nMagnitude vs non-T2D: untested\nGastric emptying: tachyphylaxis;\nbaseline-dependent (diabetes)')
-box(35, 38, 30, 28, '2  Energy expenditure & storage', 'REE falls as glycaemia corrects\n(T2D RMR elevated; sulfonylurea,\ninsulin studies)  ·  substrate\npartitioning / fat oxidation\n(tirzepatide: more fat oxidation,\nno change in adaptation; non-T2D)\nGlycogen-water shifts (inference)')
-box(69, 38, 30, 28, '3  Energy losses', 'Glycosuria eliminated as glucose\nfalls below the renal threshold\n(measured: 100+ g/d in poor control;\nSGLT2i: ~200 kcal/d drives\ncompensatory intake)\nIn incretin trials: NOT measured')
+box(1, 38, 23, 28, '1  Peripheral incretin signalling',
+    'Endogenous GLP-1/GIP secretion\n(preserved on meta-analysis;\nfalls as HbA1c rises)\nDegradation: DPP-4, neprilysin\nPortal sensing: receptor NOT\nengaged by agonists\nVagal afferents: required for\nnative GLP-1 in humans;\ndegraded in T2D models')
+box(26.5, 38, 23, 28, '2  Energy intake (central)',
+    'Appetite, satiation, food reward\n(hypothalamus, hindbrain,\nCVOs, mesolimbic)\nSuppression shown in T2D\n(human); magnitude vs\nnon-T2D: untested\nGastric emptying: tachyphylaxis;\noften accelerated in T2D')
+box(52, 38, 23, 28, '3  Energy expenditure & storage',
+    'REE falls as glycaemia corrects\n(T2D RMR elevated;\nsulfonylurea, insulin studies)\nSubstrate partitioning /\nfat oxidation (tirzepatide:\nmore fat oxidation, no change\nin adaptation; non-T2D)\nGlycogen-water shifts (inference)')
+box(77.5, 38, 21.5, 28, '4  Energy losses',
+    'Glycosuria eliminated as\nglucose falls below the\nrenal threshold\n(measured: 100+ g/d in\npoor control; SGLT2i:\n~200 kcal/d drives\ncompensatory intake)\nIn incretin trials:\nNOT measured')
 
-box(1, 4, 30, 24, '4  Clinical/behavioural', 'Weight-promoting background drugs\n(UKPDS: insulin +4.0 kg, SU +1.7-2.6)\nHypoglycaemia-related eating (hyp.)\nAdherence/motivation (lifestyle:\nT2D lost less than spouses)\nAge, sex composition')
+box(1, 4, 30, 24, '5  Clinical/behavioural', 'Weight-promoting background drugs\n(UKPDS: insulin +4.0 kg, SU +1.7-2.6)\nBackground metformin raises GLP-1\nHypoglycaemia-related eating (hyp.)\nAdherence/motivation (lifestyle:\nT2D lost less than spouses)\nAge, sex composition')
 box(35, 4, 30, 24, 'Net energy balance', 'Drug-arm-specific offsets:\nretained glucose energy + lower REE\nScenario estimate: ~1-6 kg by\nweek 68-72 (assumption-driven)\nvs observed gap ~6 kg (STEP 1 vs 2)')
-box(69, 4, 30, 24, '5  Methodological', 'Separate trials, populations\nnot randomised by T2D status\nNo cross-programme IPD with\nadjustment for age, sex, BMI,\nbackground therapy')
+box(69, 4, 30, 24, '6  Methodological', 'Separate trials, populations\nnot randomised by T2D status\nNo cross-programme IPD with\nadjustment for age, sex, BMI,\nbackground therapy')
 
 arrow((23, 85), (29.4, 85), 'established')
 arrow((70.6, 85), (75.4, 85), 'established')
-arrow((12, 73.4), (12, 66.6), 'human')
-arrow((18, 73.4), (44, 67.2), 'human')
-arrow((21, 73.4), (78, 67.2), 'established')
-arrow((40, 73.4), (20, 67.2), 'established')
-arrow((16, 37.4), (40, 28.6), 'established', rad=0.1)
-arrow((50, 37.4), (50, 28.6), 'hypothesis')
-arrow((84, 37.4), (60, 28.6), 'hypothesis', rad=-0.1)
+arrow((9, 73.4), (9, 66.6), 'human')
+arrow((16, 73.4), (34, 67.2), 'human')
+arrow((20, 73.4), (60, 67.2), 'established')
+arrow((22, 73.4), (86, 67.2), 'established')
+arrow((38, 73.4), (38, 66.6), 'established')
+arrow((24.3, 52), (26.2, 52), 'hypothesis')
+arrow((36, 37.4), (44, 28.6), 'established', rad=0.1)
+arrow((60, 37.4), (54, 28.6), 'hypothesis')
+arrow((86, 37.4), (60, 28.6), 'hypothesis', rad=-0.1)
 arrow((31.6, 16), (34.4, 16), 'human')
 arrow((68.4, 16), (65.6, 16), 'hypothesis')
 

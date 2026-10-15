@@ -9,6 +9,7 @@ Narrative, mechanism-led review (not a systematic review) asking whether people 
 | `manuscript/manuscript.md` (+ `.docx`, `.html`) | Assembled manuscript with numbered citations and bibliography (built, do not edit by hand) |
 | `manuscript/sections/*.md` | Source sections (edit these; citations as `[@KEY]`) |
 | `manuscript/outline.md` | Approved architecture |
+| `Peripheral Incretin Signalling in T2DM.docx` | Author-supplied source document integrated as Section 5; every claim verified and eleven corrected (see `quality_control.md`) |
 | `references/bibliography.md`, `references/references.json` | Vancouver-style bibliography generated from PubMed esummary |
 | `references/verified_log.md` | Source-by-source verification log (population, numbers, access level) |
 | `evidence/clinical_trials.csv` | Structured clinical extraction (Table 1 superset) |

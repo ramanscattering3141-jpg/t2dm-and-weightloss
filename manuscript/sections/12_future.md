@@ -1,4 +1,4 @@
-## 11. Unresolved questions and future directions
+## 12. Unresolved questions and future directions
 
 The central gap is that no study has measured the components of energy balance in people with and without T2D receiving the same incretin agent. Table 4 sets out studies that would resolve the main uncertainties, in order of priority.
 
@@ -12,9 +12,13 @@ The central gap is that no study has measured the components of energy balance i
 | 4 | Insulin resistance modifies weight response | Same cohort, stratified by clamp M value | Hyperinsulinaemic–euglycaemic clamp; stable-isotope tracers of lipolysis and glucose disposal; muscle glycogen by ¹³C-MRS | Association of baseline M value with weight response, adjusted for intake | M value predicts response independently of intake and glycosuria | No independent association |
 | 5 | Background therapy contributes | T2D trial participants randomised to protocolised sulfonylurea/insulin withdrawal versus continuation | Weight; hypoglycaemia; intake | Difference in weight response | Withdrawal increases weight loss | No difference |
 | 6 | The glycaemic gradient is causal | T2D participants on the same agent randomised to SGLT2i co-therapy (maintaining glycosuria) versus none | Urinary glucose; weight; intake | Weight difference attributable to sustained glycosuria | Weight loss in T2D approaches non-diabetes levels | No additional weight difference beyond the SGLT2i effect |
+| 7 | Peripheral vagal integrity modifies weight response | Adults with obesity ± T2D starting the same agent, stratified by autonomic function | Cardiovascular autonomic reflex tests; gastric emptying (scintigraphy); heart rate variability; weight; ad libitum intake | Weight response by baseline autonomic function tertile, adjusted for HbA1c and BMI | Poorer vagal function predicts smaller weight loss independently of glycaemia | No association, or association explained by HbA1c |
+| 8 | The endogenous incretin background predicts response | Existing phase 3 trial biobanks (STEP, SURMOUNT, ATTAIN) with stored samples | Baseline meal-stimulated total and intact GLP-1 and GIP; plasma DPP-4 activity; HbA1c | Association of baseline incretin response with placebo-adjusted % weight change | Lower endogenous secretion predicts smaller drug response | No association after adjustment for HbA1c |
+| 9 | Vagal transmission is required for agonist-induced anorexia in humans | Adults with prior truncal vagotomy and matched controls, or T2D with versus without gastroparesis | Ad libitum intake and appetite ratings on a long-acting agonist; gastric emptying | Placebo-adjusted reduction in intake by vagal status | Reduced or absent intake suppression with vagal dysfunction | Equal suppression, locating the effect centrally |
 
 Several design principles apply across these studies:
 
 * **Mediation analyses.** Studies should prespecify mediation analyses that partition the diabetes difference into intake, expenditure and urinary-loss components, rather than reporting each in isolation.
 * **Controlled feeding.** Short controlled-feeding studies under matched agonist exposure could separate drug effects on intake from effects on energy disposal.
-* **Measurement in T2D trials.** Phase 3 programmes in T2D could add urinary glucose collection and expenditure measurement at low cost, which would make these data routine.
+* **Measurement in T2D trials.** Phase 3 programmes in T2D could add urinary glucose collection and expenditure measurement at low cost, which would make these data routine. Baseline autonomic reflex testing and a stored meal-stimulated incretin sample would add similarly little burden and would make studies 7 and 8 answerable retrospectively.
+* **Separating pathway from host.** Studies 7 and 9 test the peripheral hypothesis of Section 5 in the only way available in humans: by varying vagal integrity rather than diabetes status. Because vagal dysfunction and hyperglycaemia co-vary, either design needs adjustment for HbA1c, and a null result in study 9 would locate the agonist's anorectic effect centrally and largely close the question.

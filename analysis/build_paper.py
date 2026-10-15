@@ -13,9 +13,9 @@ secs = {os.path.basename(f): open(f).read() for f in sorted(glob.glob(P('manuscr
 front = secs.pop('00_front.md')
 abstract = front.split('## Abstract', 1)[1].split('**Keywords:**')[0].strip()
 keywords = front.split('**Keywords:**', 1)[1].strip()
-concl = secs['12_conclusions.md']
+concl = secs['13_conclusions.md']
 body_concl, legends = concl.split('## Figure legends')
-secs['12_conclusions.md'] = body_concl
+secs['13_conclusions.md'] = body_concl
 leg = {}
 for m in re.finditer(r'\*\*(Figure \d)\. ([^*]+)\*\*\s*(.+?)(?=\n\n!\[|\Z)', legends, re.S):
     leg[m.group(1)] = (m.group(2).strip(), m.group(3).strip())
@@ -27,8 +27,8 @@ def figure(n, path):
 
 # place Figure 1 after Table 1 footnote (end of section 2); Figure 2 after first paragraph of section 10
 secs['02_clinical.md'] = secs['02_clinical.md'].rstrip() + figure(1, '../figures/figure1_clinical_phenotype.png')
-s10 = secs['10_integrative.md'].split('\n\n')
-secs['10_integrative.md'] = '\n\n'.join(s10[:2]) + figure(2, '../figures/figure2_integrative_model.png') + '\n\n'.join(s10[2:])
+s10 = secs['11_integrative.md'].split('\n\n')
+secs['11_integrative.md'] = '\n\n'.join(s10[:2]) + figure(2, '../figures/figure2_integrative_model.png') + '\n\n'.join(s10[2:])
 
 text = '\n\n'.join(secs.values())
 

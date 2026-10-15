@@ -1,10 +1,10 @@
-## 7. Insulin resistance, hyperinsulinaemia and substrate partitioning
+## 8. Insulin resistance, hyperinsulinaemia and substrate partitioning
 
-### 7.1 The pathophysiological premise
+### 8.1 The pathophysiological premise
 
 Skeletal muscle is the main site of insulin-stimulated glucose disposal [@DEFRONZO1981]. In T2D, insulin resistance affects muscle, liver and adipose tissue. Hepatic insulin resistance sustains glucose production, adipose insulin resistance weakens insulin's suppression of lipolysis, and ectopic lipid accumulation links these defects [@PETERSEN_SHULMAN2018]. Insulin-resistant muscle shows "metabolic inflexibility": it oxidises more glucose in the fasting state but fails to switch towards glucose oxidation when stimulated by insulin [@KELLEY2000]. Incretin therapy improves several of these defects. Tirzepatide increased the clamp M value in T2D [@HEISE2022]. In patients with non-alcoholic steatohepatitis, liraglutide improved hepatic and adipose insulin sensitivity and reduced de novo lipogenesis [@ARMSTRONG2016]. Semaglutide reduced HOMA-IR in people with prediabetes [@PERREAULT2022].
 
-### 7.2 Does insulin resistance plausibly limit weight loss?
+### 8.2 Does insulin resistance plausibly limit weight loss?
 
 A recurrent proposal is that insulin resistance itself, or the hyperinsulinaemia it causes, traps energy in adipose tissue or limits fat mobilisation and so slows weight loss. Three considerations argue against assigning it a primary role.
 
@@ -14,6 +14,6 @@ A recurrent proposal is that insulin resistance itself, or the hyperinsulinaemia
 
 One partitioning effect deserves note because it changes weight without changing fat: glycogen. Glycogen is stored with water, so a larger glycogen pool can add weight. Improved insulin action could plausibly restore muscle and liver glycogen that are depleted in poorly controlled diabetes and add weight unrelated to adiposity. This is an inference from general physiology and has not been measured in incretin trials.
 
-### 7.3 Endogenous hyperinsulinaemia versus insulin and sulfonylurea therapy
+### 8.3 Endogenous hyperinsulinaemia versus insulin and sulfonylurea therapy
 
-Endogenous hyperinsulinaemia must be distinguished from weight-promoting medicines. In UKPDS 33, intensive treatment with insulin increased weight by 4.0 kg, and sulfonylureas by 1.7–2.6 kg, relative to conventional therapy [@UKPDS33]. In SURMOUNT-2, 26.7% of participants took sulfonylureas, and level-2 hypoglycaemia clustered in that group despite protocol-guided dose reduction [@SURMOUNT2]. Insulin-associated weight gain arises partly through the energetics of improved glycaemia (Section 8). Hypoglycaemia-avoidant eating is often invoked but is a hypothesis. Notably, liraglutide 3.0 mg plus intensive behavioural therapy produced a placebo-adjusted reduction of 4.3 percentage points in insulin-treated T2D [@SCALE_INSULIN], similar to the 4.0 points in T2D without insulin [@SCALE_DM]. Insulin co-therapy with down-titration therefore did not abolish the response. Background therapy is a credible contributor to the gap at population level, but no trial has stratified weight response by background agent with adequate power.
+Endogenous hyperinsulinaemia must be distinguished from weight-promoting medicines. In UKPDS 33, intensive treatment with insulin increased weight by 4.0 kg, and sulfonylureas by 1.7–2.6 kg, relative to conventional therapy [@UKPDS33]. In SURMOUNT-2, 26.7% of participants took sulfonylureas, and level-2 hypoglycaemia clustered in that group despite protocol-guided dose reduction [@SURMOUNT2]. Insulin-associated weight gain arises partly through the energetics of improved glycaemia (Section 9). Hypoglycaemia-avoidant eating is often invoked but is a hypothesis. Notably, liraglutide 3.0 mg plus intensive behavioural therapy produced a placebo-adjusted reduction of 4.3 percentage points in insulin-treated T2D [@SCALE_INSULIN], similar to the 4.0 points in T2D without insulin [@SCALE_DM]. Insulin co-therapy with down-titration therefore did not abolish the response. Background therapy is a credible contributor to the gap at population level, but no trial has stratified weight response by background agent with adequate power.
