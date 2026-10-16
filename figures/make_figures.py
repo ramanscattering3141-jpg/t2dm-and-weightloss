@@ -72,7 +72,7 @@ def arrow(p, q, kind, color=INK2, rad=0.0):
 box(1, 74, 22, 22, 'T2D state', 'Hyperglycaemia; glycosuria\nInsulin resistance (muscle,\nliver, adipose)\nReduced incretin effect\nAutonomic/GI change\nOlder, more male cohorts\nSU / insulin co-therapy')
 box(30, 74, 40, 22, 'Incretin-based drug: exposure & receptor engagement',
     'Same dose & duration in matched programmes\nExposure determined chiefly by body weight\n(popPK; T2D data)  ·  GI tolerability and\ndiscontinuation similar or lower in T2D trials\n-> drug exposure unlikely to explain the gap')
-box(76, 74, 23, 22, 'Observed phenotype', 'Placebo-adjusted weight loss\n~0.5-0.8 x that in\npopulations without diabetes\n(median ~0.6; 2-7 pp)\nPlacebo-arm loss NOT lower')
+box(76, 70, 23, 26, 'Observed phenotype', 'Placebo-adjusted weight loss\n~0.5-0.8 x that without\ndiabetes (median ~0.63;\n2-7 pp; 9 comparisons)\nPlacebo-arm loss NOT lower\nGraded with baseline HbA1c\nAlso non-incretin drugs\nand bariatric surgery')
 
 box(1, 38, 23, 28, '1  Peripheral incretin signalling',
     'Endogenous GLP-1/GIP secretion\n(preserved on meta-analysis;\nfalls as HbA1c rises)\nDegradation: DPP-4, neprilysin\nPortal sensing: receptor NOT\nengaged by agonists\nVagal afferents: required for\nnative GLP-1 in humans;\ndegraded in T2D models')
@@ -80,10 +80,10 @@ box(26.5, 38, 23, 28, '2  Energy intake (central)',
     'Appetite, satiation, food reward\n(hypothalamus, hindbrain,\nCVOs, mesolimbic)\nSuppression shown in T2D\n(human); magnitude vs\nnon-T2D: untested\nGastric emptying: tachyphylaxis;\noften accelerated in T2D')
 box(52, 38, 23, 28, '3  Energy expenditure & storage',
     'REE falls as glycaemia corrects\n(T2D RMR elevated;\nsulfonylurea, insulin studies)\nSubstrate partitioning /\nfat oxidation (tirzepatide:\nmore fat oxidation, no change\nin adaptation; non-T2D)\nGlycogen-water shifts (inference)')
-box(77.5, 38, 21.5, 28, '4  Energy losses',
-    'Glycosuria eliminated as\nglucose falls below the\nrenal threshold\n(measured: 100+ g/d in\npoor control; SGLT2i:\n~200 kcal/d drives\ncompensatory intake)\nIn incretin trials:\nNOT measured')
+box(77.5, 35, 21.5, 31, '4  Energy losses',
+    'Glycosuria eliminated as\nglucose falls below the\nrenal threshold (100+ g/d\nin poor control)\nModel reproduces part of\nthe gap from UGE + EE\nalone, appetite held fixed\nStable background SGLT2i:\ngreatest attenuation\nIn trials: NOT measured')
 
-box(1, 4, 30, 24, '5  Clinical/behavioural', 'Weight-promoting background drugs\n(UKPDS: insulin +4.0 kg, SU +1.7-2.6)\nBackground metformin raises GLP-1\nHypoglycaemia-related eating (hyp.)\nAdherence/motivation (lifestyle:\nT2D lost less than spouses)\nAge, sex composition')
+box(1, 4, 30, 24, '5  Clinical/behavioural', 'Weight-promoting background drugs\n(UKPDS: insulin +4.0 kg, SU +1.7-2.6)\nBackground SGLT2i: raises baseline\nUGE ~100 g/d (model)\nBackground metformin raises GLP-1\nHypoglycaemia-related eating (hyp.)\nAdherence/motivation (lifestyle:\nT2D lost less than spouses)\nAge, sex composition')
 box(35, 4, 30, 24, 'Net energy balance', 'Drug-arm-specific offsets:\nretained glucose energy + lower REE\nScenario estimate: ~1-6 kg by\nweek 68-72 (assumption-driven)\nvs observed gap ~6 kg (STEP 1 vs 2)')
 box(69, 4, 30, 24, '6  Methodological', 'Separate trials, populations\nnot randomised by T2D status\nNo cross-programme IPD with\nadjustment for age, sex, BMI,\nbackground therapy')
 
@@ -92,12 +92,12 @@ arrow((70.6, 85), (75.4, 85), 'established')
 arrow((9, 73.4), (9, 66.6), 'human')
 arrow((16, 73.4), (34, 67.2), 'human')
 arrow((20, 73.4), (60, 67.2), 'established')
-arrow((22, 73.4), (86, 67.2), 'established')
+arrow((22, 73.4), (86, 66.2), 'established')
 arrow((38, 73.4), (38, 66.6), 'established')
 arrow((24.3, 52), (26.2, 52), 'hypothesis')
 arrow((36, 37.4), (44, 28.6), 'established', rad=0.1)
 arrow((60, 37.4), (54, 28.6), 'hypothesis')
-arrow((86, 37.4), (60, 28.6), 'hypothesis', rad=-0.1)
+arrow((86, 34.4), (60, 28.6), 'hypothesis', rad=-0.1)
 arrow((31.6, 16), (34.4, 16), 'human')
 arrow((68.4, 16), (65.6, 16), 'hypothesis')
 

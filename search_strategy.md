@@ -43,11 +43,21 @@ Matched-programme RCTs (same molecule/dose/duration/estimand) > harmonised/IPD o
 These were searched and are reported for completeness; none produced a source that met the inclusion priorities for a claim about diabetes status and weight response to an incretin agonist.
 - **Bile acid / TGR5 signalling** and **microbiome / short-chain fatty acids** as determinants of L-cell secretion in T2D: the retrieved literature concerns metformin's gut pharmacology and mechanism reviews rather than any comparison relevant to agonist response. Only the metformin-background point was retained.
 - **Enteroendocrine / L-cell density in human T2D intestinal biopsies**: no human study comparing L-cell density by diabetes status with a weight or agonist-response endpoint was retrieved. The reduced ileal L-cell number used in Section 5.7 is from a rodent diet-induced obesity model.
-- **Bariatric surgery as a parallel**: searches for an attenuated weight-loss phenotype by preoperative diabetes status did not retrieve a matched comparison of the quality required; this potentially informative parallel is therefore not used.
+- **Bariatric surgery as a parallel**: direct searches did not retrieve a usable matched comparison. The reference trail of Hall 2026 subsequently supplied one [COURCOULAS2015], which is now cited in Section 2.5 for the direction of the association. This is a retrieval failure of the original search, recorded here rather than silently repaired.
 - **Immunogenicity / anti-drug antibodies** as an exposure explanation: nothing retrieved that stratified efficacy by diabetes status.
 - **Heart rate variability or autonomic function as a predictor of GLP-1 receptor agonist weight response**: no studies retrieved. This absence is the basis for proposed study 7 in Table 4.
 
+## Third round: Hall 2026 and its evidence trail (16 October 2026)
+Prompted by a reader query about a preprint published after the first draft. Retrieval:
+- Web search identified `Why Do Patients with Type 2 Diabetes Lose Less Weight on GLP-1s? A Mathematical Modeling Analysis`, bioRxiv 10.64898/2026.09.08.750112.
+- Metadata confirmed via the bioRxiv API (`api.biorxiv.org/details/biorxiv/...`) and Europe PMC (PPR1316883). Full text retrieved from the posted preprint HTML after repeated HTTP 429 rate limiting.
+- Its reference list was then mined and each relevant source resolved by citation matching and verified against its PubMed abstract. This supplied: the STEP UP / STEP UP T2D matched pair, the non-incretin generality evidence (naltrexone-bupropion, lorcaserin, phentermine-topiramate, bariatric surgery, formula diets), the within-T2D HbA1c gradient, and the model's own inputs (ADAG, renal threshold, the energy-expenditure coefficient).
+- This round materially changed the review's conclusions and corrected a sign error in proposed study 6 (see `quality_control.md`).
+
+**Note on preprint retrieval:** bioRxiv rate-limits automated access aggressively. Metadata is reliably available through its API; full text required repeated retries. Preprints are not indexed in PubMed, so the PubMed-only strategy declared above would not have found this paper. That is a structural gap in the search, now explicit.
+
 ## Known retrieval gaps
 - Embase, Cochrane CENTRAL, conference abstracts not searched.
+- **Preprint servers (bioRxiv, medRxiv) were not searched systematically.** Hall 2026 was found only because a reader asked about it. Any other relevant preprint remains unretrieved.
 - Supplementary appendices of most NEJM/Lancet trials not accessible (subgroups by baseline HbA1c, background therapy, sex).
 - No formal search for unpublished IPD analyses or regulatory (FDA/EMA) review documents.

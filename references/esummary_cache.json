@@ -17971,5 +17971,2418 @@
   "sortpubdate": "2019/01/01 00:00",
   "sortfirstauthor": "Chedid V",
   "vernaculartitle": ""
+ },
+ "40961952": {
+  "uid": "40961952",
+  "pubdate": "2025 Nov",
+  "epubdate": "2025 Sep 14",
+  "source": "Lancet Diabetes Endocrinol",
+  "authors": [
+   {
+    "name": "Wharton S",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Freitas P",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Hjelmes\u00e6th J",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Kabisch M",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Kandler K",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Lingvay I",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Quiroga M",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Rosenstock J",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Garvey WT",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "STEP UP trial group",
+    "authtype": "CollectiveName",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Garvey WT",
+  "title": "Once-weekly semaglutide 7\u00b72 mg in adults with obesity (STEP UP): a randomised, controlled, phase 3b trial.",
+  "sorttitle": "once weekly semaglutide 7 2 mg in adults with obesity step up a randomised controlled phase 3b trial",
+  "volume": "13",
+  "issue": "11",
+  "pages": "949-963",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "101618821",
+  "issn": "2213-8587",
+  "essn": "2213-8595",
+  "pubtype": [
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Clinical Trial, Phase III",
+   "Multicenter Study",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "40961952"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1016/S2213-8587(25)00226-8"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "S2213-8587(25)00226-8"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "received",
+    "date": "2025/06/05 00:00"
+   },
+   {
+    "pubstatus": "revised",
+    "date": "2025/07/11 00:00"
+   },
+   {
+    "pubstatus": "accepted",
+    "date": "2025/07/17 00:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2025/10/17 00:31"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2025/09/18 00:30"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2025/09/17 18:52"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "The lancet. Diabetes & endocrinology",
+  "elocationid": "doi: 10.1016/S2213-8587(25)00226-8",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2025/11/01 00:00",
+  "sortfirstauthor": "Wharton S",
+  "vernaculartitle": ""
+ },
+ "40961953": {
+  "uid": "40961953",
+  "pubdate": "2025 Nov",
+  "epubdate": "2025 Sep 14",
+  "source": "Lancet Diabetes Endocrinol",
+  "authors": [
+   {
+    "name": "Lingvay I",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Bergenheim SJ",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Buse JB",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Freitas P",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Garvey WT",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Harder-Lauridsen NM",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Rosenstock J",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Sahu K",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Wharton S",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "STEP UP T2D trial group",
+    "authtype": "CollectiveName",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Wharton S",
+  "title": "Once-weekly semaglutide 7\u00b72 mg in adults with obesity and type 2 diabetes (STEP UP T2D): a randomised, controlled, phase 3b trial.",
+  "sorttitle": "once weekly semaglutide 7 2 mg in adults with obesity and type 2 diabetes step up t2d a randomised controlled phase 3b trial",
+  "volume": "13",
+  "issue": "11",
+  "pages": "935-948",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "101618821",
+  "issn": "2213-8587",
+  "essn": "2213-8595",
+  "pubtype": [
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Clinical Trial, Phase III",
+   "Multicenter Study",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "40961953"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1016/S2213-8587(25)00225-6"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "S2213-8587(25)00225-6"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "received",
+    "date": "2025/06/05 00:00"
+   },
+   {
+    "pubstatus": "revised",
+    "date": "2025/07/11 00:00"
+   },
+   {
+    "pubstatus": "accepted",
+    "date": "2025/07/17 00:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2025/10/17 00:31"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2025/09/18 00:31"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2025/09/17 18:52"
+   }
+  ],
+  "references": [
+   {
+    "refsource": "Lancet Diabetes Endocrinol. 2026 Jun;14(6):e9. doi: 10.1016/S2213-8587(26)00078-1.",
+    "reftype": "Erratum in",
+    "pmid": 41932351,
+    "note": ""
+   }
+  ],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "The lancet. Diabetes & endocrinology",
+  "elocationid": "doi: 10.1016/S2213-8587(25)00225-6",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2025/11/01 00:00",
+  "sortfirstauthor": "Lingvay I",
+  "vernaculartitle": ""
+ },
+ "40838997": {
+  "uid": "40838997",
+  "pubdate": "2025 Nov 1",
+  "epubdate": "",
+  "source": "Diabetes Care",
+  "authors": [
+   {
+    "name": "Sattar N",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Fr\u00fchbeck G",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Andreelli F",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Garc\u00eda-P\u00e9rez LE",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Cao D",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Stefanski A",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Tangi F",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Grant G",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Benabbad I",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Benabbad I",
+  "title": "Weight Reduction With Tirzepatide Varied Meaningfully by Baseline HbA1c Category in Adults With Overweight or Obesity and Type 2 Diabetes in SURMOUNT-2.",
+  "sorttitle": "weight reduction with tirzepatide varied meaningfully by baseline hba1c category in adults with overweight or obesity and type 2 diabetes in surmount 2",
+  "volume": "48",
+  "issue": "11",
+  "pages": "e136-e137",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "7805975",
+  "issn": "0149-5992",
+  "essn": "1935-5548",
+  "pubtype": [
+   "Letter"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "4",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "40838997"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC12583394"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC12583394;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.2337/dc25-1442"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "163253"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "received",
+    "date": "2025/06/17 00:00"
+   },
+   {
+    "pubstatus": "accepted",
+    "date": "2025/08/01 00:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2025/08/21 12:47"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2025/08/21 12:47"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2025/08/21 11:02"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2025/08/21 00:00"
+   }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 5,
+  "fulljournalname": "Diabetes care",
+  "elocationid": "doi: 10.2337/dc25-1442",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2025/11/01 00:00",
+  "sortfirstauthor": "Sattar N",
+  "vernaculartitle": ""
+ },
+ "31608552": {
+  "uid": "31608552",
+  "pubdate": "2020 Mar",
+  "epubdate": "2019 Nov 14",
+  "source": "Diabetes Obes Metab",
+  "authors": [
+   {
+    "name": "Aroda VR",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Capehorn MS",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Chaykin L",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Frias JP",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Lausvig NL",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Macura S",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "L\u00fcdemann J",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Madsbad S",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Rosenstock J",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Tabak O",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Tadayon S",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Bain SC",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Bain SC",
+  "title": "Impact of baseline characteristics and beta-cell function on the efficacy and safety of subcutaneous once-weekly semaglutide: A patient-level, pooled analysis of the SUSTAIN 1-5 trials.",
+  "sorttitle": "impact of baseline characteristics and beta cell function on the efficacy and safety of subcutaneous once weekly semaglutide a patient level pooled analysis of the sustain 1 5 trials",
+  "volume": "22",
+  "issue": "3",
+  "pages": "303-314",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "100883645",
+  "issn": "1462-8902",
+  "essn": "1463-1326",
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "31608552"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC7065219"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC7065219;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1111/dom.13896"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "received",
+    "date": "2019/07/08 00:00"
+   },
+   {
+    "pubstatus": "revised",
+    "date": "2019/10/01 00:00"
+   },
+   {
+    "pubstatus": "accepted",
+    "date": "2019/10/08 00:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2019/10/15 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2021/06/25 06:00"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2019/10/15 06:00"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2020/03/11 00:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": 39,
+  "fulljournalname": "Diabetes, obesity & metabolism",
+  "elocationid": "doi: 10.1111/dom.13896",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/03/01 00:00",
+  "sortfirstauthor": "Aroda VR",
+  "vernaculartitle": ""
+ },
+ "24144653": {
+  "uid": "24144653",
+  "pubdate": "2013 Dec",
+  "epubdate": "2013 Oct 21",
+  "source": "Diabetes Care",
+  "authors": [
+   {
+    "name": "Hollander P",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Gupta AK",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Plodkowski R",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Greenway F",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Bays H",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Burns C",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Klassen P",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Fujioka K",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "COR-Diabetes Study Group",
+    "authtype": "CollectiveName",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Fujioka K",
+  "title": "Effects of naltrexone sustained-release/bupropion sustained-release combination therapy on body weight and glycemic parameters in overweight and obese patients with type 2 diabetes.",
+  "sorttitle": "effects of naltrexone sustained release bupropion sustained release combination therapy on body weight and glycemic parameters in overweight and obese patients with type 2 diabetes",
+  "volume": "36",
+  "issue": "12",
+  "pages": "4022-9",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "7805975",
+  "issn": "0149-5992",
+  "essn": "1935-5548",
+  "pubtype": [
+   "Journal Article",
+   "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "24144653"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC3836105"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC3836105;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.2337/dc13-0234"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "dc13-0234"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "entrez",
+    "date": "2013/10/23 06:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2013/10/23 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2014/12/17 06:00"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2014/12/01 00:00"
+   }
+  ],
+  "references": [
+   {
+    "refsource": "Diabetes Care. 2014 Feb;37(2):587",
+    "reftype": "Erratum in",
+    "pmid": "",
+    "note": ""
+   }
+  ],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": 40,
+  "fulljournalname": "Diabetes care",
+  "elocationid": "doi: 10.2337/dc13-0234",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/12/01 00:00",
+  "sortfirstauthor": "Hollander P",
+  "vernaculartitle": ""
+ },
+ "20673995": {
+  "uid": "20673995",
+  "pubdate": "2010 Aug 21",
+  "epubdate": "2010 Jul 29",
+  "source": "Lancet",
+  "authors": [
+   {
+    "name": "Greenway FL",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Fujioka K",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Plodkowski RA",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Mudaliar S",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Guttadauria M",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Erickson J",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Kim DD",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Dunayevich E",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "COR-I Study Group",
+    "authtype": "CollectiveName",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Dunayevich E",
+  "title": "Effect of naltrexone plus bupropion on weight loss in overweight and obese adults (COR-I): a multicentre, randomised, double-blind, placebo-controlled, phase 3 trial.",
+  "sorttitle": "effect of naltrexone plus bupropion on weight loss in overweight and obese adults cor i a multicentre randomised double blind placebo controlled phase 3 trial",
+  "volume": "376",
+  "issue": "9741",
+  "pages": "595-605",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "2985213R",
+  "issn": "0140-6736",
+  "essn": "1474-547X",
+  "pubtype": [
+   "Clinical Trial, Phase III",
+   "Journal Article",
+   "Multicenter Study",
+   "Randomized Controlled Trial",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "20673995"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1016/S0140-6736(10)60888-4"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "S0140-6736(10)60888-4"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "entrez",
+    "date": "2010/08/03 06:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2010/08/03 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2010/09/09 06:00"
+   }
+  ],
+  "references": [
+   {
+    "refsource": "Lancet. 2010 Aug 21;376(9741):594",
+    "reftype": "Erratum in",
+    "pmid": "",
+    "note": ""
+   },
+   {
+    "refsource": "Lancet. 2010 Oct 23;376(9750):1392",
+    "reftype": "Erratum in",
+    "pmid": "",
+    "note": ""
+   },
+   {
+    "refsource": "Lancet. 2010 Aug 21;376(9741):567-8. doi: 10.1016/S0140-6736(10)60999-3.",
+    "reftype": "Comment in",
+    "pmid": 20673996,
+    "note": ""
+   },
+   {
+    "refsource": "Evid Based Med. 2011 Apr;16(2):53-4. doi: 10.1136/ebm1167.",
+    "reftype": "Comment in",
+    "pmid": 21228058,
+    "note": ""
+   }
+  ],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Lancet (London, England)",
+  "elocationid": "doi: 10.1016/S0140-6736(10)60888-4",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/08/21 00:00",
+  "sortfirstauthor": "Greenway FL",
+  "vernaculartitle": ""
+ },
+ "22421927": {
+  "uid": "22421927",
+  "pubdate": "2012 Jul",
+  "epubdate": "2012 Mar 16",
+  "source": "Obesity (Silver Spring)",
+  "authors": [
+   {
+    "name": "O'Neil PM",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Smith SR",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Weissman NJ",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Fidler MC",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Sanchez M",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Zhang J",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Raether B",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Anderson CM",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Shanahan WR",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Shanahan WR",
+  "title": "Randomized placebo-controlled clinical trial of lorcaserin for weight loss in type 2 diabetes mellitus: the BLOOM-DM study.",
+  "sorttitle": "randomized placebo controlled clinical trial of lorcaserin for weight loss in type 2 diabetes mellitus the bloom dm study",
+  "volume": "20",
+  "issue": "7",
+  "pages": "1426-36",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "101264860",
+  "issn": "1930-7381",
+  "essn": "1930-739X",
+  "pubtype": [
+   "Journal Article",
+   "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "22421927"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1038/oby.2012.66"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "oby201266"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "entrez",
+    "date": "2012/03/17 06:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2012/03/17 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2012/10/18 06:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Obesity (Silver Spring, Md.)",
+  "elocationid": "doi: 10.1038/oby.2012.66",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/07/01 00:00",
+  "sortfirstauthor": "O'Neil PM",
+  "vernaculartitle": ""
+ },
+ "20647200": {
+  "uid": "20647200",
+  "pubdate": "2010 Jul 15",
+  "epubdate": "",
+  "source": "N Engl J Med",
+  "authors": [
+   {
+    "name": "Smith SR",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Weissman NJ",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Anderson CM",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Sanchez M",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Chuang E",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Stubbe S",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Bays H",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Shanahan WR",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Behavioral Modification and Lorcaserin for Overweight and Obesity Management (BLOOM) Study Group",
+    "authtype": "CollectiveName",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Shanahan WR",
+  "title": "Multicenter, placebo-controlled trial of lorcaserin for weight management.",
+  "sorttitle": "multicenter placebo controlled trial of lorcaserin for weight management",
+  "volume": "363",
+  "issue": "3",
+  "pages": "245-56",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+   "Journal Article",
+   "Multicenter Study",
+   "Randomized Controlled Trial",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "20647200"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1056/NEJMoa0909809"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "363/3/245"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "entrez",
+    "date": "2010/07/22 06:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2010/07/22 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2010/07/30 06:00"
+   }
+  ],
+  "references": [
+   {
+    "refsource": "N Engl J Med. 2010 Jul 15;363(3):288-90. doi: 10.1056/NEJMe1004076.",
+    "reftype": "Comment in",
+    "pmid": 20647205,
+    "note": ""
+   },
+   {
+    "refsource": "Praxis (Bern 1994). 2010 Nov 17;99(23):1437-8. doi: 10.1024/1661-8157/a000313.",
+    "reftype": "Comment in",
+    "pmid": 21082598,
+    "note": ""
+   },
+   {
+    "refsource": "N Engl J Med. 2010 Dec 16;363(25):2469; author reply 2469-70. doi: 10.1056/NEJMc1009975.",
+    "reftype": "Comment in",
+    "pmid": 21158669,
+    "note": ""
+   },
+   {
+    "refsource": "N Engl J Med. 2010 Dec 16;363(25):2468-9; author reply 2469-70. doi: 10.1056/NEJMc1009975.",
+    "reftype": "Comment in",
+    "pmid": 21158670,
+    "note": ""
+   },
+   {
+    "refsource": "N Engl J Med. 2010 Dec 16;363(25):2468; author reply 2469-70. doi: 10.1056/NEJMc1009975.",
+    "reftype": "Comment in",
+    "pmid": 21158671,
+    "note": ""
+   }
+  ],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "doi: 10.1056/NEJMoa0909809",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/07/15 00:00",
+  "sortfirstauthor": "Smith SR",
+  "vernaculartitle": ""
+ },
+ "21481449": {
+  "uid": "21481449",
+  "pubdate": "2011 Apr 16",
+  "epubdate": "2011 Apr 8",
+  "source": "Lancet",
+  "authors": [
+   {
+    "name": "Gadde KM",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Allison DB",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Ryan DH",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Peterson CA",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Troupin B",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Schwiers ML",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Day WW",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Day WW",
+  "title": "Effects of low-dose, controlled-release, phentermine plus topiramate combination on weight and associated comorbidities in overweight and obese adults (CONQUER): a randomised, placebo-controlled, phase 3 trial.",
+  "sorttitle": "effects of low dose controlled release phentermine plus topiramate combination on weight and associated comorbidities in overweight and obese adults conquer a randomised placebo controlled phase 3 trial",
+  "volume": "377",
+  "issue": "9774",
+  "pages": "1341-52",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "2985213R",
+  "issn": "0140-6736",
+  "essn": "1474-547X",
+  "pubtype": [
+   "Clinical Trial, Phase III",
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "21481449"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1016/S0140-6736(11)60205-5"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "S0140-6736(11)60205-5"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "entrez",
+    "date": "2011/04/13 06:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2011/04/13 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2011/04/29 06:00"
+   }
+  ],
+  "references": [
+   {
+    "refsource": "Lancet. 2011 Apr 30;377(9776):1494",
+    "reftype": "Erratum in",
+    "pmid": "",
+    "note": ""
+   },
+   {
+    "refsource": "Lancet. 2011 Apr 16;377(9774):1295-7. doi: 10.1016/S0140-6736(11)60518-7.",
+    "reftype": "Comment in",
+    "pmid": 21497686,
+    "note": ""
+   },
+   {
+    "refsource": "Nat Rev Gastroenterol Hepatol. 2011 Jun;8(6):297. doi: 10.1038/nrgastro.2011.79.",
+    "reftype": "Comment in",
+    "pmid": 21643024,
+    "note": ""
+   },
+   {
+    "refsource": "Lancet. 2011 Jul 9;378(9786):125-6; author reply 126-7. doi: 10.1016/S0140-6736(11)61080-5.",
+    "reftype": "Comment in",
+    "pmid": 21742167,
+    "note": ""
+   },
+   {
+    "refsource": "Lancet. 2011 Jul 9;378(9786):126; author reply 126-7. doi: 10.1016/S0140-6736(11)61081-7.",
+    "reftype": "Comment in",
+    "pmid": 21742168,
+    "note": ""
+   },
+   {
+    "refsource": "Evid Based Med. 2012 Feb;17(1):14-5. doi: 10.1136/ebm.2011.100103.",
+    "reftype": "Comment in",
+    "pmid": 21937501,
+    "note": ""
+   }
+  ],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Lancet (London, England)",
+  "elocationid": "doi: 10.1016/S0140-6736(11)60205-5",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/04/16 00:00",
+  "sortfirstauthor": "Gadde KM",
+  "vernaculartitle": ""
+ },
+ "25824474": {
+  "uid": "25824474",
+  "pubdate": "2015 Sep-Oct",
+  "epubdate": "2015 Jan 23",
+  "source": "Surg Obes Relat Dis",
+  "authors": [
+   {
+    "name": "Courcoulas AP",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Christian NJ",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "O'Rourke RW",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Dakin G",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Patchen Dellinger E",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Flum DR",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Melissa Kalarchian PD",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Mitchell JE",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Patterson E",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Pomp A",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Pories WJ",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Spaniolas K",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Steffen K",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Wolfe BM",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Belle SH",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Belle SH",
+  "title": "Preoperative factors and 3-year weight change in the Longitudinal Assessment of Bariatric Surgery (LABS) consortium.",
+  "sorttitle": "preoperative factors and 3 year weight change in the longitudinal assessment of bariatric surgery labs consortium",
+  "volume": "11",
+  "issue": "5",
+  "pages": "1109-18",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "101233161",
+  "issn": "1550-7289",
+  "essn": "1878-7533",
+  "pubtype": [
+   "Journal Article",
+   "Multicenter Study",
+   "Observational Study",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "25824474"
+   },
+   {
+    "idtype": "mid",
+    "idtypen": 8,
+    "value": "NIHMS658151"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC4512927"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC4512927;manuscript-id: NIHMS658151;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1016/j.soard.2015.01.011"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "S1550-7289(15)00016-7"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "received",
+    "date": "2014/09/15 00:00"
+   },
+   {
+    "pubstatus": "revised",
+    "date": "2014/12/10 00:00"
+   },
+   {
+    "pubstatus": "accepted",
+    "date": "2015/01/14 00:00"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2015/04/01 06:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2015/04/01 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2016/09/20 06:00"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2016/09/01 00:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": 46,
+  "fulljournalname": "Surgery for obesity and related diseases : official journal of the American Society for Bariatric Surgery",
+  "elocationid": "doi: 10.1016/j.soard.2015.01.011",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/09/01 00:00",
+  "sortfirstauthor": "Courcoulas AP",
+  "vernaculartitle": ""
+ },
+ "3510922": {
+  "uid": "3510922",
+  "pubdate": "1986 Feb",
+  "epubdate": "",
+  "source": "Diabetes",
+  "authors": [
+   {
+    "name": "Henry RR",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Wiest-Kent TA",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Scheaffer L",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Kolterman OG",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Olefsky JM",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Olefsky JM",
+  "title": "Metabolic consequences of very-low-calorie diet therapy in obese non-insulin-dependent diabetic and nondiabetic subjects.",
+  "sorttitle": "metabolic consequences of very low calorie diet therapy in obese non insulin dependent diabetic and nondiabetic subjects",
+  "volume": "35",
+  "issue": "2",
+  "pages": "155-64",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "0372763",
+  "issn": "0012-1797",
+  "essn": "",
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Research Support, U.S. Gov't, Non-P.H.S.",
+   "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "3510922"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.2337/diab.35.2.155"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "pubmed",
+    "date": "1986/02/01 00:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "1986/02/01 00:01"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "1986/02/01 00:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Diabetes",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1986/02/01 00:00",
+  "sortfirstauthor": "Henry RR",
+  "vernaculartitle": ""
+ },
+ "27698345": {
+  "uid": "27698345",
+  "pubdate": "2017 Jan",
+  "epubdate": "2015 Oct 4",
+  "source": "Int J Obes (Lond)",
+  "authors": [
+   {
+    "name": "Leslie WS",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Taylor R",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Harris L",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Lean ME",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Lean ME",
+  "title": "Weight losses with low-energy formula diets in obese patients with and without type 2 diabetes: systematic review and meta-analysis.",
+  "sorttitle": "weight losses with low energy formula diets in obese patients with and without type 2 diabetes systematic review and meta analysis",
+  "volume": "41",
+  "issue": "1",
+  "pages": "96-101",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "101256108",
+  "issn": "0307-0565",
+  "essn": "1476-5497",
+  "pubtype": [
+   "Journal Article",
+   "Meta-Analysis",
+   "Systematic Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "27698345"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC5368342"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC5368342;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1038/ijo.2016.175"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "ijo2016175"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "received",
+    "date": "2016/03/24 00:00"
+   },
+   {
+    "pubstatus": "revised",
+    "date": "2016/09/14 00:00"
+   },
+   {
+    "pubstatus": "accepted",
+    "date": "2016/09/15 00:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2016/10/05 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2018/02/17 06:00"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2016/10/05 06:00"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2017/03/28 00:00"
+   }
+  ],
+  "references": [
+   {
+    "refsource": "Int J Obes (Lond). 2017 Jun;41(6):997. doi: 10.1038/ijo.2017.46.",
+    "reftype": "Erratum in",
+    "pmid": 28290463,
+    "note": ""
+   }
+  ],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": 30,
+  "fulljournalname": "International journal of obesity (2005)",
+  "elocationid": "doi: 10.1038/ijo.2016.175",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/01/01 00:00",
+  "sortfirstauthor": "Leslie WS",
+  "vernaculartitle": ""
+ },
+ "37990681": {
+  "uid": "37990681",
+  "pubdate": "2023 Sep",
+  "epubdate": "2023 Jun 13",
+  "source": "Obes Pillars",
+  "authors": [
+   {
+    "name": "Bays HE",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Bays HE",
+  "title": "Why does type 2 diabetes mellitus impair weight reduction in patients with obesity? A review.",
+  "sorttitle": "why does type 2 diabetes mellitus impair weight reduction in patients with obesity a review",
+  "volume": "7",
+  "issue": "",
+  "pages": "100076",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "9918697364706676",
+  "issn": "",
+  "essn": "2667-3681",
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "37990681"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC10661899"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC10661899;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1016/j.obpill.2023.100076"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "S2667-3681(23)00022-0"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "received",
+    "date": "2023/06/05 00:00"
+   },
+   {
+    "pubstatus": "revised",
+    "date": "2023/06/11 00:00"
+   },
+   {
+    "pubstatus": "accepted",
+    "date": "2023/06/12 00:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2023/11/22 06:44"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2023/11/22 06:43"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2023/11/22 03:48"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2023/06/13 00:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": 93,
+  "fulljournalname": "Obesity pillars",
+  "elocationid": "doi: 10.1016/j.obpill.2023.100076",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2023/06/13 00:00",
+  "sortfirstauthor": "Bays HE",
+  "vernaculartitle": ""
+ },
+ "38644683": {
+  "uid": "38644683",
+  "pubdate": "2024 Jun",
+  "epubdate": "2024 Apr 22",
+  "source": "Obesity (Silver Spring)",
+  "authors": [
+   {
+    "name": "Hall KD",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Hall KD",
+  "title": "Physiology of the weight-loss plateau in response to diet restriction, GLP-1 receptor agonism, and bariatric surgery.",
+  "sorttitle": "physiology of the weight loss plateau in response to diet restriction glp 1 receptor agonism and bariatric surgery",
+  "volume": "32",
+  "issue": "6",
+  "pages": "1163-1168",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "101264860",
+  "issn": "1930-7381",
+  "essn": "1930-739X",
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "38644683"
+   },
+   {
+    "idtype": "mid",
+    "idtypen": 8,
+    "value": "NIHMS1976886"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC11132924"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC11132924;manuscript-id: NIHMS1976886;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1002/oby.24027"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "revised",
+    "date": "2024/02/27 00:00"
+   },
+   {
+    "pubstatus": "received",
+    "date": "2023/11/06 00:00"
+   },
+   {
+    "pubstatus": "accepted",
+    "date": "2024/02/28 00:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2024/05/28 06:43"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2024/04/22 06:42"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2024/04/22 03:03"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2025/06/01 00:00"
+   }
+  ],
+  "references": [
+   {
+    "refsource": "bioRxiv. 2023 Nov 05:2023.11.05.565699. doi: 10.1101/2023.11.05.565699.",
+    "reftype": "Update of",
+    "pmid": 38076965,
+    "note": ""
+   }
+  ],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": 13,
+  "fulljournalname": "Obesity (Silver Spring, Md.)",
+  "elocationid": "doi: 10.1002/oby.24027",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2024/06/01 00:00",
+  "sortfirstauthor": "Hall KD",
+  "vernaculartitle": ""
+ },
+ "23585665": {
+  "uid": "23585665",
+  "pubdate": "2013 May",
+  "epubdate": "2013 Apr 12",
+  "source": "J Clin Endocrinol Metab",
+  "authors": [
+   {
+    "name": "Polidori D",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Sha S",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Ghosh A",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Plum-M\u00f6rschel L",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Heise T",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Rothenberg P",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Rothenberg P",
+  "title": "Validation of a novel method for determining the renal threshold for glucose excretion in untreated and canagliflozin-treated subjects with type 2 diabetes mellitus.",
+  "sorttitle": "validation of a novel method for determining the renal threshold for glucose excretion in untreated and canagliflozin treated subjects with type 2 diabetes mellitus",
+  "volume": "98",
+  "issue": "5",
+  "pages": "E867-71",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "0375362",
+  "issn": "0021-972X",
+  "essn": "1945-7197",
+  "pubtype": [
+   "Controlled Clinical Trial",
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Validation Study"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "23585665"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC3706739"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC3706739;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1210/jc.2012-4205"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "jc.2012-4205"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "entrez",
+    "date": "2013/04/16 06:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2013/04/16 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2013/07/06 06:00"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2013/04/12 00:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": 17,
+  "fulljournalname": "The Journal of clinical endocrinology and metabolism",
+  "elocationid": "doi: 10.1210/jc.2012-4205",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/05/01 00:00",
+  "sortfirstauthor": "Polidori D",
+  "vernaculartitle": ""
+ },
+ "18540046": {
+  "uid": "18540046",
+  "pubdate": "2008 Aug",
+  "epubdate": "2008 Jun 7",
+  "source": "Diabetes Care",
+  "authors": [
+   {
+    "name": "Nathan DM",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Kuenen J",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Borg R",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Zheng H",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Schoenfeld D",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Heine RJ",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "A1c-Derived Average Glucose Study Group",
+    "authtype": "CollectiveName",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Heine RJ",
+  "title": "Translating the A1C assay into estimated average glucose values.",
+  "sorttitle": "translating the a1c assay into estimated average glucose values",
+  "volume": "31",
+  "issue": "8",
+  "pages": "1473-8",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "7805975",
+  "issn": "0149-5992",
+  "essn": "1935-5548",
+  "pubtype": [
+   "Journal Article",
+   "Multicenter Study",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "18540046"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC2742903"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC2742903;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.2337/dc08-0545"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "dc08-0545"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "pubmed",
+    "date": "2008/06/10 09:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2008/08/21 09:00"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2008/06/10 09:00"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2009/08/01 00:00"
+   }
+  ],
+  "references": [
+   {
+    "refsource": "Diabetes Care. 2009 Jan;32(1):207",
+    "reftype": "Erratum in",
+    "pmid": "",
+    "note": ""
+   },
+   {
+    "refsource": "Diabetes Care. 2008 Aug;31(8):1704-7. doi: 10.2337/dc08-0878.",
+    "reftype": "Comment in",
+    "pmid": 18540045,
+    "note": ""
+   },
+   {
+    "refsource": "Diabetes Care. 2009 Jan;32(1):e10; author reply e12. doi: 10.2337/dc08-1214.",
+    "reftype": "Comment in",
+    "pmid": 19114619,
+    "note": ""
+   },
+   {
+    "refsource": "Diabetes Care. 2009 Jan;32(1):e11; author reply e12. doi: 10.2337/dc08-1524.",
+    "reftype": "Comment in",
+    "pmid": 19114620,
+    "note": ""
+   }
+  ],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": 27,
+  "fulljournalname": "Diabetes care",
+  "elocationid": "doi: 10.2337/dc08-0545",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2008/08/01 00:00",
+  "sortfirstauthor": "Nathan DM",
+  "vernaculartitle": ""
+ },
+ "12461671": {
+  "uid": "12461671",
+  "pubdate": "2002 Dec",
+  "epubdate": "",
+  "source": "Int J Obes Relat Metab Disord",
+  "authors": [
+   {
+    "name": "Gougeon R",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Lamarche M",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Yale JF",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Venuta T",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Venuta T",
+  "title": "The prediction of resting energy expenditure in type 2 diabetes mellitus is improved by factoring for glycemia.",
+  "sorttitle": "prediction of resting energy expenditure in type 2 diabetes mellitus is improved by factoring for glycemia",
+  "volume": "26",
+  "issue": "12",
+  "pages": "1547-52",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "9313169",
+  "issn": "",
+  "essn": "",
+  "pubtype": [
+   "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "12461671"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1038/sj.ijo.0802178"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "received",
+    "date": "2001/09/06 00:00"
+   },
+   {
+    "pubstatus": "revised",
+    "date": "2002/06/26 00:00"
+   },
+   {
+    "pubstatus": "accepted",
+    "date": "2002/07/05 00:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2002/12/04 04:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2003/02/14 04:00"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2002/12/04 04:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "International journal of obesity and related metabolic disorders : journal of the International Association for the Study of Obesity",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2002/12/01 00:00",
+  "sortfirstauthor": "Gougeon R",
+  "vernaculartitle": ""
  }
 }

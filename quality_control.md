@@ -1,7 +1,7 @@
 # Quality-control report
 
 ## Verification performed
-- **Bibliography:** all 124 cited references resolve to PubMed records with DOIs. The bibliography was generated programmatically from NCBI esummary. For UKPDS 33 the PubMed record has no DOI, so the DOI was derived from the publisher PII and is flagged as such.
+- **Bibliography:** 141 of the 142 cited references resolve to PubMed records with DOIs. The exception is Hall 2026, a bioRxiv preprint with no PubMed record; it is handled by an explicit manual entry in `analysis/build_manuscript.py` and its full text was retrieved and read directly. The bibliography was generated programmatically from NCBI esummary. For UKPDS 33 the PubMed record has no DOI, so the DOI was derived from the publisher PII and is flagged as such.
 - **Per-source verification:** for every source, the population, design and the specific numbers used in the text were checked against the abstract (all sources) or the full text. The log is in `references/verified_log.md`, and claims are mapped in `evidence/claim_evidence_ledger.csv`.
 - **Full texts read:** STEP 1 and SURMOUNT-2 including its supplement (open-access repository copies), the STEP-HFpEF pooled analysis, Perreault 2022, Rodriguez 2024 and Hall 2011 (PMC).
 - **Corrections made during audit:**
@@ -27,6 +27,20 @@ The author-supplied document `Peripheral Incretin Signalling in T2DM.docx` was v
 
 Material added beyond the source document, from new searches: human truncal vagotomy evidence [PLAMBOECK2013]; non-vagal counter-evidence [ZHANGRITTER2011]; route refinement [HAYES2011]; the only agonist-response study with measured peripheral changes [DUCA2013]; the two secretion meta-analyses; neprilysin; background metformin as a confounder acting opposite to the hypothesis [MCCREIGHT2016]; heterogeneity and frequent acceleration of gastric emptying in diabetes [CHEDID2019]; oral semaglutide bioavailability in T2D [OVERGAARD2021PK]; NTS preproglucagon circuit characterisation [HOLT2019].
 
+## Integration of Hall 2026 (bioRxiv preprint) — 16 October 2026
+
+A modelling preprint directly addressing this review's central question appeared after the first draft was completed and has been integrated into Section 9.3 [HALL2026]. Handling:
+
+- **Full text retrieved and read**, not just the abstract. Metadata cross-checked against the bioRxiv API and Europe PMC (PPR1316883).
+- **It is a preprint and has not been peer reviewed.** This is stated in the bibliography entry, in Section 9.3 and in Section 12.
+- **Competing interests are stated in the text.** The study is funded by AstraZeneca and the author is an employee of AstraZeneca Pharmaceuticals. The analysis is not discounted for this — its assumptions are explicit and independently checkable — but readers are told.
+- **It is a simulation, not a measurement.** Section 9.3, Section 12 and the conclusions all state that a model reproducing an observation does not establish that the modelled mechanism produced it. The preprint's own conclusion is that the energetic terms "may *partially* explain" the gap, and this review does not upgrade that to a full explanation.
+- **A numerical discrepancy with the primary trial reports is flagged**, in Section 9.3 and ledger row C68: the preprint quotes STEP UP weight losses of ~18%/~21% and STEP UP T2D of ~11%/~14%, where the publications report treatment-policy values of -15.6%/-18.7% and -13.2%. This is consistent with a trial-product estimand, but the preprint does not say which estimand it simulated. Table 1 uses the published treatment-policy values throughout.
+
+### Error in the previous draft, corrected
+
+Proposed study 6 in Table 4 previously argued that co-administering an SGLT2 inhibitor would *maintain* glycosuria and therefore *preserve* weight loss in T2D, bringing it closer to non-diabetes levels. **This reasoning was wrong and has been corrected.** An SGLT2 inhibitor lowers the renal threshold but urinary glucose excretion still scales with plasma glucose above that threshold, so glycaemic improvement reduces UGE regardless — and from a higher baseline, by a larger absolute amount. Hall's model accordingly predicts the *opposite* sign: stable background SGLT2i should produce the greatest attenuation. The preprint also distinguishes this from *co-initiation* of an SGLT2 inhibitor with an incretin agent, which it predicts should produce greater weight loss than either alone. Study 6 now tests all three strata.
+
 ## Sources accessed at abstract level only (numbers limited to the abstract)
 STEP 2, SURMOUNT-1, SCALE Obesity and Prediabetes, SCALE Diabetes, REDEFINE 1 and 2, ATTAIN-1 and 2, STEP-HFpEF and STEP-HFpEF DM (individually), STEP 6, OASIS 1, PIONEER PLUS, both retatrutide phase 2 trials, maridebart cafraglutide, Strathe 2023, and most physiology papers (Wing 1987, Bogardus 1986, Rave 2006, Heise 2022/2023, Ravussin 2025, Mäkimattila 1999, Carlson 1993).
 
@@ -39,8 +53,10 @@ STEP 2, SURMOUNT-1, SCALE Obesity and Prediabetes, SCALE Diabetes, REDEFINE 1 an
 6. **Hypoglycaemia-avoidant eating** with sulfonylureas or insulin is presented as a hypothesis, without a supporting primary source.
 7. **"No study has compared appetite suppression by diabetes status"**, **"no study measured muscle glucose uptake, oxidation, glycogen and total EE together"** and **"no study has measured endogenous incretin secretion, DPP-4 activity or autonomic function as predictors of weight response to an agonist"** are absence-of-evidence statements. They are limited by the scope of the search (PubMed only).
 8. **Section 5 rests mainly on animal data.** Of the mechanisms in Section 5, only the secretion meta-analyses, the DPP-4 associations, the autonomic neuropathy prevalence, the gastric emptying distribution, the pharmacokinetics and the vagotomy study are human. The portal sensing, route-definition, neuropathy-function and agonist-response findings are all animal, in four different species, and none measured body weight.
-9. **No human study has given a long-acting agonist to people differing in vagal function.** The central proposition of Section 5 is therefore untested in the population and with the drug class it concerns. Study 9 in Table 4 is the direct test.
-10. **The receptor mediating hepatic vagal reception of portal GLP-1 has never been molecularly identified** [NISHIZAWA2000]. Statements about it are necessarily pharmacological inferences from antagonist and agonist insensitivity in anaesthetised rats.
+9. **Several Section 2.5 sources were not number-verified.** The T2D-arm figures for naltrexone-bupropion [HOLLANDER2013] and lorcaserin [ONEIL2012] were verified against their abstracts. Their non-diabetes comparators [GREENWAY2010; SMITH2010], phentermine-topiramate [GADDE2011] and the bariatric cohort [COURCOULAS2015] are cited for the *direction* of the association only; no numbers from them appear in the text.
+10. **SATTAR2025 has no abstract in its PubMed record** (it is a Letter). It is cited for the finding stated in its title; no numbers are taken from it.
+11. **No human study has given a long-acting agonist to people differing in vagal function.** The central proposition of Section 5 is therefore untested in the population and with the drug class it concerns. Study 9 in Table 4 is the direct test.
+12. **The receptor mediating hepatic vagal reception of portal GLP-1 has never been molecularly identified** [NISHIZAWA2000]. Statements about it are necessarily pharmacological inferences from antagonist and agonist insensitivity in anaesthetised rats.
 
 ## Derived values and assumptions
 - **Matched-pair ratios** (`analysis/derived.py`): these are ratios of published ETDs. Pairs are not independent (two doses come from the same trials), and no meta-analytic pooling or confidence intervals were computed for the ratios.

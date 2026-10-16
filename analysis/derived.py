@@ -32,6 +32,8 @@ pairs = [
      "SCALE Obesity abstract reports kg only (-8.4 vs -2.8 kg; baseline 106.2 kg); see kg comparison below"),
     ("Maridebart cafraglutide", "highest-response arm in each cohort", 52, 52, "MARITIDE2025", (-16.2, -2.5, None), "MARITIDE2025", (-12.3, -1.7, None),
      "Single protocol, two cohorts; dose/escalation arms differ between cohorts; GIPR antagonist"),
+    ("Semaglutide s.c.", "7.2 mg weekly", 72, 72, "STEPUP", (-18.7, -3.9, -14.8), "STEPUP_T2D", (-13.2, -3.9, -9.3),
+     "Separate trials, same programme, treatment-policy estimand; identical placebo-arm change (-3.9%) in both"),
 ]
 
 rows = []

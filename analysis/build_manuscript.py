@@ -37,14 +37,32 @@ KEYMAP = {
  'IWASAKI2018':'29317623','NISHIZAWA2000':'10742535','EDGERTON2013':'23673158','PLAMBOECK2013':'23599045',
  'BONORA2020':'32819978','AGASHE2018':'30788010','DUCHEN1980':'6243893','ROBERTSON1980':'6991317',
  'LEE2012':'22160540','MALBERT2021':'33067312','DUCA2013':'23423571','MCCREIGHT2016':'26780750',
- 'OVERGAARD2021PK':'33969456','CHEDID2019':'30166634'}
+ 'OVERGAARD2021PK':'33969456','CHEDID2019':'30166634',
+ # Section 2 (non-incretin generality, STEP UP pair, within-T2D HbA1c gradient) and Section 9 (Hall model inputs)
+ 'STEPUP':'40961952','STEPUP_T2D':'40961953','HALL2024':'38644683','GOUGEON2002':'12461671',
+ 'POLIDORI2013':'23585665','NATHAN2008':'18540046','SATTAR2025':'40838997','BAYS2023':'37990681',
+ 'ARODA2020':'31608552','HOLLANDER2013':'24144653','GREENWAY2010':'20673995','GADDE2011':'21481449',
+ 'ONEIL2012':'22421927','SMITH2010':'20647200','LESLIE2017':'27698345','HENRY1986':'3510922',
+ 'COURCOULAS2015':'25824474'}
+
+# Sources with no PubMed record (preprints). Cited like any other key; formatted from these fields.
+# Verified by direct retrieval of the posted full text; see references/verified_log.md.
+MANUAL = {
+ 'HALL2026': {
+   'doi': '10.64898/2026.09.08.750112',
+   'citation': ('Hall KD. Why Do Patients with Type 2 Diabetes Lose Less Weight on GLP-1s? '
+                'A Mathematical Modeling Analysis. bioRxiv. 2026:2026.09.08.750112. '
+                'doi:10.64898/2026.09.08.750112. Preprint, not peer reviewed. '
+                'Funded by AstraZeneca; the author is an employee of AstraZeneca Pharmaceuticals.'),
+ },
+}
 DOI_FALLBACK = {'9742976': '10.1016/S0140-6736(98)07019-6'}  # derived from PII; PubMed record lacks DOI
 
 text = '\n\n'.join(open(f).read().rstrip() for f in sorted(glob.glob(os.path.join(ROOT, 'manuscript', 'sections', '*.md'))))
 order = []
 for grp in re.findall(r'\[(@[^\]]+)\]', text):
     for k in re.findall(r'@([A-Za-z0-9_]+)', grp):
-        if k not in KEYMAP: sys.exit(f'Unknown citation key: {k}')
+        if k not in KEYMAP and k not in MANUAL: sys.exit(f'Unknown citation key: {k}')
         if k not in order: order.append(k)
 num = {k: i + 1 for i, k in enumerate(order)}
 
@@ -60,15 +78,23 @@ def fmt(grp):
 body = re.sub(r'\[(@[^\]]+)\]', lambda m: fmt(m.group(1)), text)
 
 # fetch metadata
-pmids = [KEYMAP[k] for k in order]
+pmids = [KEYMAP[k] for k in order if k in KEYMAP]
 cache = os.path.join(ROOT, 'references', 'esummary_cache.json')
 data = json.load(open(cache)) if os.path.exists(cache) else {}
 missing = [p for p in pmids if p not in data]
-for i in range(0, len(missing), 100):
-    ids = ','.join(missing[i:i + 100])
-    r = subprocess.run(['curl', '-sS', '-m', '60', f'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id={ids}'], capture_output=True, text=True)
-    res = json.loads(r.stdout)['result']
+import time
+for i in range(0, len(missing), 50):
+    ids = ','.join(missing[i:i + 50])
+    for attempt in range(5):  # NCBI rate-limits bursts; retry with backoff
+        r = subprocess.run(['curl', '-sS', '-m', '60', f'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id={ids}'], capture_output=True, text=True)
+        try:
+            res = json.loads(r.stdout)['result']
+            break
+        except (ValueError, KeyError):
+            if attempt == 4: sys.exit(f'esummary failed for {ids}: {r.stdout[:200]}')
+            time.sleep(2 ** attempt)
     for p in res.get('uids', []): data[p] = res[p]
+    time.sleep(0.5)
 json.dump(data, open(cache, 'w'), indent=1)
 
 def ref(p):
@@ -85,14 +111,17 @@ def ref(p):
 
 refs, bib = [], []
 for k in order:
-    p = KEYMAP[k]; s, doi = ref(p)
+    if k in MANUAL:
+        m = MANUAL[k]; s, doi, p = m['citation'], m['doi'], ''
+    else:
+        p = KEYMAP[k]; s, doi = ref(p)
     refs.append({'n': num[k], 'key': k, 'pmid': p, 'doi': doi, 'citation': s})
     bib.append(f"{num[k]}. {s}")
 json.dump(refs, open(os.path.join(ROOT, 'references', 'references.json'), 'w'), indent=1, ensure_ascii=False)
 open(os.path.join(ROOT, 'references', 'bibliography.md'), 'w').write('# References\n\n' + '\n'.join(bib) + '\n')
 out = body + '\n\n## References\n\n' + '\n'.join(bib) + '\n'
 open(os.path.join(ROOT, 'manuscript', 'manuscript.md'), 'w').write(out)
-unused = sorted(set(KEYMAP) - set(order))
+unused = sorted((set(KEYMAP) | set(MANUAL)) - set(order))
 words = len(re.sub(r'\|.*\|', '', body.split('## Figure legends')[0].split('## 1. Introduction', 1)[-1]).split())
 print(f'{len(order)} references cited; {len(unused)} verified sources not cited: {unused}')
 print(f'Approximate main-text words (Introduction to Conclusions, excluding tables): {words}')

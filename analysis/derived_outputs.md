@@ -12,10 +12,11 @@
 | Orforglipron (oral) | 12 mg daily | 72/72 | -6.3 | -4.5 | +1.8 | 0.71 | Separate trials, same programme, treatment-regimen estimand |
 | Cagrilintide + semaglutide | 2.4/2.4 mg weekly | 68/68 | -17.3 | -10.4 | +6.9 | 0.6 | Separate trials, same programme, treatment-policy estimand |
 | Maridebart cafraglutide | highest-response arm in each cohort | 52/52 | -13.7 | -10.6 | +3.1 | 0.77 | Single protocol, two cohorts; dose/escalation arms differ between cohorts; GIPR antagonist |
+| Semaglutide s.c. | 7.2 mg weekly | 72/72 | -14.8 | -9.3 | +5.5 | 0.63 | Separate trials, same programme, treatment-policy estimand; identical placebo-arm change (-3.9%) in both |
 
 Liraglutide 3.0 mg (kg, abstract data): placebo-adjusted -5.6 kg (no T2D) vs -4.2 kg (T2D); ratio 0.75.
 
-Across the 8 %-based comparisons: ratio median 0.62 (range 0.50-0.78); absolute gap median +5.2 pp (range +6.9 to +1.8).
+Across the 9 %-based comparisons: ratio median 0.63 (range 0.50-0.78); absolute gap median +5.5 pp (range +6.9 to +1.8).
 Caveat: comparisons are between populations, not randomised by diabetes status; pairs are not independent (two doses from the same trials).
 
 ## 2. STEP 1 implied normoglycaemic subgroup
