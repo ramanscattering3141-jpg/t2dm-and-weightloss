@@ -84,7 +84,7 @@ box(77.5, 35, 21.5, 31, '4  Energy losses',
     'Glycosuria eliminated as\nglucose falls below the\nrenal threshold (100+ g/d\nin poor control)\nModel reproduces part of\nthe gap from UGE + EE\nalone, appetite held fixed\nStable background SGLT2i:\ngreatest attenuation\nIn trials: NOT measured')
 
 box(1, 4, 30, 24, '5  Clinical/behavioural', 'Weight-promoting background drugs\n(UKPDS: insulin +4.0 kg, SU +1.7-2.6)\nBackground SGLT2i: raises baseline\nUGE ~100 g/d (model)\nBackground metformin raises GLP-1\nHypoglycaemia-related eating (hyp.)\nAdherence/motivation (lifestyle:\nT2D lost less than spouses)\nAge, sex composition')
-box(35, 4, 30, 24, 'Net energy balance', 'Drug-arm-specific offsets:\nretained glucose energy + lower REE\nScenario estimate: ~1-6 kg by\nweek 68-72 (assumption-driven)\nvs observed gap ~6 kg (STEP 1 vs 2)')
+box(35, 4, 30, 24, 'Net energy balance', 'Drug-arm-specific offsets:\nretained glucose energy + lower REE\nGROSS scenario: ~1-6 kg by wk 68-72\nNET after compensation reported for\n~80-wk interventions: ~0.2-1.1 kg\nvs observed gap ~6 kg (STEP 1 vs 2)\nTerms are COUPLED, not additive')
 box(69, 4, 30, 24, '6  Methodological', 'Separate trials, populations\nnot randomised by T2D status\nNo cross-programme IPD with\nadjustment for age, sex, BMI,\nbackground therapy')
 
 arrow((23, 85), (29.4, 85), 'established')
@@ -99,6 +99,8 @@ arrow((36, 34.4), (44, 28.6), 'established', rad=0.1)
 arrow((60, 34.4), (54, 28.6), 'hypothesis')
 arrow((86, 34.4), (60, 28.6), 'hypothesis', rad=-0.1)
 arrow((31.6, 16), (34.4, 16), 'human')
+arrow((46, 28.4), (36, 34.4), 'human', rad=0.25)  # EE/losses -> intake coupling (tonic drive)
+ax.text(37.5, 30.0, 'coupling:\nEE drives EI', ha='center', va='center', fontsize=6.6, color=INK2, style='italic')
 arrow((68.4, 16), (65.6, 16), 'hypothesis')
 
 ax.legend(handles=[Line2D([], [], color=INK2, label='Established causal link (human)', **STY['established']),

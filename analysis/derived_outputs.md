@@ -45,3 +45,20 @@ Conversion: 3.75 kcal/g glucose; 23.9 kcal/day per kg steady-state (Hall 2011); 
 
 Interpretation: these are upper-bound-style what-if calculations; they assume no behavioural compensation and that the 
 differential (drug minus placebo) change in glycosuria/REE persists. Observed placebo-adjusted gap STEP1 vs STEP2 ~6 pp (~6 kg at ~100 kg).
+
+## 5. Energy compensation sensitivity (net kg at week 72)
+
+Energy intake is coupled to energy expenditure, and compensation for an induced energy perturbation rises with
+intervention duration (Riou 2015: mean 18% across 61 studies; ~84% at ~80 weeks). Incretin trials run 68-72 weeks.
+The scenarios in section 4 assume zero compensation and are therefore gross, not net, estimates.
+
+| Scenario | Gross offset (kcal/d) | Net kcal/d, none (0%) | Net kcal/d, Riou overall mean (18%) | Net kcal/d, Riou at ~80 wk (84%) | kg wk72, none (0%) | kg wk72, Riou overall mean (18%) | kg wk72, Riou at ~80 wk (84%) |
+|---|---|---|---|---|---|---|---|
+| Low | 38 | 38 | 31 | 6 | 1.0 | 0.8 | 0.2 |
+| Central | 134 | 134 | 110 | 21 | 3.4 | 2.8 | 0.6 |
+| High | 259 | 259 | 212 | 41 | 6.7 | 5.5 | 1.1 |
+
+At the compensation level the exercise literature reports for interventions of this duration, the central scenario
+falls from 3.4 kg to 0.6 kg, and the high scenario from 6.7 kg to 1.1 kg.
+Caveat: compensation estimates are derived from exercise- and diet-induced DEFICITS, not from the removal of an
+energy leak, and the anorectic drug itself may suppress compensation. The true fraction in incretin-treated T2D is unknown.

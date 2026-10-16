@@ -37,6 +37,19 @@ A modelling preprint directly addressing this review's central question appeared
 - **It is a simulation, not a measurement.** Section 9.3, Section 12 and the conclusions all state that a model reproducing an observation does not establish that the modelled mechanism produced it. The preprint's own conclusion is that the energetic terms "may *partially* explain" the gap, and this review does not upgrade that to a full explanation.
 - **A numerical discrepancy with the primary trial reports is flagged**, in Section 9.3 and ledger row C68: the preprint quotes STEP UP weight losses of ~18%/~21% and STEP UP T2D of ~11%/~14%, where the publications report treatment-policy values of -15.6%/-18.7% and -13.2%. This is consistent with a trial-product estimand, but the preprint does not say which estimand it simulated. Table 1 uses the published treatment-policy values throughout.
 
+### Construction error in the energy scenarios, corrected (16 October 2026)
+
+Table 2 computed the weight equivalent of the glycosuric and resting-expenditure offsets by summing them and applying a steady-state conversion. That treats energy intake, expenditure and losses as **independent additive terms**. They are not independent:
+
+- Resting metabolic rate is a determinant of energy intake, with fat-free mass acting largely through it, replicated in at least 14 studies across nine countries [BLUNDELL2020; HOPKINS2023]. A fall in resting metabolic rate should therefore *lower* intake, partly cancelling the penalty Table 2 attributed to it.
+- Compensation for an induced energy perturbation grows with intervention duration, reaching about 84% at roughly 80 weeks against a mean of 18% across 61 studies [RIOU2015; DOUCET2018]. Incretin trials run 68-72 weeks.
+
+The scenarios were always labelled as assuming no behavioural compensation, but that assumption was never quantified and its consequences were not drawn out. Section 9.5 and Table 2b now do so, with a reproducible sensitivity analysis in `analysis/derived.py` section 5. At 84% compensation the central scenario falls from 3.4 kg to about 0.6 kg and the high scenario from 6.7 kg to about 1.1 kg, against an observed gap near 6 kg.
+
+This materially weakens the energetic account and is reflected in Section 11.1, the ranking, and the conclusions. Three counter-considerations are stated alongside it and are genuine: the compensation data come from energy *deficits* rather than from closing an energy leak; the drug is itself an anorectic and suppressing the compensatory drive is its mechanism, so the fraction here may be far lower; and the between-individual variability is extreme (SD 93% on an 18% mean). The transfer of the exercise-derived fraction to this setting is **unestablished**, and Table 2b is a sensitivity analysis, not an estimate.
+
+A second consequence is structural: because the energetic perturbation is transduced through the appetite system, hypotheses H1 and H2 in Section 11.1 are not independent competitors. The earlier claim that energy intake is "the single most discriminating measurement" has been qualified accordingly — a measured intake difference may be a *consequence* of the energetic perturbation rather than evidence of a primary appetite defect, so intake, expenditure and losses must be measured together and modelled as a coupled system.
+
 ### Reasoning error in the previous draft, corrected (16 October 2026)
 
 Section 2.5 argued: the gap appears with non-incretin drugs and after bariatric surgery, therefore it is not receptor-level, therefore the energetics of glycaemic correction are the explanation. **The second inference does not follow.** Cross-intervention generality rules out mechanisms specific to incretin receptor pharmacology; it does not select among host-level mechanisms, and at least three are compatible with it:

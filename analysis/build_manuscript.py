@@ -45,7 +45,10 @@ KEYMAP = {
  'ONEIL2012':'22421927','SMITH2010':'20647200','LESLIE2017':'27698345','HENRY1986':'3510922',
  'COURCOULAS2015':'25824474',
  # Competing host-level hypotheses: generalised anorectic-responsiveness and multi-axis satiety deficits
- 'VIDARSDOTTIR2007':'17670916','STEINERT2017':'28003328','BRONDEN2017':'28786523','HENI2013':'23307469'}
+ 'VIDARSDOTTIR2007':'17670916','STEINERT2017':'28003328','BRONDEN2017':'28786523','HENI2013':'23307469',
+ # Intake-expenditure coupling and energy compensation
+ 'DOUCET2018':'30511511','RIOU2015':'25988763','BLUNDELL2020':'32081814','HOPKINS2023':'37482777',
+ 'BLUNDELL2015EX':'25614205','BLUNDELL2015RMR':'26037633'}
 
 # Sources with no PubMed record (preprints). Cited like any other key; formatted from these fields.
 # Verified by direct retrieval of the posted full text; see references/verified_log.md.

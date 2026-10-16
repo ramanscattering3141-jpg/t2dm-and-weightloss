@@ -56,8 +56,16 @@ Prompted by a reader query about a preprint published after the first draft. Ret
 
 **Note on preprint retrieval:** bioRxiv rate-limits automated access aggressively. Metadata is reliably available through its API; full text required repeated retries. Preprints are not indexed in PubMed, so the PubMed-only strategy declared above would not have found this paper. That is a structural gap in the search, now explicit.
 
+## Fourth round: intake-expenditure coupling (16 October 2026)
+Prompted by a reader pointing out that energy intake rises with energy expenditure, which the energy-balance arithmetic of Section 9 had treated as independent. Searches:
+- `Doucet compensation energy deficits exercise diet review`
+- `Blundell energy expenditure drives energy intake fat-free mass resting metabolic rate appetite`
+- `resting metabolic rate fat-free mass determinants of energy intake tonic drive to eat`
+This round identified a construction error in our own scenario arithmetic rather than a gap in the literature retrieved; see `quality_control.md`. It is recorded here because the original search strategy never covered the energy-compensation literature at all, despite that literature bearing directly on every quantitative claim in Section 9.
+
 ## Known retrieval gaps
 - Embase, Cochrane CENTRAL, conference abstracts not searched.
+- **The energy-compensation and appetite-control literatures were not searched in the original strategy**, which was built around diabetes and incretin terms. They were added only in the fourth round. Other adjacent literatures may be similarly missing.
 - **Preprint servers (bioRxiv, medRxiv) were not searched systematically.** Hall 2026 was found only because a reader asked about it. Any other relevant preprint remains unretrieved.
 - Supplementary appendices of most NEJM/Lancet trials not accessible (subgroups by baseline HbA1c, background therapy, sex).
 - No formal search for unpublished IPD analyses or regulatory (FDA/EMA) review documents.
