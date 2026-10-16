@@ -20384,5 +20384,552 @@
   "sortpubdate": "2002/12/01 00:00",
   "sortfirstauthor": "Gougeon R",
   "vernaculartitle": ""
+ },
+ "17670916": {
+  "uid": "17670916",
+  "pubdate": "2007 Oct",
+  "epubdate": "2007 Aug 1",
+  "source": "Diabetes",
+  "authors": [
+   {
+    "name": "Vidarsdottir S",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Smeets PA",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Eichelsheim DL",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "van Osch MJ",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Viergever MA",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Romijn JA",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "van der Grond J",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Pijl H",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Pijl H",
+  "title": "Glucose ingestion fails to inhibit hypothalamic neuronal activity in patients with type 2 diabetes.",
+  "sorttitle": "glucose ingestion fails to inhibit hypothalamic neuronal activity in patients with type 2 diabetes",
+  "volume": "56",
+  "issue": "10",
+  "pages": "2547-50",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "0372763",
+  "issn": "0012-1797",
+  "essn": "1939-327X",
+  "pubtype": [
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "17670916"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.2337/db07-0193"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "db07-0193"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "pubmed",
+    "date": "2007/08/03 09:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2007/11/14 09:00"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2007/08/03 09:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Diabetes",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2007/10/01 00:00",
+  "sortfirstauthor": "Vidarsdottir S",
+  "vernaculartitle": ""
+ },
+ "23307469": {
+  "uid": "23307469",
+  "pubdate": "2014 Mar",
+  "epubdate": "2013 Jan 10",
+  "source": "Hum Brain Mapp",
+  "authors": [
+   {
+    "name": "Heni M",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Kullmann S",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Ketterer C",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Guthoff M",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Bayer M",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Staiger H",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Machicao F",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "H\u00e4ring HU",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Preissl H",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Veit R",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Fritsche A",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Fritsche A",
+  "title": "Differential effect of glucose ingestion on the neural processing of food stimuli in lean and overweight adults.",
+  "sorttitle": "differential effect of glucose ingestion on the neural processing of food stimuli in lean and overweight adults",
+  "volume": "35",
+  "issue": "3",
+  "pages": "918-28",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "9419065",
+  "issn": "1065-9471",
+  "essn": "1097-0193",
+  "pubtype": [
+   "Comparative Study",
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "23307469"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC6869648"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC6869648;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1002/hbm.22223"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "received",
+    "date": "2012/06/04 00:00"
+   },
+   {
+    "pubstatus": "revised",
+    "date": "2012/10/16 00:00"
+   },
+   {
+    "pubstatus": "accepted",
+    "date": "2012/10/22 00:00"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2013/01/12 06:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2013/01/12 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2015/02/13 06:00"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2013/01/10 00:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": 48,
+  "fulljournalname": "Human brain mapping",
+  "elocationid": "doi: 10.1002/hbm.22223",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/03/01 00:00",
+  "sortfirstauthor": "Heni M",
+  "vernaculartitle": ""
+ },
+ "28003328": {
+  "uid": "28003328",
+  "pubdate": "2017 Jan",
+  "epubdate": "",
+  "source": "Physiol Rev",
+  "authors": [
+   {
+    "name": "Steinert RE",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Feinle-Bisset C",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Asarian L",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Horowitz M",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Beglinger C",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Geary N",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Geary N",
+  "title": "Ghrelin, CCK, GLP-1, and PYY(3-36): Secretory Controls and Physiological Roles in Eating and Glycemia in Health, Obesity, and After RYGB.",
+  "sorttitle": "ghrelin cck glp 1 and pyy 3 36 secretory controls and physiological roles in eating and glycemia in health obesity and after rygb",
+  "volume": "97",
+  "issue": "1",
+  "pages": "411-463",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "0231714",
+  "issn": "0031-9333",
+  "essn": "1522-1210",
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "28003328"
+   },
+   {
+    "idtype": "pmc",
+    "idtypen": 8,
+    "value": "PMC6151490"
+   },
+   {
+    "idtype": "pmcid",
+    "idtypen": 5,
+    "value": "pmc-id: PMC6151490;"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1152/physrev.00031.2014"
+   },
+   {
+    "idtype": "pii",
+    "idtypen": 4,
+    "value": "97/1/411"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "entrez",
+    "date": "2016/12/23 06:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2016/12/23 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2017/03/11 06:00"
+   },
+   {
+    "pubstatus": "pmc-release",
+    "date": "2018/01/01 00:00"
+   }
+  ],
+  "references": [
+   {
+    "refsource": "Physiol Rev. 2017 Jul 1;97(3):1229. doi: 10.1152/physrev.z9j-2792-corr.2011.",
+    "reftype": "Erratum in",
+    "pmid": 28615464,
+    "note": ""
+   }
+  ],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": 855,
+  "fulljournalname": "Physiological reviews",
+  "elocationid": "doi: 10.1152/physrev.00031.2014",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/01/01 00:00",
+  "sortfirstauthor": "Steinert RE",
+  "vernaculartitle": ""
+ },
+ "28786523": {
+  "uid": "28786523",
+  "pubdate": "2018 Feb",
+  "epubdate": "2017 Sep 24",
+  "source": "Diabetes Obes Metab",
+  "authors": [
+   {
+    "name": "Br\u00f8nden A",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Alb\u00e9r A",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Rohde U",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Gasbjerg LS",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Rehfeld JF",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Holst JJ",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Vilsb\u00f8ll T",
+    "authtype": "Author",
+    "clusterid": ""
+   },
+   {
+    "name": "Knop FK",
+    "authtype": "Author",
+    "clusterid": ""
+   }
+  ],
+  "lastauthor": "Knop FK",
+  "title": "The bile acid-sequestering resin sevelamer eliminates the acute GLP-1 stimulatory effect of endogenously released bile acids in patients with type 2 diabetes.",
+  "sorttitle": "bile acid sequestering resin sevelamer eliminates the acute glp 1 stimulatory effect of endogenously released bile acids in patients with type 2 diabetes",
+  "volume": "20",
+  "issue": "2",
+  "pages": "362-369",
+  "lang": [
+   "eng"
+  ],
+  "nlmuniqueid": "100883645",
+  "issn": "1462-8902",
+  "essn": "1463-1326",
+  "pubtype": [
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+   {
+    "idtype": "pubmed",
+    "idtypen": 1,
+    "value": "28786523"
+   },
+   {
+    "idtype": "doi",
+    "idtypen": 3,
+    "value": "10.1111/dom.13080"
+   }
+  ],
+  "history": [
+   {
+    "pubstatus": "received",
+    "date": "2017/05/09 00:00"
+   },
+   {
+    "pubstatus": "revised",
+    "date": "2017/08/01 00:00"
+   },
+   {
+    "pubstatus": "accepted",
+    "date": "2017/08/02 00:00"
+   },
+   {
+    "pubstatus": "pubmed",
+    "date": "2017/08/09 06:00"
+   },
+   {
+    "pubstatus": "medline",
+    "date": "2018/12/28 06:00"
+   },
+   {
+    "pubstatus": "entrez",
+    "date": "2017/08/09 06:00"
+   }
+  ],
+  "references": [],
+  "attributes": [
+   "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Diabetes, obesity & metabolism",
+  "elocationid": "doi: 10.1111/dom.13080",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/02/01 00:00",
+  "sortfirstauthor": "Br\u00f8nden A",
+  "vernaculartitle": ""
  }
 }

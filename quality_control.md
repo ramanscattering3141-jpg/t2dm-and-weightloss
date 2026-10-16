@@ -37,6 +37,24 @@ A modelling preprint directly addressing this review's central question appeared
 - **It is a simulation, not a measurement.** Section 9.3, Section 12 and the conclusions all state that a model reproducing an observation does not establish that the modelled mechanism produced it. The preprint's own conclusion is that the energetic terms "may *partially* explain" the gap, and this review does not upgrade that to a full explanation.
 - **A numerical discrepancy with the primary trial reports is flagged**, in Section 9.3 and ledger row C68: the preprint quotes STEP UP weight losses of ~18%/~21% and STEP UP T2D of ~11%/~14%, where the publications report treatment-policy values of -15.6%/-18.7% and -13.2%. This is consistent with a trial-product estimand, but the preprint does not say which estimand it simulated. Table 1 uses the published treatment-policy values throughout.
 
+### Reasoning error in the previous draft, corrected (16 October 2026)
+
+Section 2.5 argued: the gap appears with non-incretin drugs and after bariatric surgery, therefore it is not receptor-level, therefore the energetics of glycaemic correction are the explanation. **The second inference does not follow.** Cross-intervention generality rules out mechanisms specific to incretin receptor pharmacology; it does not select among host-level mechanisms, and at least three are compatible with it:
+
+1. energetics of glycaemic correction;
+2. a generalised deficit in anorectic responsiveness in the diabetic brain;
+3. degradation of the shared multi-axis gut-brain afferent pathway.
+
+All three predict cross-intervention generality, so that observation cannot discriminate. The error mattered in three places, all now corrected:
+
+- **Section 2.5** previously concluded that generality "raises the weight of explanations rooted in the energetics of the diabetic state." It now states what the inference does and does not license, and names the three competing classes.
+- **Section 5.8** previously used generality to *bound* the peripheral hypothesis, asserting that "a defect in peripheral incretin signalling cannot explain a deficit that persists when no incretin drug is given." That is true only of the narrow, incretin-specific version. The vagal afferent pathway described in 5.4-5.6 carries CCK, PYY, ghrelin, distension and nutrient signals, so the broad version predicts exactly the observed generality. The bound has been reversed and the mistake stated in the text.
+- **Section 11 and the conclusions** previously ranked energetics as uniquely accounting for all robust features of the phenotype. They now distinguish *best characterised* from *best supported*, and note that the competing hypotheses additionally explain the prediabetes step, which energetics cannot.
+
+Bariatric surgery was cited as evidence against a receptor-level cause. It is in fact neutral between hypotheses 1 and 3, because RYGB works substantially through large postoperative rises in GLP-1 and PYY and therefore depends on an intact receiving apparatus. This is now stated.
+
+New Section 11.1 sets out the discriminating predictions. A further methodological point is recorded there: the Hall model held appetite parameters fixed at their non-diabetic values, so it could not express hypothesis 2 at all; a blunted appetite response could only appear as residual unexplained gap, which is what the analysis reports. The model therefore cannot distinguish "energetics explains part and nothing else is needed" from "energetics explains part and blunted anorectic response explains the rest." Table 4 study 3b proposes the direct test (refit the appetite parameters in T2D).
+
 ### Error in the previous draft, corrected
 
 Proposed study 6 in Table 4 previously argued that co-administering an SGLT2 inhibitor would *maintain* glycosuria and therefore *preserve* weight loss in T2D, bringing it closer to non-diabetes levels. **This reasoning was wrong and has been corrected.** An SGLT2 inhibitor lowers the renal threshold but urinary glucose excretion still scales with plasma glucose above that threshold, so glycaemic improvement reduces UGE regardless — and from a higher baseline, by a larger absolute amount. Hall's model accordingly predicts the *opposite* sign: stable background SGLT2i should produce the greatest attenuation. The preprint also distinguishes this from *co-initiation* of an SGLT2 inhibitor with an incretin agent, which it predicts should produce greater weight loss than either alone. Study 6 now tests all three strata.

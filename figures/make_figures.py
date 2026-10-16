@@ -74,11 +74,11 @@ box(30, 74, 40, 22, 'Incretin-based drug: exposure & receptor engagement',
     'Same dose & duration in matched programmes\nExposure determined chiefly by body weight\n(popPK; T2D data)  ·  GI tolerability and\ndiscontinuation similar or lower in T2D trials\n-> drug exposure unlikely to explain the gap')
 box(76, 70, 23, 26, 'Observed phenotype', 'Placebo-adjusted weight loss\n~0.5-0.8 x that without\ndiabetes (median ~0.63;\n2-7 pp; 9 comparisons)\nPlacebo-arm loss NOT lower\nGraded with baseline HbA1c\nAlso non-incretin drugs\nand bariatric surgery')
 
-box(1, 38, 23, 28, '1  Peripheral incretin signalling',
-    'Endogenous GLP-1/GIP secretion\n(preserved on meta-analysis;\nfalls as HbA1c rises)\nDegradation: DPP-4, neprilysin\nPortal sensing: receptor NOT\nengaged by agonists\nVagal afferents: required for\nnative GLP-1 in humans;\ndegraded in T2D models')
-box(26.5, 38, 23, 28, '2  Energy intake (central)',
-    'Appetite, satiation, food reward\n(hypothalamus, hindbrain,\nCVOs, mesolimbic)\nSuppression shown in T2D\n(human); magnitude vs\nnon-T2D: untested\nGastric emptying: tachyphylaxis;\noften accelerated in T2D')
-box(52, 38, 23, 28, '3  Energy expenditure & storage',
+box(1, 35, 23, 31, '1  Multi-axis afferent signalling',
+    'Endogenous GLP-1/GIP secretion\n(preserved on meta-analysis;\nfalls as HbA1c rises)\nDegradation: DPP-4, neprilysin\nPortal sensing: receptor NOT\nengaged by agonists\nShared vagal path also carries\nCCK, PYY, ghrelin, distension\nRequired for native GLP-1 in\nhumans; degraded in T2D models')
+box(26.5, 35, 23, 31, '2  Energy intake (central)',
+    'Appetite, satiation, food reward\n(hypothalamus, hindbrain,\nCVOs, mesolimbic)\nOral glucose fails to inhibit\nhypothalamic activity in T2D\n(BMI-matched controls)\nGliosis present in IGT and T2D\nSuppression shown in T2D;\nmagnitude vs non-T2D: untested\nGastric emptying: often\naccelerated in T2D')
+box(52, 35, 23, 31, '3  Energy expenditure & storage',
     'REE falls as glycaemia corrects\n(T2D RMR elevated;\nsulfonylurea, insulin studies)\nSubstrate partitioning /\nfat oxidation (tirzepatide:\nmore fat oxidation, no change\nin adaptation; non-T2D)\nGlycogen-water shifts (inference)')
 box(77.5, 35, 21.5, 31, '4  Energy losses',
     'Glycosuria eliminated as\nglucose falls below the\nrenal threshold (100+ g/d\nin poor control)\nModel reproduces part of\nthe gap from UGE + EE\nalone, appetite held fixed\nStable background SGLT2i:\ngreatest attenuation\nIn trials: NOT measured')
@@ -89,14 +89,14 @@ box(69, 4, 30, 24, '6  Methodological', 'Separate trials, populations\nnot rando
 
 arrow((23, 85), (29.4, 85), 'established')
 arrow((70.6, 85), (75.4, 85), 'established')
-arrow((9, 73.4), (9, 66.6), 'human')
-arrow((16, 73.4), (34, 67.2), 'human')
-arrow((20, 73.4), (60, 67.2), 'established')
+arrow((9, 73.4), (9, 63.6), 'human')
+arrow((16, 73.4), (34, 64.2), 'human')
+arrow((20, 73.4), (60, 64.2), 'established')
 arrow((22, 73.4), (86, 66.2), 'established')
-arrow((38, 73.4), (38, 66.6), 'established')
-arrow((24.3, 52), (26.2, 52), 'hypothesis')
-arrow((36, 37.4), (44, 28.6), 'established', rad=0.1)
-arrow((60, 37.4), (54, 28.6), 'hypothesis')
+arrow((38, 73.4), (38, 63.6), 'established')
+arrow((24.3, 50), (26.2, 50), 'hypothesis')
+arrow((36, 34.4), (44, 28.6), 'established', rad=0.1)
+arrow((60, 34.4), (54, 28.6), 'hypothesis')
 arrow((86, 34.4), (60, 28.6), 'hypothesis', rad=-0.1)
 arrow((31.6, 16), (34.4, 16), 'human')
 arrow((68.4, 16), (65.6, 16), 'hypothesis')

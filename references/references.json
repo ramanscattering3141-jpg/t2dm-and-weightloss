@@ -484,510 +484,538 @@
  },
  {
   "n": 70,
+  "key": "VIDARSDOTTIR2007",
+  "pmid": "17670916",
+  "doi": "10.2337/db07-0193",
+  "citation": "Vidarsdottir S, Smeets PA, Eichelsheim DL, van Osch MJ, Viergever MA, Romijn JA, et al. Glucose ingestion fails to inhibit hypothalamic neuronal activity in patients with type 2 diabetes. Diabetes. 2007;56(10):2547-50. doi:10.2337/db07-0193. PMID: 17670916"
+ },
+ {
+  "n": 71,
   "key": "ROSENBAUM2022",
   "pmid": "34848489",
   "doi": "10.2337/dc21-1535",
   "citation": "Rosenbaum JL, Melhorn SJ, Schoen S, Webb MF, De Leon MRB, Humphreys M, et al. Evidence That Hypothalamic Gliosis Is Related to Impaired Glucose Homeostasis in Adults With Obesity. Diabetes Care. 2022;45(2):416-424. doi:10.2337/dc21-1535. PMID: 34848489"
  },
  {
-  "n": 71,
+  "n": 72,
   "key": "KULLMANN2016",
   "pmid": "27489306",
   "doi": "10.1152/physrev.00032.2015",
   "citation": "Kullmann S, Heni M, Hallschmid M, Fritsche A, Preissl H, Häring HU. Brain Insulin Resistance at the Crossroads of Metabolic and Cognitive Disorders in Humans. Physiol Rev. 2016;96(4):1169-209. doi:10.1152/physrev.00032.2015. PMID: 27489306"
  },
  {
-  "n": 72,
+  "n": 73,
+  "key": "HENI2013",
+  "pmid": "23307469",
+  "doi": "10.1002/hbm.22223",
+  "citation": "Heni M, Kullmann S, Ketterer C, Guthoff M, Bayer M, Staiger H, et al. Differential effect of glucose ingestion on the neural processing of food stimuli in lean and overweight adults. Hum Brain Mapp. 2014;35(3):918-28. doi:10.1002/hbm.22223. PMID: 23307469"
+ },
+ {
+  "n": 74,
   "key": "POLIDORI2016",
   "pmid": "27804272",
   "doi": "10.1002/oby.21653",
   "citation": "Polidori D, Sanghvi A, Seeley RJ, Hall KD. How Strongly Does Appetite Counter Weight Loss? Quantification of the Feedback Control of Human Energy Intake. Obesity (Silver Spring). 2016;24(11):2289-2295. doi:10.1002/oby.21653. PMID: 27804272"
  },
  {
-  "n": 73,
+  "n": 75,
   "key": "DRUCKER2018",
   "pmid": "29617641",
   "doi": "10.1016/j.cmet.2018.03.001",
   "citation": "Drucker DJ. Mechanisms of Action and Therapeutic Application of Glucagon-like Peptide-1. Cell Metab. 2018;27(4):740-756. doi:10.1016/j.cmet.2018.03.001. PMID: 29617641"
  },
  {
-  "n": 74,
+  "n": 76,
   "key": "HOLST2007",
   "pmid": "17928588",
   "doi": "10.1152/physrev.00034.2006",
   "citation": "Holst JJ. The physiology of glucagon-like peptide 1. Physiol Rev. 2007;87(4):1409-39. doi:10.1152/physrev.00034.2006. PMID: 17928588"
  },
  {
-  "n": 75,
+  "n": 77,
   "key": "BAGGIO2007",
   "pmid": "17498508",
   "doi": "10.1053/j.gastro.2007.03.054",
   "citation": "Baggio LL, Drucker DJ. Biology of incretins: GLP-1 and GIP. Gastroenterology. 2007;132(6):2131-57. doi:10.1053/j.gastro.2007.03.054. PMID: 17498508"
  },
  {
-  "n": 76,
+  "n": 78,
   "key": "TOFTNIELSEN2001",
   "pmid": "11502801",
   "doi": "10.1210/jcem.86.8.7750",
   "citation": "Toft-Nielsen MB, Damholt MB, Madsbad S, Hilsted LM, Hughes TE, Michelsen BK, et al. Determinants of the impaired secretion of glucagon-like peptide-1 in type 2 diabetic patients. J Clin Endocrinol Metab. 2001;86(8):3717-23. doi:10.1210/jcem.86.8.7750. PMID: 11502801"
  },
  {
-  "n": 77,
+  "n": 79,
   "key": "VILSBOLL2003",
   "pmid": "12788877",
   "doi": "10.1210/jc.2002-021873",
   "citation": "Vilsbøll T, Krarup T, Sonne J, Madsbad S, Vølund A, Juul AG, et al. Incretin secretion in relation to meal size and body weight in healthy subjects and people with type 1 and type 2 diabetes mellitus. J Clin Endocrinol Metab. 2003;88(6):2706-13. doi:10.1210/jc.2002-021873. PMID: 12788877"
  },
  {
-  "n": 78,
+  "n": 80,
   "key": "CALANNA_GLP1",
   "pmid": "23377698",
   "doi": "10.1007/s00125-013-2841-0",
   "citation": "Calanna S, Christensen M, Holst JJ, Laferrère B, Gluud LL, Vilsbøll T, et al. Secretion of glucagon-like peptide-1 in patients with type 2 diabetes mellitus: systematic review and meta-analyses of clinical studies. Diabetologia. 2013;56(5):965-72. doi:10.1007/s00125-013-2841-0. PMID: 23377698"
  },
  {
-  "n": 79,
+  "n": 81,
   "key": "CALANNA_GIP",
   "pmid": "24065842",
   "doi": "10.2337/dc13-0465",
   "citation": "Calanna S, Christensen M, Holst JJ, Laferrère B, Gluud LL, Vilsbøll T, et al. Secretion of glucose-dependent insulinotropic polypeptide in patients with type 2 diabetes: systematic review and meta-analysis of clinical studies. Diabetes Care. 2013;36(10):3346-52. doi:10.2337/dc13-0465. PMID: 24065842"
  },
  {
-  "n": 80,
+  "n": 82,
   "key": "XU2007",
   "pmid": "17360984",
   "doi": "10.2337/db06-1033",
   "citation": "Xu G, Kaneto H, Laybutt DR, Duvivier-Kali VF, Trivedi N, Suzuma K, et al. Downregulation of GLP-1 and GIP receptor expression by hyperglycemia: possible contribution to impaired incretin effects in diabetes. Diabetes. 2007;56(6):1551-8. doi:10.2337/db06-1033. PMID: 17360984"
  },
  {
-  "n": 81,
+  "n": 83,
   "key": "ZHENG2015",
   "pmid": "26318108",
   "doi": "10.1016/j.atherosclerosis.2015.07.042",
   "citation": "Zheng TP, Liu YH, Yang LX, Qin SH, Liu HB. Increased plasma dipeptidyl peptidase-4 activities are associated with high prevalence of subclinical atherosclerosis in Chinese patients with newly diagnosed type 2 diabetes: a cross-sectional study. Atherosclerosis. 2015;242(2):580-8. doi:10.1016/j.atherosclerosis.2015.07.042. PMID: 26318108"
  },
  {
-  "n": 82,
+  "n": 84,
   "key": "MALIN2013",
   "pmid": "23872069",
   "doi": "10.1016/j.peptides.2013.07.008",
   "citation": "Malin SK, Huang H, Mulya A, Kashyap SR, Kirwan JP. Lower dipeptidyl peptidase-4 following exercise training plus weight loss is related to increased insulin sensitivity in adults with metabolic syndrome. Peptides. 2013;47:142-7. doi:10.1016/j.peptides.2013.07.008. PMID: 23872069"
  },
  {
-  "n": 83,
+  "n": 85,
   "key": "YAMASHITA2019",
   "pmid": "31276666",
   "doi": "10.1016/j.ejphar.2019.172521",
   "citation": "Yamashita S, Kawakami Y, Sato H, Sugitani S, Goto M, Kato N. Contribution of intestinal dipeptidyl peptidase-4 inhibition for incretin-dependent improved glucose tolerance in mice. Eur J Pharmacol. 2019;859:172521. doi:10.1016/j.ejphar.2019.172521. PMID: 31276666"
  },
  {
-  "n": 84,
+  "n": 86,
   "key": "WILLARD2017",
   "pmid": "27933334",
   "doi": "10.1007/s00125-016-4172-4",
   "citation": "Willard JR, Barrow BM, Zraika S. Improved glycaemia in high-fat-fed neprilysin-deficient mice is associated with reduced DPP-4 activity and increased active GLP-1 levels. Diabetologia. 2017;60(4):701-708. doi:10.1007/s00125-016-4172-4. PMID: 27933334"
  },
  {
-  "n": 85,
+  "n": 87,
   "key": "KNAUF2008",
   "pmid": "18519802",
   "doi": "10.2337/db07-1788",
   "citation": "Knauf C, Cani PD, Kim DH, Iglesias MA, Chabo C, Waget A, et al. Role of central nervous system glucagon-like Peptide-1 receptors in enteric glucose sensing. Diabetes. 2008;57(10):2603-12. doi:10.2337/db07-1788. PMID: 18519802"
  },
  {
-  "n": 86,
+  "n": 88,
   "key": "SOTY2017",
   "pmid": "28591631",
   "doi": "10.1016/j.cmet.2017.04.032",
   "citation": "Soty M, Gautier-Stein A, Rajas F, Mithieux G. Gut-Brain Glucose Signaling in Energy Homeostasis. Cell Metab. 2017;25(6):1231-1242. doi:10.1016/j.cmet.2017.04.032. PMID: 28591631"
  },
  {
-  "n": 87,
+  "n": 89,
   "key": "HAYES2011",
   "pmid": "21849636",
   "doi": "10.1152/ajpregu.00356.2011",
   "citation": "Hayes MR, Kanoski SE, De Jonghe BC, Leichner TM, Alhadeff AL, Fortin SM, et al. The common hepatic branch of the vagus is not required to mediate the glycemic and food intake suppressive effects of glucagon-like-peptide-1. Am J Physiol Regul Integr Comp Physiol. 2011;301(5):R1479-85. doi:10.1152/ajpregu.00356.2011. PMID: 21849636"
  },
  {
-  "n": 88,
+  "n": 90,
   "key": "ZHANGRITTER2011",
   "pmid": "22031786",
   "doi": "10.1152/ajpregu.00114.2011",
   "citation": "Zhang J, Ritter RC. Circulating GLP-1 and CCK-8 reduce food intake by capsaicin-insensitive, nonvagal mechanisms. Am J Physiol Regul Integr Comp Physiol. 2012;302(2):R264-73. doi:10.1152/ajpregu.00114.2011. PMID: 22031786"
  },
  {
-  "n": 89,
+  "n": 91,
   "key": "IWASAKI2018",
   "pmid": "29317623",
   "doi": "10.1038/s41467-017-02488-y",
   "citation": "Iwasaki Y, Sendo M, Dezaki K, Hira T, Sato T, Nakata M, et al. GLP-1 release and vagal afferent activation mediate the beneficial metabolic and chronotherapeutic effects of D-allulose. Nat Commun. 2018;9(1):113. doi:10.1038/s41467-017-02488-y. PMID: 29317623"
  },
  {
-  "n": 90,
+  "n": 92,
   "key": "NISHIZAWA2000",
   "pmid": "10742535",
   "doi": "10.1016/s0165-1838(99)00086-7",
   "citation": "Nishizawa M, Nakabayashi H, Kawai K, Ito T, Kawakami S, Nakagawa A, et al. The hepatic vagal reception of intraportal GLP-1 is via receptor different from the pancreatic GLP-1 receptor. J Auton Nerv Syst. 2000;80(1-2):14-21. doi:10.1016/s0165-1838(99)00086-7. PMID: 10742535"
  },
  {
-  "n": 91,
+  "n": 93,
   "key": "EDGERTON2013",
   "pmid": "23673158",
   "doi": "10.1152/ajpendo.00160.2013",
   "citation": "Edgerton DS, An Z, Johnson KM, Farmer T, Farmer B, Neal D, et al. Effects of intraportal exenatide on hepatic glucose metabolism in the conscious dog. Am J Physiol Endocrinol Metab. 2013;305(1):E132-9. doi:10.1152/ajpendo.00160.2013. PMID: 23673158"
  },
  {
-  "n": 92,
+  "n": 94,
   "key": "PLAMBOECK2013",
   "pmid": "23599045",
   "doi": "10.1152/ajpgi.00035.2013",
   "citation": "Plamboeck A, Veedfald S, Deacon CF, Hartmann B, Wettergren A, Svendsen LB, et al. The effect of exogenous GLP-1 on food intake is lost in male truncally vagotomized subjects with pyloroplasty. Am J Physiol Gastrointest Liver Physiol. 2013;304(12):G1117-27. doi:10.1152/ajpgi.00035.2013. PMID: 23599045"
  },
  {
-  "n": 93,
+  "n": 95,
   "key": "BONORA2020",
   "pmid": "32819978",
   "doi": "10.1136/bmjdrc-2020-001549",
   "citation": "Bonora E, Trombetta M, Dauriz M, Travia D, Cacciatori V, Brangani C, et al. Chronic complications in patients with newly diagnosed type 2 diabetes: prevalence and related metabolic and clinical features: the Verona Newly Diagnosed Type 2 Diabetes Study (VNDS) 9. BMJ Open Diabetes Res Care. 2020;8(1). doi:10.1136/bmjdrc-2020-001549. PMID: 32819978"
  },
  {
-  "n": 94,
+  "n": 96,
   "key": "AGASHE2018",
   "pmid": "30788010",
   "doi": "10.14797/mdcj-14-4-251",
   "citation": "Agashe S, Petak S. Cardiac Autonomic Neuropathy in Diabetes Mellitus. Methodist Debakey Cardiovasc J. 2018;14(4):251-256. doi:10.14797/mdcj-14-4-251. PMID: 30788010"
  },
  {
-  "n": 95,
+  "n": 97,
   "key": "DUCHEN1980",
   "pmid": "6243893",
   "doi": "10.7326/0003-4819-92-2-301",
   "citation": "Duchen LW, Anjorin A, Watkins PJ, Mackay JD. Pathology of autonomic neuropathy in diabetes mellitus. Ann Intern Med. 1980;92(2 Pt 2):301-3. doi:10.7326/0003-4819-92-2-301. PMID: 6243893"
  },
  {
-  "n": 96,
+  "n": 98,
   "key": "ROBERTSON1980",
   "pmid": "6991317",
   "doi": "10.2337/diab.29.1.60",
   "citation": "Robertson DM, Sima AA. Diabetic neuropathy in the mutant mouse [C57BL/ks(db/db)]: a morphometric study. Diabetes. 1980;29(1):60-7. doi:10.2337/diab.29.1.60. PMID: 6991317"
  },
  {
-  "n": 97,
+  "n": 99,
   "key": "LEE2012",
   "pmid": "22160540",
   "doi": "10.1152/ajpregu.00345.2011",
   "citation": "Lee J, Cummings BP, Martin E, Sharp JW, Graham JL, Stanhope KL, et al. Glucose sensing by gut endocrine cells and activation of the vagal afferent pathway is impaired in a rodent model of type 2 diabetes mellitus. Am J Physiol Regul Integr Comp Physiol. 2012;302(6):R657-66. doi:10.1152/ajpregu.00345.2011. PMID: 22160540"
  },
  {
-  "n": 98,
+  "n": 100,
   "key": "MALBERT2021",
   "pmid": "33067312",
   "doi": "10.2337/db20-0361",
   "citation": "Malbert CH, Chauvin A, Horowitz M, Jones KL. Glucose Sensing Mediated by Portal Glucagon-Like Peptide 1 Receptor Is Markedly Impaired in Insulin-Resistant Obese Animals. Diabetes. 2021;70(1):99-110. doi:10.2337/db20-0361. PMID: 33067312"
  },
  {
-  "n": 99,
+  "n": 101,
   "key": "DUCA2013",
   "pmid": "23423571",
   "doi": "10.2337/db12-1204",
   "citation": "Duca FA, Sakar Y, Covasa M. Combination of obesity and high-fat feeding diminishes sensitivity to GLP-1R agonist exendin-4. Diabetes. 2013;62(7):2410-5. doi:10.2337/db12-1204. PMID: 23423571"
  },
  {
-  "n": 100,
+  "n": 102,
+  "key": "STEINERT2017",
+  "pmid": "28003328",
+  "doi": "10.1152/physrev.00031.2014",
+  "citation": "Steinert RE, Feinle-Bisset C, Asarian L, Horowitz M, Beglinger C, Geary N. Ghrelin, CCK, GLP-1, and PYY(3-36): Secretory Controls and Physiological Roles in Eating and Glycemia in Health, Obesity, and After RYGB. Physiol Rev. 2017;97(1):411-463. doi:10.1152/physrev.00031.2014. PMID: 28003328"
+ },
+ {
+  "n": 103,
+  "key": "BRONDEN2017",
+  "pmid": "28786523",
+  "doi": "10.1111/dom.13080",
+  "citation": "Brønden A, Albér A, Rohde U, Gasbjerg LS, Rehfeld JF, Holst JJ, et al. The bile acid-sequestering resin sevelamer eliminates the acute GLP-1 stimulatory effect of endogenously released bile acids in patients with type 2 diabetes. Diabetes Obes Metab. 2018;20(2):362-369. doi:10.1111/dom.13080. PMID: 28786523"
+ },
+ {
+  "n": 104,
   "key": "MCCREIGHT2016",
   "pmid": "26780750",
   "doi": "10.1007/s00125-015-3844-9",
   "citation": "McCreight LJ, Bailey CJ, Pearson ER. Metformin and the gastrointestinal tract. Diabetologia. 2016;59(3):426-35. doi:10.1007/s00125-015-3844-9. PMID: 26780750"
  },
  {
-  "n": 101,
+  "n": 105,
   "key": "OVERGAARD2021PK",
   "pmid": "33969456",
   "doi": "10.1007/s40262-021-01025-x",
   "citation": "Overgaard RV, Navarria A, Ingwersen SH, Bækdal TA, Kildemoes RJ. Clinical Pharmacokinetics of Oral Semaglutide: Analyses of Data from Clinical Pharmacology Trials. Clin Pharmacokinet. 2021;60(10):1335-1348. doi:10.1007/s40262-021-01025-x. PMID: 33969456"
  },
  {
-  "n": 102,
+  "n": 106,
   "key": "NAUCK2011",
   "pmid": "21430088",
   "doi": "10.2337/db10-0474",
   "citation": "Nauck MA, Kemmeries G, Holst JJ, Meier JJ. Rapid tachyphylaxis of the glucagon-like peptide 1-induced deceleration of gastric emptying in humans. Diabetes. 2011;60(5):1561-5. doi:10.2337/db10-0474. PMID: 21430088"
  },
  {
-  "n": 103,
+  "n": 107,
   "key": "UMAPATHYSIVAM2014",
   "pmid": "24089511",
   "doi": "10.2337/db13-0893",
   "citation": "Umapathysivam MM, Lee MY, Jones KL, Annink CE, Cousins CE, Trahair LG, et al. Comparative effects of prolonged and intermittent stimulation of the glucagon-like peptide 1 receptor on gastric emptying and glycemia. Diabetes. 2014;63(2):785-90. doi:10.2337/db13-0893. PMID: 24089511"
  },
  {
-  "n": 104,
+  "n": 108,
   "key": "HJERPSTED2018",
   "pmid": "28941314",
   "doi": "10.1111/dom.13120",
   "citation": "Hjerpsted JB, Flint A, Brooks A, Axelsen MB, Kvist T, Blundell J. Semaglutide improves postprandial glucose and lipid metabolism, and delays first-hour gastric emptying in subjects with obesity. Diabetes Obes Metab. 2018;20(3):610-619. doi:10.1111/dom.13120. PMID: 28941314"
  },
  {
-  "n": 105,
+  "n": 109,
   "key": "JONES2020",
   "pmid": "31903712",
   "doi": "10.1111/dom.13956",
   "citation": "Jones KL, Huynh LQ, Hatzinikolas S, Rigda RS, Phillips LK, Pham HT, et al. Exenatide once weekly slows gastric emptying of solids and liquids in healthy, overweight people at steady-state concentrations. Diabetes Obes Metab. 2020;22(5):788-797. doi:10.1111/dom.13956. PMID: 31903712"
  },
  {
-  "n": 106,
+  "n": 110,
   "key": "HALAWI2017",
   "pmid": "28958851",
   "doi": "10.1016/S2468-1253(17)30285-6",
   "citation": "Halawi H, Khemani D, Eckert D, O'Neill J, Kadouh H, Grothe K, et al. Effects of liraglutide on weight, satiation, and gastric functions in obesity: a randomised, placebo-controlled pilot trial. Lancet Gastroenterol Hepatol. 2017;2(12):890-899. doi:10.1016/S2468-1253(17)30285-6. PMID: 28958851"
  },
  {
-  "n": 107,
+  "n": 111,
   "key": "URVA2020",
   "pmid": "32519795",
   "doi": "10.1111/dom.14110",
   "citation": "Urva S, Coskun T, Loghin C, Cui X, Beebe E, O'Farrell L, et al. The novel dual glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 (GLP-1) receptor agonist tirzepatide transiently delays gastric emptying similarly to selective long-acting GLP-1 receptor agonists. Diabetes Obes Metab. 2020;22(10):1886-1891. doi:10.1111/dom.14110. PMID: 32519795"
  },
  {
-  "n": 108,
+  "n": 112,
   "key": "FRASER1990",
   "pmid": "2076799",
   "doi": "10.1007/BF00400569",
   "citation": "Fraser RJ, Horowitz M, Maddox AF, Harding PE, Chatterton BE, Dent J. Hyperglycaemia slows gastric emptying in type 1 (insulin-dependent) diabetes mellitus. Diabetologia. 1990;33(11):675-80. doi:10.1007/BF00400569. PMID: 2076799"
  },
  {
-  "n": 109,
+  "n": 113,
   "key": "CAMILLERI2018",
   "pmid": "30385743",
   "doi": "10.1038/s41572-018-0038-z",
   "citation": "Camilleri M, Chedid V, Ford AC, Haruma K, Horowitz M, Jones KL, et al. Gastroparesis. Nat Rev Dis Primers. 2018;4(1):41. doi:10.1038/s41572-018-0038-z. PMID: 30385743"
  },
  {
-  "n": 110,
+  "n": 114,
   "key": "CHEDID2019",
   "pmid": "30166634",
   "doi": "10.1038/s41395-018-0234-1",
   "citation": "Chedid V, Brandler J, Vijayvargiya P, Park SY, Szarka LA, Camilleri M. Characterization of Upper Gastrointestinal Symptoms, Gastric Motor Functions, and Associations in Patients with Diabetes at a Referral Center. Am J Gastroenterol. 2019;114(1):143-154. doi:10.1038/s41395-018-0234-1. PMID: 30166634"
  },
  {
-  "n": 111,
+  "n": 115,
   "key": "PHILLIPS2014",
   "pmid": "25047170",
   "doi": "10.1016/j.jdiacomp.2014.06.005",
   "citation": "Phillips LK, Rayner CK, Jones KL, Horowitz M. Measurement of gastric emptying in diabetes. J Diabetes Complications. 2014;28(6):894-903. doi:10.1016/j.jdiacomp.2014.06.005. PMID: 25047170"
  },
  {
-  "n": 112,
+  "n": 116,
   "key": "RAYNER2020",
   "pmid": "32471908",
   "doi": "10.2337/dc20-0190",
   "citation": "Rayner CK, Watson LE, Phillips LK, Lange K, Bound MJ, Grivell J, et al. Effects of Sustained Treatment With Lixisenatide on Gastric Emptying and Postprandial Glucose Metabolism in Type 2 Diabetes: A Randomized Controlled Trial. Diabetes Care. 2020;43(8):1813-1821. doi:10.2337/dc20-0190. PMID: 32471908"
  },
  {
-  "n": 113,
+  "n": 117,
   "key": "ASMAR2010",
   "pmid": "20547981",
   "doi": "10.2337/db10-0098",
   "citation": "Asmar M, Simonsen L, Madsbad S, Stallknecht B, Holst JJ, Bülow J. Glucose-dependent insulinotropic polypeptide may enhance fatty acid re-esterification in subcutaneous abdominal adipose tissue in lean humans. Diabetes. 2010;59(9):2160-3. doi:10.2337/db10-0098. PMID: 20547981"
  },
  {
-  "n": 114,
+  "n": 118,
   "key": "BERGMANN2019",
   "pmid": "30683945",
   "doi": "10.1007/s00125-018-4810-0",
   "citation": "Bergmann NC, Lund A, Gasbjerg LS, Meessen ECE, Andersen MM, Bergmann S, et al. Effects of combined GIP and GLP-1 infusion on energy intake, appetite and energy expenditure in overweight/obese individuals: a randomised, crossover study. Diabetologia. 2019;62(4):665-675. doi:10.1007/s00125-018-4810-0. PMID: 30683945"
  },
  {
-  "n": 115,
+  "n": 119,
   "key": "ADRIAENSSENS2019",
   "pmid": "31447324",
   "doi": "10.1016/j.cmet.2019.07.013",
   "citation": "Adriaenssens AE, Biggs EK, Darwish T, Tadross J, Sukthankar T, Girish M, et al. Glucose-Dependent Insulinotropic Polypeptide Receptor-Expressing Cells in the Hypothalamus Regulate Food Intake. Cell Metab. 2019;30(5):987-996.e6. doi:10.1016/j.cmet.2019.07.013. PMID: 31447324"
  },
  {
-  "n": 116,
+  "n": 120,
   "key": "ZHANG2021",
   "pmid": "33571454",
   "doi": "10.1016/j.cmet.2021.01.015",
   "citation": "Zhang Q, Delessa CT, Augustin R, Bakhti M, Colldén G, Drucker DJ, et al. The glucose-dependent insulinotropic polypeptide (GIP) regulates body weight and food intake via CNS-GIPR signaling. Cell Metab. 2021;33(4):833-844.e5. doi:10.1016/j.cmet.2021.01.015. PMID: 33571454"
  },
  {
-  "n": 117,
+  "n": 121,
   "key": "BORNER2021",
   "pmid": "34380697",
   "doi": "10.2337/db21-0459",
   "citation": "Borner T, Geisler CE, Fortin SM, Cosgrove R, Alsina-Fernandez J, Dogra M, et al. GIP Receptor Agonism Attenuates GLP-1 Receptor Agonist-Induced Nausea and Emesis in Preclinical Models. Diabetes. 2021;70(11):2545-2553. doi:10.2337/db21-0459. PMID: 34380697"
  },
  {
-  "n": 118,
+  "n": 122,
   "key": "KILLION2018",
   "pmid": "30567927",
   "doi": "10.1126/scitranslmed.aat3392",
   "citation": "Killion EA, Wang J, Yie J, Shi SD, Bates D, Min X, et al. Anti-obesity effects of GIPR antagonists alone and in combination with GLP-1R agonists in preclinical models. Sci Transl Med. 2018;10(472). doi:10.1126/scitranslmed.aat3392. PMID: 30567927"
  },
  {
-  "n": 119,
+  "n": 123,
   "key": "RAVUSSIN2025",
   "pmid": "40203836",
   "doi": "10.1016/j.cmet.2025.03.011",
   "citation": "Ravussin E, Sanchez-Delgado G, Martin CK, Beyl RA, Greenway FL, O'Farrell LS, et al. Tirzepatide did not impact metabolic adaptation in people with obesity, but increased fat oxidation. Cell Metab. 2025;37(5):1060-1074.e4. doi:10.1016/j.cmet.2025.03.011. PMID: 40203836"
  },
  {
-  "n": 120,
+  "n": 124,
   "key": "DEFRONZO1981",
   "pmid": "7030826",
   "doi": "10.2337/diab.30.12.1000",
   "citation": "DeFronzo RA, Jacot E, Jequier E, Maeder E, Wahren J, Felber JP. The effect of insulin on the disposal of intravenous glucose. Results from indirect calorimetry and hepatic and femoral venous catheterization. Diabetes. 1981;30(12):1000-7. doi:10.2337/diab.30.12.1000. PMID: 7030826"
  },
  {
-  "n": 121,
+  "n": 125,
   "key": "PETERSEN_SHULMAN2018",
   "pmid": "30067154",
   "doi": "10.1152/physrev.00063.2017",
   "citation": "Petersen MC, Shulman GI. Mechanisms of Insulin Action and Insulin Resistance. Physiol Rev. 2018;98(4):2133-2223. doi:10.1152/physrev.00063.2017. PMID: 30067154"
  },
  {
-  "n": 122,
+  "n": 126,
   "key": "KELLEY2000",
   "pmid": "10905472",
   "doi": "10.2337/diabetes.49.5.677",
   "citation": "Kelley DE, Mandarino LJ. Fuel selection in human skeletal muscle in insulin resistance: a reexamination. Diabetes. 2000;49(5):677-83. doi:10.2337/diabetes.49.5.677. PMID: 10905472"
  },
  {
-  "n": 123,
+  "n": 127,
   "key": "ARMSTRONG2016",
   "pmid": "26394161",
   "doi": "10.1016/j.jhep.2015.08.038",
   "citation": "Armstrong MJ, Hull D, Guo K, Barton D, Hazlehurst JM, Gathercole LL, et al. Glucagon-like peptide 1 decreases lipotoxicity in non-alcoholic steatohepatitis. J Hepatol. 2016;64(2):399-408. doi:10.1016/j.jhep.2015.08.038. PMID: 26394161"
  },
  {
-  "n": 124,
+  "n": 128,
   "key": "HALL2015",
   "pmid": "26278052",
   "doi": "10.1016/j.cmet.2015.07.021",
   "citation": "Hall KD, Bemis T, Brychta R, Chen KY, Courville A, Crayner EJ, et al. Calorie for Calorie, Dietary Fat Restriction Results in More Body Fat Loss than Carbohydrate Restriction in People with Obesity. Cell Metab. 2015;22(3):427-36. doi:10.1016/j.cmet.2015.07.021. PMID: 26278052"
  },
  {
-  "n": 125,
+  "n": 129,
   "key": "UKPDS33",
   "pmid": "9742976",
   "doi": "10.1016/S0140-6736(98)07019-6",
   "citation": ". Intensive blood-glucose control with sulphonylureas or insulin compared with conventional treatment and risk of complications in patients with type 2 diabetes (UKPDS 33). UK Prospective Diabetes Study (UKPDS) Group. Lancet. 1998;352(9131):837-53. doi:10.1016/S0140-6736(98)07019-6. PMID: 9742976"
  },
  {
-  "n": 126,
+  "n": 130,
   "key": "SCALE_INSULIN",
   "pmid": "32139381",
   "doi": "10.2337/dc19-1745",
   "citation": "Garvey WT, Birkenfeld AL, Dicker D, Mingrone G, Pedersen SD, Satylganova A, et al. Efficacy and Safety of Liraglutide 3.0 mg in Individuals With Overweight or Obesity and Type 2 Diabetes Treated With Basal Insulin: The SCALE Insulin Randomized Controlled Trial. Diabetes Care. 2020;43(5):1085-1093. doi:10.2337/dc19-1745. PMID: 32139381"
  },
  {
-  "n": 127,
+  "n": 131,
   "key": "RAVE2006",
   "pmid": "16627603",
   "doi": "10.1093/ndt/gfl175",
   "citation": "Rave K, Nosek L, Posner J, Heise T, Roggen K, van Hoogdalem EJ. Renal glucose excretion as a function of blood glucose concentration in subjects with type 2 diabetes--results of a hyperglycaemic glucose clamp study. Nephrol Dial Transplant. 2006;21(8):2166-71. doi:10.1093/ndt/gfl175. PMID: 16627603"
  },
  {
-  "n": 128,
+  "n": 132,
   "key": "BOGARDUS1986",
   "pmid": "3940908",
   "doi": "10.2337/diab.35.1.1",
   "citation": "Bogardus C, Taskinen MR, Zawadzki J, Lillioja S, Mott D, Howard BV. Increased resting metabolic rates in obese subjects with non-insulin-dependent diabetes mellitus and the effect of sulfonylurea therapy. Diabetes. 1986;35(1):1-5. doi:10.2337/diab.35.1.1. PMID: 3940908"
  },
  {
-  "n": 129,
+  "n": 133,
   "key": "CARLSON1993",
   "pmid": "8243815",
   "doi": "10.2337/diab.42.12.1700",
   "citation": "Carlson MG, Campbell PJ. Intensive insulin therapy and weight gain in IDDM. Diabetes. 1993;42(12):1700-7. doi:10.2337/diab.42.12.1700. PMID: 8243815"
  },
  {
-  "n": 130,
+  "n": 134,
   "key": "MAKIMATTILA1999",
   "pmid": "10230643",
   "doi": "10.1007/s001250051172",
   "citation": "Mäkimattila S, Nikkilä K, Yki-Järvinen H. Causes of weight gain during insulin therapy with and without metformin in patients with Type II diabetes mellitus. Diabetologia. 1999;42(4):406-12. doi:10.1007/s001250051172. PMID: 10230643"
  },
  {
-  "n": 131,
+  "n": 135,
   "key": "FERRANNINI_G2015",
   "pmid": "26180105",
   "doi": "10.2337/dc15-0355",
   "citation": "Ferrannini G, Hach T, Crowe S, Sanghvi A, Hall KD, Ferrannini E. Energy Balance After Sodium-Glucose Cotransporter 2 Inhibition. Diabetes Care. 2015;38(9):1730-5. doi:10.2337/dc15-0355. PMID: 26180105"
  },
  {
-  "n": 132,
+  "n": 136,
   "key": "HALL2024",
   "pmid": "38644683",
   "doi": "10.1002/oby.24027",
   "citation": "Hall KD. Physiology of the weight-loss plateau in response to diet restriction, GLP-1 receptor agonism, and bariatric surgery. Obesity (Silver Spring). 2024;32(6):1163-1168. doi:10.1002/oby.24027. PMID: 38644683"
  },
  {
-  "n": 133,
+  "n": 137,
   "key": "POLIDORI2013",
   "pmid": "23585665",
   "doi": "10.1210/jc.2012-4205",
   "citation": "Polidori D, Sha S, Ghosh A, Plum-Mörschel L, Heise T, Rothenberg P. Validation of a novel method for determining the renal threshold for glucose excretion in untreated and canagliflozin-treated subjects with type 2 diabetes mellitus. J Clin Endocrinol Metab. 2013;98(5):E867-71. doi:10.1210/jc.2012-4205. PMID: 23585665"
  },
  {
-  "n": 134,
+  "n": 138,
   "key": "NATHAN2008",
   "pmid": "18540046",
   "doi": "10.2337/dc08-0545",
   "citation": "Nathan DM, Kuenen J, Borg R, Zheng H, Schoenfeld D, Heine RJ. Translating the A1C assay into estimated average glucose values. Diabetes Care. 2008;31(8):1473-8. doi:10.2337/dc08-0545. PMID: 18540046"
  },
  {
-  "n": 135,
+  "n": 139,
   "key": "GOUGEON2002",
   "pmid": "12461671",
   "doi": "10.1038/sj.ijo.0802178",
   "citation": "Gougeon R, Lamarche M, Yale JF, Venuta T. The prediction of resting energy expenditure in type 2 diabetes mellitus is improved by factoring for glycemia. Int J Obes Relat Metab Disord. 2002;26(12):1547-52. doi:10.1038/sj.ijo.0802178. PMID: 12461671"
  },
  {
-  "n": 136,
+  "n": 140,
   "key": "HALL2011",
   "pmid": "21872751",
   "doi": "10.1016/S0140-6736(11)60812-X",
   "citation": "Hall KD, Sacks G, Chandramohan D, Chow CC, Wang YC, Gortmaker SL, et al. Quantification of the effect of energy imbalance on bodyweight. Lancet. 2011;378(9793):826-37. doi:10.1016/S0140-6736(11)60812-X. PMID: 21872751"
  },
  {
-  "n": 137,
+  "n": 141,
   "key": "LOOK2025",
   "pmid": "39996356",
   "doi": "10.1111/dom.16275",
   "citation": "Look M, Dunn JP, Kushner RF, Cao D, Harris C, Gibble TH, et al. Body composition changes during weight reduction with tirzepatide in the SURMOUNT-1 study of adults with obesity or overweight. Diabetes Obes Metab. 2025;27(5):2720-2729. doi:10.1111/dom.16275. PMID: 39996356"
  },
  {
-  "n": 138,
+  "n": 142,
   "key": "MCCRIMMON2020",
   "pmid": "31897524",
   "doi": "10.1007/s00125-019-05065-8",
   "citation": "McCrimmon RJ, Catarig AM, Frias JP, Lausvig NL, le Roux CW, Thielke D, et al. Effects of once-weekly semaglutide vs once-daily canagliflozin on body composition in type 2 diabetes: a substudy of the SUSTAIN 8 randomised controlled clinical trial. Diabetologia. 2020;63(3):473-485. doi:10.1007/s00125-019-05065-8. PMID: 31897524"
  },
  {
-  "n": 139,
+  "n": 143,
   "key": "GASTALDELLI2022",
   "pmid": "35468325",
   "doi": "10.1016/S2213-8587(22)00070-5",
   "citation": "Gastaldelli A, Cusi K, Fernández Landó L, Bray R, Brouwers B, Rodríguez Á. Effect of tirzepatide versus insulin degludec on liver fat content and abdominal adipose tissue in people with type 2 diabetes (SURPASS-3 MRI): a substudy of the randomised, open-label, parallel-group, phase 3 SURPASS-3 trial. Lancet Diabetes Endocrinol. 2022;10(6):393-406. doi:10.1016/S2213-8587(22)00070-5. PMID: 35468325"
  },
  {
-  "n": 140,
+  "n": 144,
   "key": "STEP6",
   "pmid": "35131037",
   "doi": "10.1016/S2213-8587(22)00008-0",
   "citation": "Kadowaki T, Isendahl J, Khalid U, Lee SY, Nishida T, Ogawa W, et al. Semaglutide once a week in adults with overweight or obesity, with or without type 2 diabetes in an east Asian population (STEP 6): a randomised, double-blind, double-dummy, placebo-controlled, phase 3a trial. Lancet Diabetes Endocrinol. 2022;10(3):193-206. doi:10.1016/S2213-8587(22)00008-0. PMID: 35131037"
  },
  {
-  "n": 141,
+  "n": 145,
   "key": "VANEYK2019",
   "pmid": "32127340",
   "doi": "10.1016/j.numecd.2019.12.005",
   "citation": "van Eyk HJ, Paiman EHM, Bizino MB, IJzermans SL, Kleiburg F, Boers TGW, et al. Liraglutide decreases energy expenditure and does not affect the fat fraction of supraclavicular brown adipose tissue in patients with type 2 diabetes. Nutr Metab Cardiovasc Dis. 2020;30(4):616-624. doi:10.1016/j.numecd.2019.12.005. PMID: 32127340"
  },
  {
-  "n": 142,
+  "n": 146,
   "key": "GOLUBIC2024",
   "pmid": "38562018",
   "doi": "10.1111/dom.15579",
